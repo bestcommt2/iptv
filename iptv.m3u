@@ -747,7 +747,12 @@ https://live1.thaitvstream.com/play/prachuapnews/index.m3u8
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1  group-title="เคเบิลไทย" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3525806_ico.png",เจริญเคเบิลทีวี
 https://cdn6.goprimetime.info/feed/202105171329/LC32/index.m3u8
-
+#EXTINF:-1  group-title="เคเบิลไทย" tvg-logo="",medianews
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+#EXTINF:-1  group-title="เคเบิลไทย" tvg-logo="",เพชรบูรณ์ทีวี PTV
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+EXTINF:-1  group-title="เคเบิลไทย" tvg-logo="",NKTV หนองคายทีวี
+http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8
 
 
 #EXTINF:-1  group-title="ข่าว"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",VoiceTV
