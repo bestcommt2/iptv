@@ -98,7 +98,9 @@ https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8|
 #EXTVLCOPT:http-origin=https://gdplayertv.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://idx.iptvfreemium.com/denslokal/h/h114/S4/mnf.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://img.inwiptv.net/postor/20230730104048Toon.jpg",FWcartoon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.inwiptv.net/postor/20230730104048Toon.jpg" group-title="ช่องเด็ก",FWcartoon
+#EXTVLCOPT:http-referrer=https://inwiptv.com/demo.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://inwiptv.com/player_demo.php?channel=89782
  
 -----------------------------------------------------------------------------------------
