@@ -72,11 +72,9 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0104/DASH/V0104.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd
 #EXTINF:-1 group-title="ช่องเด็ก" tvg-id="Cartoonito.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfNHB5eFRkd0pVczB3ZU5aS3hYaVkiLCJjaWQiOiJWMDExMyIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS0xCZzBqdVh1NEpuRG5KV1BHV1FYU2pqc091YzN2NFg3VG5ZUjRkczJLMSsiLCJ0aW1lc3RhbXAiOiIyMDIzLTEyLTEzVDAyOjE3OjM3WiIsImhhc2giOiJ0ZFk1dmdSeUN3WWhhaytxTmZnNlhYTnZLSlhsNDVLMy81Uld6eDc5ZUk4PSJ9
+#KODIPROP:inputstream.adaptive.license_key=d6a1b556425b6932c6ffe80e7a828e57:bd8ea11b338954c1746f45bcf851c91e
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0113/DASH/V0113.mpd
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-id="Cartoon Club" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",Cartoon Club
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd?
+
 #EXTINF:-1 group-title="ช่องเด็ก" tvg-id="nickjr" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
@@ -97,8 +95,6 @@ https://wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2Vy
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="ช่องเด็ก",Cartoon Network TH 
 https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8|Referer=https://freetvdd.com
-EXTINF:1 tvg-id="" group-title="ช่องเด็ก" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/xxyeq988g1wg0o04.png", TH - TR SPARK JUMP
-#http://45.139.122.199/play/live.php?mac=10:27:BE:15:b9:6e&stream=115529&,=ts&play_token=
 #EXTINF:-1 tvg-id="aniplus.th" group-title="ช่องเด็ก" tvg-logo="https://gdplayertv.top/assets/img/logo/aniplus.png", ANIPLUS
 #EXTVLCOPT:http-origin=https://gdplayertv.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
