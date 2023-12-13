@@ -661,7 +661,7 @@ http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&ts
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 #EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="3BBTV",TRUE4U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4eabd5db684248a98c5124fbb0687bde&key=d2f7a6f45b3c48678ca69c91d7823c25
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 #EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="3BBTV",3BB Asian
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -699,15 +699,15 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d0b58f6ba324ad5bf123a8098e3ad2f:45906f0ddd1e4c28ba9e9dc138d75da8
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
-#EXTINF:-0 group-title="3BBTV" tvg-logo="https://blingtv.net/channels/images/BALLTHAI_1.png", 3BB-BALLTHAI 1
+#EXTINF:-0 group-title="3BBTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", 3BB-BALLTHAI 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cnt1-streamer5.cdn.3bbtv.com:8443/3bb/tstv/901/901.mpd
-#EXTINF:-0 group-title="3BBTV" tvg-logo="https://blingtv.net/channels/images/BALLTHAI_2.png", 3BB-BALLTHAI 2
+#EXTINF:-0 group-title="3BBTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", 3BB-BALLTHAI 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/tstv/902/902.mpd
-#EXTINF:-0 group-title="3BBTV" tvg-logo="https://blingtv.net/channels/images/BALLTHAI_3.png", 3BB-BALLTHAI 3
+#EXTINF:-0 group-title="3BBTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", 3BB-BALLTHAI 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cnt1-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
