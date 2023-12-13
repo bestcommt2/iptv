@@ -307,7 +307,7 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/
 #EXTINF:-1 group-title="Sport" tvg-id="beinsports7ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",BEIN SPORTS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-https://49-2310-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/HLS/S0007.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="beinsports1thailand.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png", Bein Sports 1-laotv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
@@ -322,9 +322,6 @@ https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="beinsports2thailand.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png", Bein Sports  2-laotv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="beinsports3thailand.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png", Bein Sports 3-dooball2you
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="beinsports3thailand.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png", Bein Sports 3-livescorethai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
@@ -332,7 +329,7 @@ https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="beinsports3thailand.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",Bein Sports 3-livedoomovies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.comฟ
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="Sport",3BBSportOne
@@ -369,11 +366,11 @@ https://streaming-3.vip-streaming.com/ufabetcompany-live/true-premier-hd-2/chunk
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://streaming-3.vip-streaming.com/ufabetcompany-live/true-premier-hd-3/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="EPL-4ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-4ufa
+#EXTINF:-1 group-title="Sport" tvg-id="EPL-4ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4ufa
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://streaming-3.vip-streaming.com/ufabetcompany-live/true-premier-hd-4/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="EPL-5ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-5ufa
+#EXTINF:-1 group-title="Sport" tvg-id="EPL-5ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5ufa
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://streaming-3.vip-streaming.com/ufabetcompany-live/true-premier-hd-5/chunks.m3u8
