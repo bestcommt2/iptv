@@ -559,96 +559,75 @@ https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8
 
---------------------------------------------------------------------------------------
-###TRUE VISION NOW###
-
-#EXTINF:-1 group-title="TRUE VISION NOW " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey  #KODIPROP:inputstream.adaptive.license_key=e46b07f9049b58b99ffc24a6bc2d813b:6cbd92a4efad354681576eb76c29b9bb
-https://cdn732.stm.trueid.net/p101daidrm/he003_multi_w_auto_wv_tidapp.smil/manifest_w275682877_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPWIxUmtVSGhrVEZBNGIxWm9SM0pSZDFWbVdWbFhVV1JFYmxkT2VVUmtjREkmc2lkPTI0ZmI2OGU1NjUmcnQ9MTcwMjM1MDQ2NSZkcz04NjQwMCZ0az1qVzNmekxJWU1yOThjVWYzWmtQd3dEQkVtWVBRZWotOFpOTl9Wb0VYLWNr.mpd
-
-#EXTINF:-1 group-title="TRUE VISION NOW " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
-https://cdn133.stm.trueid.net/p101daidrm/he003_multi_w_auto_wv_tidapp.smil/manifest_w2145289527_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPWIxUmtVSGhrVEZBNGIxWm9SM0pSZDFWbVdWbFhVV1JFYmxkT2VVUmtjREkmc2lkPTQzNjQ4ZGUwZmMmcnQ9MTcwMjM1MDIyNyZkcz04NjQwMCZ0az1YSm5VQzhqMWRjWWZXY3JHVDNaZ0tBUUZlMktwU2FjUmo3UWxpNXBpbVRz.mpd
-
-#EXTINF:-1 group-title="TRUE VISION NOW " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
-https://cdn730.stm.trueid.net/p101drm/he004_multi_w_auto_wv_tidapp.smil/manifest_w1083070583_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPWIxUmtVSGhrVEZBNGIxWm9SM0pSZDFWbVdWbFhVV1JFYmxkT2VVUmtjREkmc2lkPWZiMDYwYTNlMGYmcnQ9MTcwMjM1MDE0OCZkcz04NjQwMCZ0az0xLXNaczNXU2JEa3hTamRMSU01WjFQS0VPS0JjYV9aUENSQklUcnZHWmd3.mpd
-
-
-
 
 --------------------------------------------------------------------------------------
-###ทรูวิชชั่นทีวี###
+###TRUE VISION TV###
 
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="Rock_Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_177.jpg",Rock_Entertainment
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Rock_Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_177.jpg",Rock_Entertainment
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDM6MTM6NDMgQU0maGFzaF92YWx1ZT1xaVNUNFhRQjhCQXZGQy9PbjdEVVVRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA3MjI=
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",A True_Series
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",A True_Series
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",True Movie Hits-1
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",True Movie Hits-1
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
 https://ctrl.laotv.la/live/TureFilm/index.m3u8
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115667&extension=ts&play_token
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="3BBTV",3BB Asian
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="TrueThaiFilm" tvg-logo="https://img2.pic.in.th/pic/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_originalf06065ca0f1a0890.png",TrueThaiFilm
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TrueThaiFilm" tvg-logo="https://img2.pic.in.th/pic/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_originalf06065ca0f1a0890.png",TrueThaiFilm
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wacthstream.com/stream_live/236_TrueThaiFilmHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDM6NTI6NTkgQU0maGFzaF92YWx1ZT0xaFZlUC92MFliSitqV1JuMTdkZ0pBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODg1OTg=
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="Life Time" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png",Life Time-freetvdd
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Life Time" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png",Life Time-freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8?|Referer=https://freetvdd.com
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="True Film 1HD" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/wrtertetethetahhea.webp",True Film 1HD
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 1HD" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/wrtertetethetahhea.webp",True Film 1HD
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="TVB" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvb.png",TVB-freetvdd
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TVB" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvb.png",TVB-freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/sd-tvb.stream/playlist.m3u8
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="KBS World" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/c090a550-decd-4d35-9248-9d1f35403e44.png",KBS World-laotv
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="KBS World" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/c090a550-decd-4d35-9248-9d1f35403e44.png",KBS World-laotv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://ctrl.laotv.la/live/KBS/index.m3u8
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="Life Time" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png",Life Time-freetvdd
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Life Time" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png",Life Time-freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="TrueInsideHD" tvg-logo="http://tvsmagazine.com/images/channels/sm_040.jpg" group-title="ทรูวิชชั่นทีวี",TR INSIDE-freetvdd 
+#EXTINF:-0 tvg-id="" tvg-name="TrueInsideHD" tvg-logo="http://tvsmagazine.com/images/channels/sm_040.jpg" group-title="TRUE VISION TV",TRUE INSIDE-freetvdd 
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="True X-Zyte" tvg-logo="https://img2.pic.in.th/pic/46fb6170-e599-11ed-b606-c19576cb8b29_webp_original.png",True X-Zyte-freetvdd
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True X-Zyte" tvg-logo="https://img2.pic.in.th/pic/46fb6170-e599-11ed-b606-c19576cb8b29_webp_original.png",True X-Zyte-freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="AXN" tvg-logo="https://img2.pic.in.th/pic/oie_943026LIiDsCeb.png",AXN-freetvdd
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="AXN" tvg-logo="https://img2.pic.in.th/pic/oie_943026LIiDsCeb.png",AXN-freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="True AsianMore" tvg-logo="https://img2.pic.in.th/pic/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png",True Asian More
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True AsianMore" tvg-logo="https://img2.pic.in.th/pic/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png",True Asian More
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wacthstream.com/stream_live/240_True_Series/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDI6NTU6MDcgQU0maGFzaF92YWx1ZT1uMDd3dnVoUFZRZzROZmlvV25Ia0dBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTU2OTk=
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="True_Series" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/stjrykykarykrkrkry.webp",True_Series-freetvdd
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True_Series" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/stjrykykarykrkrkry.webp",True_Series-freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
-#EXTINF:-1 group-title="ทรูวิชชั่นทีวี" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="ทรูวิชชั่นทีวี",True Film Asia
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="TRUE VISION TV",True Film Asia
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://wacthstream.com/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDU6MDQ6MjYgQU0maGFzaF92YWx1ZT15bEdnTnpWV1p2WTl6Sk83RWFyWm53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODI2NDM=
-#EXTINF:-0 tvg-id="tvN" tvg-name="Entertainment" tvg-logo="https://truevisions.co.th/static/891ab984-b696-4284-a9df-9cb412fe8c84.png" group-title="ทรูวิชชั่นทีวี",TVN HD
+#EXTINF:-0 tvg-id="tvN" tvg-name="Entertainment" tvg-logo="https://truevisions.co.th/static/891ab984-b696-4284-a9df-9cb412fe8c84.png" group-title="TRUE VISION TV",TVN HD
 https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw|Referer=https://streaming.livescorethai.net
 http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9
 
