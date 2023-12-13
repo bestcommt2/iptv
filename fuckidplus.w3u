@@ -501,7 +501,7 @@ https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8|referer=
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="SAT-ASIA TV CSAT" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17815677_ico.png",SAT-ASIA TV CSAT
 http://xtreamhd.ddns.net:9981/stream/mux/5466132886624b1b64cb56310b653002?ticket=7B935BB095C0670041252BCBB6CE2330A97FE3D8
-EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://i.imgur.com/7M6WYVm.png" group-title="หนังภาพยนตร์",Thrill
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://i.imgur.com/7M6WYVm.png" group-title="หนังภาพยนตร์",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="NK TV" tvg-logo="https://img2.pic.in.th/pic/oie_3123588Cg7SBeC.jpeg",NK TV
