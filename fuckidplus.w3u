@@ -718,15 +718,15 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d0b58f6ba324ad5bf123a8098e3ad2f:45906f0ddd1e4c28ba9e9dc138d75da8
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
-#EXTINF:-0 group-title="3BBTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", 3BB-BALLTHAI 1
+#EXTINF:-0 group-title="AIS SPORTS" tvg-logo="https://blingtv.net/channels/images/BALLTHAI_1.png", 3BB-BALLTHAI 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cnt1-streamer5.cdn.3bbtv.com:8443/3bb/tstv/901/901.mpd
-#EXTINF:-0 group-title="3BBTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", 3BB-BALLTHAI 2
+#EXTINF:-0 group-title="AIS SPORTS" tvg-logo="https://blingtv.net/channels/images/BALLTHAI_2.png", 3BB-BALLTHAI 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/tstv/902/902.mpd
-#EXTINF:-0 group-title="3BBTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", 3BB-BALLTHAI 3
+#EXTINF:-0 group-title="AIS SPORTS" tvg-logo="https://blingtv.net/channels/images/BALLTHAI_3.png", 3BB-BALLTHAI 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cnt1-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
