@@ -79,19 +79,17 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0113/DASH/V0113.mpd
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd?
 #EXTINF:-1 group-title="ช่องเด็ก" tvg-id="nickjr" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfNHB5eFRkd0pVczB3ZU5aS3hYaVkiLCJjaWQiOiJWMDExMyIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS0xCZzBqdVh1NEpuRG5KV1BHV1FYU2pqc091YzN2NFg3VG5ZUjRkczJLMSsiLCJ0aW1lc3RhbXAiOiIyMDIzLTEyLTEzVDAyOjE3OjM3WiIsImhhc2giOiJ0ZFk1dmdSeUN3WWhhaytxTmZnNlhYTnZLSlhsNDVLMy81Uld6eDc5ZUk4PSJ9
+#KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
 #EXTINF:-1 group-title="ช่องเด็ก" tvg-id="nickelodeonasia.sg" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfNHB5eFRkd0pVczB3ZU5aS3hYaVkiLCJjaWQiOiJWMDExMyIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS0xCZzBqdVh1NEpuRG5KV1BHV1FYU2pqc091YzN2NFg3VG5ZUjRkczJLMSsiLCJ0aW1lc3RhbXAiOiIyMDIzLTEyLTEzVDAyOjE3OjM3WiIsImhhc2giOiJ0ZFk1dmdSeUN3WWhhaytxTmZnNlhYTnZLSlhsNDVLMy81Uld6eDc5ZUk4PSJ9
+#KODIPROP:inputstream.adaptive.license_key=34cf6695d9082bc5b4687e59d61b48d2:64e30dc5efbacf1f3fd344a01ba2f906
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0187/DASH/V0187.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="ช่องเด็ก",DreamWorks 
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/448_DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDI6MjY6MjkgQU0maGFzaF92YWx1ZT1Rc1BPWFlGQmt2RzVpZE1EN2xGbThBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDI3ODE=
-#EXTINF:-1 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="ช่องเด็ก",True SPARK PLAY
-http://kungtv.net/play/live.php?mac=00:1A:79:BF:E6:64&stream=115784&extension=ts&play_token
-#EXTINF:1 tvg-id="" group-title="ช่องเด็ก" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/xxyeq988g1wg0o04.png", True 1 SPARK JUMP
+#EXTINF:1 tvg-id="" group-title="ช่องเด็ก" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/xxyeq988g1wg0o04.png", True SPARK PLAY
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDI6Mzc6MDMgQU0maGFzaF92YWx1ZT0yUC80L29zQWRjQktrNmpwR3E3WktBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDUwNTk=
 #EXTINF:-1 tvg-id="ZooMoo.th" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/olzqUL2.jpg" group-title="ช่องเด็ก",ZooMoo
