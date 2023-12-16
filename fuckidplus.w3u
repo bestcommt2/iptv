@@ -622,19 +622,19 @@ https://tv.trueid.net/th-th/embed/true-music-channel-hd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36h
 https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8
 https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=sd-expwild&api_key=n3uf98s
-#EXTINF:-1 group-title="True Explorer SCI" tvg-id="True X-Zyte" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp",True Explorer SCI
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True X-Zyte" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp",True Explorer SCI
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/sd-expsci.stream/playlist.m3u8
 https://2nud.short.gy/truesci.m3u8
 https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=th-expsci&api_key=n3uf98s
-#EXTINF:-1 group-title="True Explorer LIFE" tvg-id="True X-Zyte" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp",True Explorer LIFE
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True X-Zyte" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp",True Explorer LIFE
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/sd-explife.stream/playlist.m3u8
 https://2nud.short.gy/truelife.m3u8
 https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=th-explife&api_key=n3uf98s
-#EXTINF:-1 group-title="HISTORY HD" tvg-id="HISTORY HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_320.webp",HISTORY HD
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="HISTORY HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_320.webp",HISTORY HD
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
