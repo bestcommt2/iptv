@@ -587,53 +587,121 @@ https://ctrl.laotv.la/live/TureFilm/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115667&extension=ts&play_token
 https://streaming.livescorethai.net/iptv/hd-tfilm2.stream/playlist.m3u8
+http://playtv.my.id/play/truefilm2.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TrueThaiFilm" tvg-logo="https://img2.pic.in.th/pic/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_originalf06065ca0f1a0890.png",TrueThaiFilm
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wacthstream.com/stream_live/236_TrueThaiFilmHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDM6NTI6NTkgQU0maGFzaF92YWx1ZT0xaFZlUC92MFliSitqV1JuMTdkZ0pBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODg1OTg=
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True AsianMore" tvg-logo="https://img2.pic.in.th/pic/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png",True Asian More
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://wacthstream.com/stream_live/240_True_Series/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDI6NTU6MDcgQU0maGFzaF92YWx1ZT1uMDd3dnVoUFZRZzROZmlvV25Ia0dBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTU2OTk=
+http://playtv.my.id/play/asianmoresd.m3u8
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="TRUE VISION TV",True Film Asia
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://wacthstream.com/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDU6MDQ6MjYgQU0maGFzaF92YWx1ZT15bEdnTnpWV1p2WTl6Sk83RWFyWm53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODI2NDM=
+#EXTINF:-1 tvg-id="" tvg-name="TrueInsideHD" tvg-logo="http://tvsmagazine.com/images/channels/sm_040.jpg" group-title="TRUE VISION TV",TRUE INSIDE-freetvdd 
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8
+https://sv2.wacthstream.com/wacth_tv/335_TrueInsideHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
+https://tv.trueid.net/th-th/live/true-inside-hd
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True X-Zyte" tvg-logo="https://img2.pic.in.th/pic/46fb6170-e599-11ed-b606-c19576cb8b29_webp_original.png",True X-Zyte-freetvdd
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRUE-MUSIC" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-music-hd.webp" group-title="TRUE VISION TV",TRUE-MUSIC
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sv2.wacthstream.com/wacth_tv/357_TrueMusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
+https://tv.trueid.net/th-th/embed/true-music-channel-hd
+#EXTINF:-1 tvg-id="" tvg-name="True Explorer Wild" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_320.webp" group-title="TRUE VISION TV",True Explorer Wild
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36h
+https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8
+https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=sd-expwild&api_key=n3uf98s
+#EXTINF:-1 group-title="True Explorer SCI" tvg-id="True X-Zyte" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp",True Explorer SCI
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://streaming.livescorethai.net/iptv/sd-expsci.stream/playlist.m3u8
+https://2nud.short.gy/truesci.m3u8
+https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=th-expsci&api_key=n3uf98s
+#EXTINF:-1 group-title="True Explorer LIFE" tvg-id="True X-Zyte" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp",True Explorer LIFE
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://streaming.livescorethai.net/iptv/sd-explife.stream/playlist.m3u8
+https://2nud.short.gy/truelife.m3u8
+https://playerembed-lb.blackboxsys.net/player_p2p.php?channel=th-explife&api_key=n3uf98s
+#EXTINF:-1 group-title="HISTORY HD" tvg-id="HISTORY HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_320.webp",HISTORY HD
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-historyeng.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Paramount.th" tvg-name="Paramount" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-paramount-hd.webp" group-title="TRUE VISION TV",Paramount
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://sv2.wacthstream.com/wacth_tv/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-crime+investigation.webp" group-title="TRUE VISION TV",Crime+Investigation
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://sv2.wacthstream.com/wacth_tv/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="warnertv" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",warnertv
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8?|Referer=https://freetvdd.com
-
-
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TVB" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvb.png",TVB-freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/sd-tvb.stream/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="KBS World" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/c090a550-decd-4d35-9248-9d1f35403e44.png",KBS World-laotv
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="KBS World" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230916/video/c090a550-decd-4d35-9248-9d1f35403e44.png",KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://sv2.wacthstream.com/wacth_tv/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
 https://ctrl.laotv.la/live/KBS/index.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Life Time" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png",Life Time-freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="TrueInsideHD" tvg-logo="http://tvsmagazine.com/images/channels/sm_040.jpg" group-title="TRUE VISION TV",TRUE INSIDE-freetvdd 
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True X-Zyte" tvg-logo="https://img2.pic.in.th/pic/46fb6170-e599-11ed-b606-c19576cb8b29_webp_original.png",True X-Zyte-freetvdd
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="AXN" tvg-logo="https://img2.pic.in.th/pic/oie_943026LIiDsCeb.png",AXN-freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True AsianMore" tvg-logo="https://img2.pic.in.th/pic/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png",True Asian More
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/240_True_Series/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDI6NTU6MDcgQU0maGFzaF92YWx1ZT1uMDd3dnVoUFZRZzROZmlvV25Ia0dBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTU2OTk=
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True_Series" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/stjrykykarykrkrkry.webp",True_Series-freetvdd
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="TRUE VISION TV",True Film Asia
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDU6MDQ6MjYgQU0maGFzaF92YWx1ZT15bEdnTnpWV1p2WTl6Sk83RWFyWm53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODI2NDM=
-#EXTINF:-0 tvg-id="tvN" tvg-name="Entertainment" tvg-logo="https://truevisions.co.th/static/891ab984-b696-4284-a9df-9cb412fe8c84.png" group-title="TRUE VISION TV",TVN HD
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://truevisions.co.th/static/891ab984-b696-4284-a9df-9cb412fe8c84.png" group-title="TRUE VISION TV",TVN HD
 https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw|Referer=https://streaming.livescorethai.net
 http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="FoodNetwork" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-food-network.webp",FoodNetwork
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-foodeng.stream/playlist.m3u8?|Referer=https://freetvdd.com
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-bbc-lifestyle.webp" group-title="TRUE VISION TV",BBCLifestyle
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://sv2.wacthstream.com/wacth_tv/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="BBC CEARTH" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0",BBC CEARTH
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="AFN Network" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-afn.webp",AFN Network
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="ROCK ACTION HD" tvg-name="ROCK ACTION HD" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-rock-extreame.webp" group-title="TRUE VISION TV",ROCK ACTION HD
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://sv2.wacthstream.com/wacth_tv/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Lifetime" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-lifetime.webp",Lifetime
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png" group-title="TRUE VISION TV",Discovery
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://sv2.wacthstream.com/wacth_tv/562_Discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TLC" tvg-name="TLC" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e3c376d0-fb8a-11ed-82d8-75b5e95c0f8a_webp_320.webp" group-title="TRUE VISION TV",TLC
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://sv2.wacthstream.com/wacth_tv/566_TLC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
 
 
 --------------------------------------------------------------------------------------
