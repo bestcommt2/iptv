@@ -376,24 +376,19 @@ https://wacthstream.com/stream_live/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 group-title=&quot;Sport&quot; tvg-id=&quot;truepremierfootball5.th&quot; tvg-logo=&quot;https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd5.jpg&quot;,EPL-5
 https://wacthstream.com/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDE6NDc6NTEgUE0maGFzaF92YWx1ZT1acVd1dDdDcDVDVFRCYVpQTDgvYW9BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDM3NDA=|Referer=https://wacth.tv
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-1ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1ufa
-#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf1/playlist.m3u8|referer=https://www.andaman888th.com/
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-2ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2ufa
-#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf2/playlist.m3u8?|referer=https://www.andaman888th.com/
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-3ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3ufa
-#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf3/playlist.m3u8|referer=https://www.andaman888th.com/
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-4ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4ufa
-#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf4/playlist.m3u8|referer=https://www.andaman888th.com/
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-5ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5ufa
-#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf5/playlist.m3u8|referer=https://www.andaman888th.com/
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-1freetvdd" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com
@@ -438,20 +433,36 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8?|Refere
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-5dooball2you" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5dooball2you
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8?|Referer=https://dooball2you.com/
-#EXTINF:-1 group-title=&quot;Sport&quot; tvg-id=&quot;truepremierfootball1.th&quot; tvg-logo=&quot;https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.jpg&quot;, EPL-1
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball1.th" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.jpg",EPL-1
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD1_chunklist.m3u8
-#EXTINF:-1 group-title=&quot;Sport&quot; tvg-id=&quot;truepremierfootball1.th&quot; tvg-logo=&quot;https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.jpg&quot;, EPL-1
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball2.th" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd2.jpg",EPL-2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD2_chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball3.th" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd3.jpg",EPL-3
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD3_chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball4.th" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd4.jpg",EPL-4
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD4_chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball5.th" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd5.jpg&",EPL-5
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD5_chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball1.th" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.jpg",EPL-1
 https://2nud.short.gy/tpf1.m3u8
 https://2nud.short.gy/tpf1b.m3u8
-#EXTINF:-1 group-title=&quot;Sport&quot; tvg-id=&quot;truepremierfootball2.th&quot; tvg-logo=&quot;https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd2.jpg&quot;,EPL-2
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball2.th" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd2.jpg",EPL-2
 https://2nud.short.gy/tpf2b.m3u8
-#EXTINF:-1 group-title=&quot;Sport&quot; tvg-id=&quot;truepremierfootball3.th&quot; tvg-logo=&quot;https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd3.jpg&quot;,EPL-3
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball3.th" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd3.jpg",EPL-3
 https://2nud.short.gy/epl3.m3u8
-#EXTINF:-1 group-title=&quot;Sport&quot; tvg-id=&quot;truepremierfootball4.th&quot; tvg-logo=&quot;https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd4.jpg&quot;,EPL-4
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball4.th" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd4.jpg",EPL-4
 https://2nud.short.gy/epl4.m3u8
-#EXTINF:-1 group-title=&quot;Sport&quot; tvg-id=&quot;truepremierfootball5.th&quot; tvg-logo=&quot;https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd5.jpg&quot;,EPL-5
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball5.th" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd5.jpg",EPL-5
 https://2nud.short.gy/epl5.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 1 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-dooball2you
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
