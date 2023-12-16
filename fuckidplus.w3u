@@ -435,19 +435,21 @@ https://2nud.short.gy/epl4.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball5.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5
 https://2nud.short.gy/epl5.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1wacth
+#EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/600_eng1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDE6NDY6MDggUE0maGFzaF92YWx1ZT12a2FDdzZveWZTdGFjY0R2b2syaW53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTI5NzM=|Referer=https://wacth.tv
+https://sv2.wacthstream.com/wacth_tv/600_eng1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2wacth
-https://wacthstream.com/stream_live/602_eng2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDE6NDY6MzcgUE0maGFzaF92YWx1ZT1aeldtK2xjYVc0SUVTQi9kQ2RvakhBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDMzODA=|Referer=https://wacth.tv
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://sv2.wacthstream.com/wacth_tv/602_eng2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/603_eng3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDE6NDc6MDMgUE0maGFzaF92YWx1ZT1QR0NmTXhOMElyOFhackFzdDcxc053PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzc4MjE=
+https://sv2.wacthstream.com/wacth_tv/603_eng3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDE6NDc6MzYgUE0maGFzaF92YWx1ZT0yalUrQldVK2wrUGhCbjkyRi9rOGZRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODI2MjQ=|Referer=https://wacth.tv
+https://sv2.wacthstream.com/wacth_tv/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5wacth
-https://wacthstream.com/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDE6NDc6NTEgUE0maGFzaF92YWx1ZT1acVd1dDdDcDVDVFRCYVpQTDgvYW9BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDM3NDA=|Referer=https://wacth.tv
-#EXTINF:-1 group-title="Sport" tvg-id="EPL-1ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1ufa
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://sv2.wacthstream.com/wacth_tv/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf1/playlist.m3u8|referer=https://www.andaman888th.com/
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-2ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2ufa
