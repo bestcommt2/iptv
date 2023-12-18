@@ -594,10 +594,6 @@ http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 http://kungtv.net/play/live.php?mac=00:1A:79:BF:E6:64&stream=115630&extension=ts&play_token
 http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115630&extension=ts&play_token
-#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",True Movie Hits-freetvdd
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 #EXTINF:-0 group-title="หนังภาพยนตร์" tvg-id="" tvg-logo="https://lh3.ggpht.com/sgKSvsh_97MW98v4ohtnP5FLSRKjNqegnCICTE6SKm15yGx5Vobb0_spt6qCAVA59Q=w300", Channel8 THAILAND
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 
