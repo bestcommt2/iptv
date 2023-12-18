@@ -801,7 +801,18 @@ https://cnt1-streamer5.cdn.3bbtv.com:8443/3bb/tstv/901/901.mpd
 https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/tstv/902/902.mpd
 #EXTINF:-1 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png" group-title="3BBTV",3BB-BALLTHAI 3
 https://cnt1-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
-
+#EXTINF:-0 group-title="3BBTV" tvg-logo="https://blingtv.net/channels/images/BALLTHAI_1.png", 3BB-BALLTHAI 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://cnt1-streamer5.cdn.3bbtv.com:8443/3bb/tstv/901/901.mpd
+#EXTINF:-0 group-title="3BBTV" tvg-logo="https://blingtv.net/channels/images/BALLTHAI_2.png", 3BB-BALLTHAI 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/tstv/902/902.mpd
+#EXTINF:-0 group-title="3BBTV" tvg-logo="https://blingtv.net/channels/images/BALLTHAI_3.png", 3BB-BALLTHAI 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://cnt1-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
 
 
 --------------------------------------------------------------------------------------
@@ -1062,9 +1073,18 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0192/DASH/V0192.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2355ee65664e0b7fc02e7d389e1d2658:a935ccb1065ffe214823aae414f8b257
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0193/DASH/V0193.mpd
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//EUROSPORT.png" group-title="AIS PLAY", EUROSPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.realmetx.repl.co/Ch/license/eurosport.html
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0184/DASH/V0184.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="AIS PLAY", cartoonnetwork
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfMm9tYmo1VFNNOHRpN09welBaamMiLCJjaWQiOiJYMTcxIiwidG9rZW4iOiI2aldidEJYb0x2bzVqWFNwZm40c1dUMHJUNEZHanErbVljL2VvT2VDSkpnSE5ZTW4vMXFrSDN1cVdTei81TW5nNUVYdVo1Mm5zK05aUW5Nekl1TWZLSFBiTFJWY2NiU2p1TVkwYldpbFE0N085QW1iZy8wSERSTXpJS3VtK2dLMiIsInRpbWVzdGFtcCI6IjIwMjMtMTItMThUMDY6NDI6MzdaIiwiaGFzaCI6IjBEZ1NzbHpDbWZCTHhRM3o2WTM0REt1YUpEcXZuZ3A1Smd3Sm01UzNvMm89In0=
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.pngg" group-title="AIS PLAY", boomerang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfMm9tYmo1VFNNOHRpN09welBaamMiLCJjaWQiOiJYMTcxIiwidG9rZW4iOiI2aldidEJYb0x2bzVqWFNwZm40c1dUMHJUNEZHanErbVljL2VvT2VDSkpnSE5ZTW4vMXFrSDN1cVdTei81TW5nNUVYdVo1Mm5zK05aUW5Nekl1TWZLSFBiTFJWY2NiU2p1TVkwYldpbFE0N085QW1iZy8wSERSTXpJS3VtK2dLMiIsInRpbWVzdGFtcCI6IjIwMjMtMTItMThUMDY6NDI6MzdaIiwiaGFzaCI6IjBEZ1NzbHpDbWZCTHhRM3o2WTM0REt1YUpEcXZuZ3A1Smd3Sm01UzNvMm89In0=
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/DASH/V0104.mpd
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
