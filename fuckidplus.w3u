@@ -536,9 +536,12 @@ https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8|referer=
 --------------------------------------------------------------------------------------
 ###Movies###
 
-
-#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="CTB" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3492090_ico.png",CTB
-http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27377637_ico.png",fuck id movie 1
+http://45.91.133.39/play/tHF1QVCj8HRSuXInh3zPo2mm1qFS87ofll_NVrV8AUwb-ypoKTxN6bL9850AGXub/ts
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613877_ico.png",fuck id movie 2
+http://45.91.133.39/play/tHF1QVCj8HRSuXInh3zPo2mm1qFS87ofll_NVrV8AUy0HvpNIc7ltxNdCAzzuSrU/ts
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613866_ico.png?ts=1702874579",fuck id movie 3
+http://45.91.133.39/play/tHF1QVCj8HRSuXInh3zPo2mm1qFS87ofll_NVrV8AUxTd9XfU07orAMypchhXV03/ts
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="SAT-ASIA TV CSAT" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17815677_ico.png",SAT-ASIA TV CSAT
 http://xtreamhd.ddns.net:9981/stream/mux/5466132886624b1b64cb56310b653002?ticket=7B935BB095C0670041252BCBB6CE2330A97FE3D8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/7M6WYVm.png" ,Thrill
