@@ -727,12 +727,13 @@ https://sv2.wacthstream.com/wacth_tv/562_Discovery/playlist.m3u8?wmsAuthSign=c2V
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://sv2.wacthstream.com/wacth_tv/566_TLC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
-#EXTINF:1 tvg-id="" group-title="TRUE VISION TV" tvg-logo="hhttps://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png", Cartoon Netwrk
+#EXTINF:1 tvg-id="" group-title="TRUE VISION TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0171.png", Cartoon Netwrk
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://sv2.wacthstream.com/wacth_tv/449_Carton_Netwrk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDI6MDg6MTUgUE0maGFzaF92YWx1ZT1VUGo1aVdwYjkwOGlRTXhZWjMySFlRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTI4MTg=
-#EXTINF:1 tvg-id="" group-title="TRUE VISION TV" tvg-logo="https://sv2.wacthstream.com/wacth_tv/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDI6MDg6MTUgUE0maGFzaF92YWx1ZT1VUGo1aVdwYjkwOGlRTXhZWjMySFlRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTI4MTg=", GEM
+#EXTINF:1 tvg-id="" group-title="TRUE VISION TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5023852_ico.png", GEM
 https://sv2.wacthstream.com/wacth_tv/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDI6MDg6MTUgUE0maGFzaF92YWx1ZT1VUGo1aVdwYjkwOGlRTXhZWjMySFlRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTI4MTg=
-
+#EXTINF:1 tvg-id="" group-title="TRUE VISION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png", OVE Nature 4K
+https://sv2.wacthstream.com/wacth_tv/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDI6MDg6MTUgUE0maGFzaF92YWx1ZT1VUGo1aVdwYjkwOGlRTXhZWjMySFlRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTI4MTg=
 
 --------------------------------------------------------------------------------------
 ###3BBTV###
