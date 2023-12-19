@@ -1107,6 +1107,11 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0184/DASH/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfMm9tYmo1VFNNOHRpN09welBaamMiLCJjaWQiOiJYMTcxIiwidG9rZW4iOiI2aldidEJYb0x2bzVqWFNwZm40c1dUMHJUNEZHanErbVljL2VvT2VDSkpnSE5ZTW4vMXFrSDN1cVdTei81TW5nNUVYdVo1Mm5zK05aUW5Nekl1TWZLSFBiTFJWY2NiU2p1TVkwYldpbFE0N085QW1iZy8wSERSTXpJS3VtK2dLMiIsInRpbWVzdGFtcCI6IjIwMjMtMTItMThUMDY6NDI6MzdaIiwiaGFzaCI6IjBEZ1NzbHpDbWZCTHhRM3o2WTM0REt1YUpEcXZuZ3A1Smd3Sm01UzNvMm89In0=
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd
+#EXTINF:-1 tvg-id="NBT2.th" tvg-name="AIS thaimixais" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28300335_ico.png" group-title="AIS PLAY",AIS thaimixais
+https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V1003/HLS/V1003.m3u8
+#EXTINF:-1 tvg-id="NBT2.th" tvg-name="AIS GolfRealityais" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28300373_ico.png" group-title="AIS PLAY",AIS GolfRealityais
+https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V1002/HLS/V1002.m3u8
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
