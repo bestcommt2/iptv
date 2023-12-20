@@ -275,23 +275,24 @@ https://cdn.dooball66.xyz/ballmun_live/sd5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ballmun.com
 https://cdn.dooball66.xyz/ballmun_live/sd4/playlist.m3u8
 
------------------------------------------------------------------------------------------------------------------------------------
-###SPORT###
-
-#EXTINF:-1 group-title="Sport " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey  
-#KODIPROP:inputstream.adaptive.license_key=https://tv.realmetx.repl.co/Ch/license/truesport.html
+#EXTINF:-1 group-title="LIVESPORT " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey  #KODIPROP:inputstream.adaptive.license_key=https://tv.realmetx.repl.co/Ch/license/truesport.html
 https://cdn125.stm.trueid.net/p101daidrm/he003_multi_w_auto_wv_tidapp.smil/manifest_w245833663_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPVYybFBTWEZmY0VsbVJIUnNaM2RvZFdsR01UaEVObVpVTFhkU2RYRmZhbXMmc2lkPWE3ZDlkOGM4NTMmcnQ9MTcwMzAwMDIzNiZkcz04NjQwMCZ0az1wX1lVTERsZkZTeFBLN08yVF9Dc3FuVE5iVVZYZHhJTkw3cGdqVkF2TVZN.mpd
 
-#EXTINF:-1 group-title="Sport " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
+#EXTINF:-1 group-title="LIVESPORT " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
 https://cdn101.stm.trueid.net/p101drm/he004_multi_w_auto_wv_tidapp.smil/manifest_w78785291_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPVYybFBTWEZmY0VsbVJIUnNaM2RvZFdsR01UaEVObVpVTFhkU2RYRmZhbXMmc2lkPTRkNzBmYjYzMDEmcnQ9MTcwMzAwMDI1NyZkcz04NjQwMCZ0az1kMm50RWRBRDZ1ZGd1eVpOSFMwZk1hX1pRc0NYVUpEQmZ4NDZRNVBER0k0.mpd
 
-#EXTINF:-1 group-title="Sport " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
+#EXTINF:-1 group-title="LIVESPORT " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
 https://cdn725.stm.trueid.net/p201drm/he005_multi_w_auto_wv_tidapp.smil/manifest_w534757089_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPVYybFBTWEZmY0VsbVJIUnNaM2RvZFdsR01UaEVObVpVTFhkU2RYRmZhbXMmc2lkPWNmNmZmY2ZiMjUmcnQ9MTcwMzAwMDI3NCZkcz04NjQwMCZ0az1PYi1VNHhDQlZQQVZvVEUwMmJvTWlpbnBaRHZuMHhtN3JlMllnY3NFRUdj.mpd
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+###SPORT###
+
 
 #EXTINF:-1 group-title="Sport" tvg-id="Eurosport" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3475078_ico.png", Eurosport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
