@@ -1413,3 +1413,9 @@ https://ctrl.laotv.la/live/PSTV/index.m3u8
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 
 
+#EXTINF:-0 tvg-id="tvbs" tvg-name="test" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVBS.png" group-title="test", test
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 group-title="test" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png",Aniplus
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
