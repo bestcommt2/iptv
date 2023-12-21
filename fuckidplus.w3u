@@ -573,7 +573,7 @@ http://xtreamhd.ddns.net:9981/stream/mux/5466132886624b1b64cb56310b653002?ticket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="NK TV" tvg-logo="https://img2.pic.in.th/pic/oie_3123588Cg7SBeC.jpeg",NK TV
-http://43.228.86.116:9898/stream/nktv.stream/playlist.m3u8
+http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="TVB Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",TVB Thai
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
@@ -687,11 +687,17 @@ https://sv2.wacthstream.com/wacth_tv/560_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="True Explore SCI (EN)" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-sci.png" group-title="TRUE VISION TV",True Explore SCI (EN)
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36h
-https://streaming.livescorethai.net/iptv/sd-expscieng.stream/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/561_TRUE_EXPLORE_SCI/playlist.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="HISTORY HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_320.webp",HISTORY HD
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://sv2.wacthstream.com/wacth_tv/556_History/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDI6MDg6MTUgUE0maGFzaF92YWx1ZT1VUGo1aVdwYjkwOGlRTXhZWjMySFlRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTI4MTg=
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20231214211508kmtv.png", KMTV 
+https://wacthstream.com/stream_live/347_KMTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMyA2OjE2OjA4IFBNJmhhc2hfdmFsdWU9bEVadi9ZY0pjVVNXbXZlUWdMZUp0dz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzMwMjE0|Referer=https://wacth.tv
+#EXTINF:-0 tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e13eeed0-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="TRUE VISION TV",KBS World
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMyA2OjIzOjU2IFBNJmhhc2hfdmFsdWU9SW5DUWVPT0kyZWQvQnBpeWpRY1VaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzI1Njg2
+
 
 
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Paramount.th" tvg-name="Paramount" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-paramount-hd.webp" group-title="TRUE VISION TV",Paramount
@@ -926,6 +932,9 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd
 #EXTINF:-1 tvg-name="AIS PLAY SPORTS 1" tvg-id="AIS PLAY SPORTS 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS1.png" group-title="AIS PLAY", AIS PLAY SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd
+#EXTINF:-1 tvg-id="NHKWorldPremium" , group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png",NHK World Premium
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/HLS/V0102.m3u8
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="Boomerang" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png", Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
@@ -1045,6 +1054,12 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dca989ef784fa310300fa21c893dbcf3:fb9068e0516852ee0ec251605322e549
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0168/DASH/V0168.mpd
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="" tvg-logo="hhttps://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" group-title="AIS PLAY",CNN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#http://playtv.my.id/play/cnn.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tv.realmetx.repl.co/Ch/license/cnn.html
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0172/DASH/V0172.mpd
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="CCTV4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png",CCTV4
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0173/DASH/V0173.mpd
@@ -1339,83 +1354,351 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC25/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC28/index.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-###ลาวทีวี###
+###สถานีทองถิ่นไทย### 
 
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230803/video/fcc4c738-1a79-44e2-a909-9d9ce3348b82.png", Workpoint
-https://ctrl.laotv.la/live/WorkPoint/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230323/video/d7c937f5-1f07-495c-9d69-eb974a91a83e.jpeg", OneHD
-https://ctrl.laotv.la/live/OneHD/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230803/video/fbcc05df-ab6f-4559-b932-248dccf9c85c.png", GMM25
-https://ctrl.laotv.la/live/GMM25/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/e797c4ed-4c76-4b8d-a881-09b27905edad.jpg", CH3 HD
-https://ctrl.laotv.la/live/3HD/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/e1f5b7e5-16c1-4936-9f52-0b948c18900c.png", CH5
-https://ctrl.laotv.la/live/Thai5/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230519/video/04085ab0-a6af-4e89-b395-6e7e0cf6b470.png", AMARIN TV HD
-https://ctrl.laotv.la/live/AMARINTVHD/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/7f72bd64-70c8-4d5a-ae7b-f78945688188.png", THAIRATH TV HD
-https://ctrl.laotv.la/live/THAIRATHTVHD/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230618/video/d6b5780f-d6bb-4da9-a64c-de6d78124a9e.png", NationTV
-https://ctrl.laotv.la/live/NationTV/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230618/video/806eb55e-d8ce-46c9-904d-7701caaeafcc.png", NBT
-https://ctrl.laotv.la/live/NBT/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230420/video/9f94a26f-4a56-407e-98e1-e54ccd4deec2.jpg", MONO29
-https://ctrl.laotv.la/live/Mono29/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/57f8c7b4-bd8d-4ad0-954f-5445833b849a.png", Thai PBS
-https://ctrl.laotv.la/live/ThaiPBS/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/3bbe12fc-c38e-4746-9deb-30392fb3d5ef.png", True4U
-https://ctrl.laotv.la/live/True4U/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/ca80bc1c-d564-4b85-b2f6-5c8327ae10ab.png", CH8
-https://ctrl.laotv.la/live/CH8/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/68ba60f7-92e6-4fa3-a6cb-16e1b6e683c0.png", MCOT9
-https://ctrl.laotv.la/live/Mcot/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/6c7058d3-35f7-4e2c-85ef-b1f6ba3949f6.png", T Sports 7
-https://ctrl.laotv.la/live/TSports7/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230618/video/83aae5ac-bb3a-49e6-a2d1-3e88d75e066d.png", TNN2
-https://ctrl.laotv.la/live/TNN2/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230618/video/821f2809-ffdb-42ff-b6eb-4331754341d7.png", TNN24
-https://ctrl.laotv.la/live/TNN24/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/e0e25d1f-2a79-46ad-8817-7ad690948fd1.png", JKN18
-https://ctrl.laotv.la/live/JKN18/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/44bda67e-5e21-479e-aa78-1956ba229382.jpg", CH7 HD
-https://ctrl.laotv.la/live/Thai7/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/20b89491-9c17-4a31-a050-193a8ba939bd.png", PPTV HD
-https://ctrl.laotv.la/live/PPTVHD/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg", Bein Sports 2
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True Sports 1
-https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", True Sports 3
-https://ctrl.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
-https://edge1.laotv.la/live/THD7/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/47acb94e-a2a5-4fde-bd9f-a0ec148cdf86.png", LNTV3
-https://ctrl.laotv.la/live/LNTV3/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/57c9c7ba-bcc7-4c30-8ad4-d4fab611a2b7.png", LNTV1
-https://ctrl.laotv.la/live/LNTV1/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/4f032dfc-bfd4-4c69-982b-361b9a4795a4.png", LaoStar
-https://ctrl.laotv.la/live/LaoStar/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/42c67d3b-86e3-4e71-8f05-6677d1d31d3f.png", VTE9
-https://ctrl.laotv.la/live/VTE9/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230804/video/d632d48f-2850-44ff-9fd6-e859e6edbed3.png", LATV
-https://ctrl.laotv.la/live/LATV/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/fc251bad-66db-4d92-bbb4-d1aab661f56e.png", PSTV
-https://ctrl.laotv.la/live/PSTV/index.m3u8
-#EXTINF:-1 group-title="🇱🇦| ลาวทีวี" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/23dd1aba-312f-41fe-ab8d-6b928455af0a.png", Lao ESTV
-https://ctrl.laotv.la/live/LaoESTV/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png" group-title="สถานีทองถิ่นไทย", gochannel
+https://live2.thaitvstream.com/play/gochannel/index.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png" group-title="สถานีทองถิ่นไทย", mounchontv
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="สถานีทองถิ่นไทย", Siamnews
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png" group-title="สถานีทองถิ่นไทย", medianews
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="สถานีทองถิ่นไทย", thainews
+https://live.thaitvstream.com/play/thaikaona/index.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png" group-title="สถานีทองถิ่นไทย", phetchabuntv
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/zabbtv/zabbtv.png" group-title="สถานีทองถิ่นไทย", zabbtv
+https://live1.thaitvstream.com/play/zabbtv/index.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="สถานีทองถิ่นไทย", chiangrai
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/thaikaona/thaikaona.png" group-title="สถานีทองถิ่นไทย", thaikaona
+https://live.thaitvstream.com/play/thaikaona/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com
 
 
-#EXTINF:-0 tvg-id="tvbs" tvg-name="test" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVBS.png" group-title="test", test
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-#EXTINF:-1 group-title="test" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png",Aniplus
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
+-----------------------------------------------------------------------------------------------------------------------------------------
+###กีฬาต่างประเทศ### 
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="arenasport1serbia.rs" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport1.png",Arena Sport 1
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e4/arenasport1serbia/chunks.m3u8
+#https://webudit.hlsjs.ru/lb/premium429/index.m3u8
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="arenasport2serbia.rs" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport2.png",Arena Sport 2
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium433/index.m3u8
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="arenasport3serbia.rs" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport3.png",Arena Sport 3
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium434/index.m3u8
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="arenasport1premiumserbia.rs" tvg-logo="https://i.imgur.com/4KFUlzq.png",Arena Sport Premium 1
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium134/index.m3u8
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="arenasport2premiumserbia.rs" tvg-logo="https://i.imgur.com/KH1FSo2.png",Arena Sport Premium 2
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium135/index.m3u8
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="arenasport3premiumserbia.rs" tvg-logo="https://i.imgur.com/0omg8RO.png",Arena Sport Premium 3
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium139/index.m3u8
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="astroarena.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena 1
+
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="astrocricket.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="astrocricket.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium370/index.m3u8|referer=https://streamservicehd.click/
+
+
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium123/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="astrosupersport2.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634",Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium124/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="astrosupersport3.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium125/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748",Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium126/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/AstroSupersport5Flat.png/revision/latest?cb=20220421064927",Astro SuperSport 5
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e4/astrosupersport5/chunks.m3u8
+#http://mix-dns.com:8080/live/lillie.johnson11%40gmail.com/r3yUNMHHwr/485569.ts
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="btsport1.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png",BT Sports 1
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium31/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="btsport2.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png",BT Sports 2
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium32/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="btsport3.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png",BT Sports 3
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium33/index.m3u8
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="btsport4.uk" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png",BT Sports 4
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium34/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/eurosport-1.png",Euro Sport 1
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium41/index.m3u8
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="cctv5plus.cn" tvg-logo="https://gdplayer.tv/assets/img/logo/eurosport-2.png",Euro Sport 2
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium42/index.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="elevensports1poland.pl" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1.png",Eleven Sports 1
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium71/index.m3u8
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="elevensports2poland.pl" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png",Eleven Sports 2
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium72/index.m3u8|
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="elevensports3poland.pl" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png",Eleven Sports 3
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium428/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="espn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png",ESPN 1 US
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium44/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="espn2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png",ESPN 2 US
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium45/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="espndeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png",ESPN Deportes
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium375/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="eurosport1uk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/640px-Eurosport_1_Logo_2015.svg.png",EuroSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium524/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="eurosport2uk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png",EuroSport 2
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium525/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="foxsports1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZWp5rqstiPrHw6LyRBzN7O5dG1RyOcRn8YA&usqp=CAU",FOX Sports WWE 
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/us-foxsports2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium39/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="skysportsaction.uk" tvg-logo="https://i.imgur.com/XlASTQb.png",Sky Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium37/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="skysportsarena.uk" tvg-logo="https://i.imgur.com/m01PzKx.png",Sky Sports Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium36/index.m3u8?
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="skysportscricket.uk" tvg-logo="https://i.imgur.com/EoYFmY3.png",Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium65/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="skysportsf1.uk" tvg-logo="https://i.imgur.com/PsdeNhE.png",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="skysportsfootball.uk" tvg-logo="https://i.imgur.com/Q0P923u.png",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium35/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="skysportsgolf.uk" tvg-logo="https://i.imgur.com/fFcM6UT.png",Sky Sports Golf
+https://webudit.hlsjs.ru/lb/premium123/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium70/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="skysportsmainevent.uk" tvg-logo="https://i.imgur.com/xtcDjVf.png",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="skysportsmix.uk" tvg-logo="https://i.imgur.com/6ndlrZ1.png",Sky Sports Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium449/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="skysportspremierleague.uk" tvg-logo="https://i.imgur.com/DSrBVhv.png",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium130/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="sonyten2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3
+https://2nud.short.gy/sonyten3.m3u8
+
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="sonyten4.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",SonyTen 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="sonysix.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",SonyTen 5
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportaction.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action.png",SuperSport Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium420/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportfootball.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png",SuperSport Football
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportgrandstand.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-grandstand.png",SuperSport GrandStand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium412/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportgolf.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-golf.png",SuperSport Golf
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium422/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportlaliga.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-la-liga.png",SuperSport La Liga
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium415/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportmotorsport.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png",SuperSport Motorsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium424/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportpremierleague.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png",SuperSport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium414/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportpsl.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-psl.png",SuperSport PSL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium413/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportrugby.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-rugby.png",SuperSport Rugby
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium421/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersporttennis.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-tennis.png",SuperSport Tennis
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium423/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportvariety.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-1.png",SuperSport Variety 1
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium416/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportvariety2.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-2.png",SuperSport Variety 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium417/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportvariety3.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-3.png",SuperSport Variety 3
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium418/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="supersportvariety4.za" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-4.png",SuperSport Variety 4
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium419/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="tennischannel.us" tvg-logo="https://i.imgur.com/VWQk2S1.png",Tennis Channel
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium40/index.m3u8|referer=https://widevine.licenses4.me/
+
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="tsn1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/640px-TSN1.svg.png",TSN 1
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium111/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="tsn2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png",TSN 2
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium112/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="tsn3.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/640px-TSN3.svg.png",TSN 3
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium113/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="tsn4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/640px-TSN4.svg.png",TSN 4
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium114/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="tsn5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/640px-TSN5.svg.png",TSN 5
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium115/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="sportstv1" tvg-logo="https://rentapi.blackboxsys.net/images/png/pt-sporttv1.png",Sports TV1
+https://live-streaming-3.vip-streaming.com/cloudstreaming/SPORT%20TV%201%20Portugal/playlist.m3u8|Referer=https://api-soccer.iamtheme.com
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="sportstv2" tvg-logo="https://rentapi.blackboxsys.net/images/png/pt-sporttv2.png",Sports TV2
+https://live-streaming-3.vip-streaming.com/cloudstreaming/SPORT%20TV%202%20Portugal/playlist.m3u8?|Referer=https://api-soccer.iamtheme.com
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="sportstv3" tvg-logo="https://rentapi.blackboxsys.net/images/png/pt-sporttv3.png",Sports TV3
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv3/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/
+
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="sportstv4" tvg-logo="https://rentapi.blackboxsys.net/images/png/pt-sporttv4.png",Sports TV4
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv4/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="vsportextra.se" tvg-logo="https://rentapi.blackboxsys.net/images/png/pt-sporttv5.png", Sports TV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://live-streaming-3.vip-streaming.com/cloudstreaming/SPORT%20TV%205%20Portugal/playlist.m3u8|Referer=https://api-soccer.iamtheme.com
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="wwenetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/526px-WWE_Logo.svg.png",WWE HD
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium376/index.m3u8
+http://playtv.my.id/play/PremierHD1.m3u8
+https://us.score911.cc/us_wwe/index.m3u8|Referer=https://aesport.tv/
+https://ctrl.laotv.la/live/WWE/index.m3u8
