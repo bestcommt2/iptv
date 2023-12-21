@@ -1374,7 +1374,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dca989ef784fa310300fa21c893dbcf3:fb9068e0516852ee0ec251605322e549
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0168/DASH/V0168.mpd
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="" tvg-logo="hhttps://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" group-title="AIS PLAY",CNN HD
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" group-title="AIS PLAY",CNN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #http://playtv.my.id/play/cnn.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
