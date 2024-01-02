@@ -1463,7 +1463,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0193/DASH/V0193.mpd
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0184/DASH/V0184.mpd
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="Cartoon Network" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png", Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfZmVmd3p6Zks5T0ZodWsxVExNZFEiLCJjaWQiOiJYMTcxIiwidG9rZW4iOiI2aldidEJYb0x2bzVqWFNwZm40c1dUMHJUNEZHanErbVljL2VvT2VDSkpnSE5ZTW4vMXFrSDN1cVdTei81TW5nNUVYdVo1Mm5zK05aUW5Nekl1TWZLS2hhdC9NZTlteVMxR3VwTThlZVhIU1dSL2xPa3ZiOE5LQWZ5QlQwcDc0biIsInRpbWVzdGFtcCI6IjIwMjMtMTItMzBUMDg6NDM6MDFaIiwiaGFzaCI6IlY0QitCVzhMWmdaZ1RBOWZ0UVNyN2NQYUJNakZCKzI1VW9leDRMb1BZYUE9In0=
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfamlUQlJQQlRWUnJpbVdaUnpYRmIiLCJjaWQiOiJYMTcxIiwidG9rZW4iOiI2aldidEJYb0x2bzVqWFNwZm40c1dUMHJUNEZHanErbVljL2VvT2VDSkpnSE5ZTW4vMXFrSDN1cVdTei81TW5nNUVYdVo1Mm5zK05aUW5Nekl1TWZLSGxSVm82OVd5YmRCVXdrU1FVeFNqTG5lTXg2cXcyZkVnbkNnd0VQeGRtaCIsInRpbWVzdGFtcCI6IjIwMjQtMDEtMDJUMDM6NDE6NDZaIiwiaGFzaCI6IjBzUXdUOTVnNXdBck1WdkE5eS8xNXpBcDZxM1pVTEtTcXBCUEhKK3BnNlk9In0=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd
