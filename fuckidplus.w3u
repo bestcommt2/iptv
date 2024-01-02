@@ -41,7 +41,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0017/HLS/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018-avc1_8000000=5-mp4a_96000_tha=6.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="ทีวีดิจิตอลไทย",PPTV HD
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/HLS/V0022-avc1_5000000=7-mp4a_64000_tha=2.m3u8
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="ไทยรัฐทีวี 32" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="ทีวีดิจิตอลไทย" ,ไทยรัฐทีวี 32
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="ไทยรัฐทีวี 32" tvg-logo="https://static.thairath.co.th/media/dFQROr7oWzulq5FZYjjA515688fYpq5TMLJD17vUyLlN8HXXTvARWsmL1j8q7THf3rE.jpg" group-title="ทีวีดิจิตอลไทย" ,ไทยรัฐทีวี 32
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013-avc1_8000000=4-mp4a_96000_tha=6.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YATEEM TV" tvg-logo="https://yateem.tv/wp-content/uploads/2019/01/Logo-Header.png" group-title="ทีวีดิจิตอลไทย",YATEEM TV
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
@@ -50,7 +50,7 @@ https://live.topnews.co.th/hls/topnews_720.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ทีวีดิจิตอลไทย",News1
 https://server1.streamssl.com/stream/news1_mid.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATION TV" tvg-logo="https://mthai.com/app/uploads/2021/05/nation-tv.jpg" group-title="ทีวีดิจิตอลไทย",NATION TV
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013-avc1_8000000=4-mp4a_96000_tha=6.m3u8
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/B0021-avc1_8000000=9-mp4a_96000_tha=2.m3u8
 
 --------------------------------------------
 
