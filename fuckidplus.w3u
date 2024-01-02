@@ -1932,3 +1932,30 @@ https://www.inwiptv.com/player_demo.php?channel=89782
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://www.inwiptv.com/player_demo.php?channel=89781
+
+#EXTINF:-1 group-title="test" HBO FAM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c97626ac21bf3c228acd8c917073cb23:e1607dfaa05a86417fb6b4bd95fc3493
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+
+#EXTINF:-1 group-title="test" HBO SIG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34b216cc360b32ba9fb4021c4df3315f:a641d4c6af470638fa7cca2c5d37cbd2
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+
+#EXTINF:-1 group-title="test" HBO HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5103bb74062d3e7b8d806328cf30294c:8eed273333e6a5e195788348146bcafa
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#EXTINF:-1 group-title="test" HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b726367ce66d3de48ea51a789c07844e:a79401896a0d20127e1d89be24cad9a9
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#EXTINF:-1 group-title="test" CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49d5744735f739fe8bc763f35a70c533:b302c3e863e70cb55c6eee37b12f8ae9
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
