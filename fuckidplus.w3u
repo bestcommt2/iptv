@@ -1903,9 +1903,32 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 
 
-#EXTINF:-0 group-title="test" tvg-id="hbosignature.th" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png",HBO Signature TH
-https://2nud.short.gy/hbosignatureth.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730103911MOV.jpg"",FW MOVIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://www.inwiptv.com/player_demo.php?channel=95262
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730103943SOV.jpg"",FW SERIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://www.inwiptv.com/player_demo.php?channel=94898
+
+#EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730104009sport.jpg"",FW SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://www.inwiptv.com/player_demo.php?channel=92941
+
+#EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730104009sport.jpg"",FW DOCUMENTARY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://www.inwiptv.com/player_demo.php?channel=91303
+
+#EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730104048Toon.jpg"",FW CARTOON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://www.inwiptv.com/player_demo.php?channel=89782
+
+#EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730104109Comedy.jpg"",FW COMEDY"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://www.inwiptv.com/player_demo.php?channel=89781
