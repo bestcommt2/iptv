@@ -387,7 +387,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07e
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="fight sports" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3452596_ico.png" group-title="Sport",fight sports
 http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motorvision (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/35349410-5363-11ee-8322-fb6a8c8f2ff6_webp_original.webp" group-title="Sport",Motorvision (TH)
-https://wacthstream.com/stream_live/687_motorvision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDU6NDg6MzIgQU0maGFzaF92YWx1ZT1HTkgrYnVobUpta21sR0RsOUdqSFhBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTgyNDU=|referer=https://wacth.tv/
+https://sv2.wacthstream.com/wacth_tv/687_motorvision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDU6NDg6MzIgQU0maGFzaF92YWx1ZT1HTkgrYnVobUpta21sR0RsOUdqSFhBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTgyNDU=|referer=https://wacth.tv/
 
 #EXTINF:-1 tvg-id="spotv.kr" tvg-name="SPOTV 1 TRUE" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="Sport",SPOTV 1 TRUE
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
@@ -919,7 +919,7 @@ http://45.91.133.39/play/tHF1QVCj8HRSuXInh3zPo2mm1qFS87ofll_NVrV8AUxTd9XfU07orAM
 http://xtreamhd.ddns.net:9981/stream/mux/5466132886624b1b64cb56310b653002?ticket=7B935BB095C0670041252BCBB6CE2330A97FE3D8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/7M6WYVm.png" ,Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+http://metatvpro.com:25461/live/W0549/4058/194.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="NK TV" tvg-logo="https://img2.pic.in.th/pic/oie_3123588Cg7SBeC.jpeg",NK TV
 http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="TVB Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",TVB Thai
