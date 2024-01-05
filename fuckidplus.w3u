@@ -1922,7 +1922,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730103911MOV.jpg"",FW MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://inwiptv.com/
-https://www.inwiptv.com/player_demo.php?channel=95262
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=12439858&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjQgMzoyOTowNSBBTSZoYXNoX3ZhbHVlPXloYlhsVkpKdmxVcm10YmVQbnY3N1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730103943SOV.jpg"",FW SERIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
