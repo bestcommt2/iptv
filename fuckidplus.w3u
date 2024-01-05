@@ -55,12 +55,20 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/
 --------------------------------------------
 
 ###ช่องเด็ก###
+
+
+#EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://i.ibb.co/ZdzTXnj/animax.png",Animax
+http://metatvpro.com:25461/live/W0549/4058/267.playlist.m3u8
+#EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://i.ibb.co/dPYsdsV/aniplus.jpg",Aniplus
+http://metatvpro.com:25461/live/W0549/4058/268.playlist.m3u8
+#EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://i.ibb.co/Xs4PYGs/cbeebies.png",Cbeebies
+http://metatvpro.com:25461/live/W0549/4058/274.playlist.m3u8
 #EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://i.ytimg.com/vi/Zn1yvsGD-TU/maxresdefault.jpg",BabyBus
 https://livestream.zazerconer.workers.dev/channel/UCKpFt-Nh3A2Sg--mLmCebZQ.m3u8
 #EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://yt3.ggpht.com/P9Njluo4AsKyXYaxltiYxF4LrURIIOBZwdn9JlSEd4yiSrscBe3SpRittk5Gif8JbFst4zNWZA=s88-c-k-c0x00ffffff-no-rj",My Little Pony
 https://livestream.zazerconer.workers.dev/channel/UCOT9qiUmk4mk-B_hN__toTw.m3u8
 #EXTINF:-1 group-title="ช่องเด็ก"   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVfKsOCHZW1jzOsGZydivGZP2ZDwROxtPdWQ&usqp=CAU",Disney Junior NO 24/7
-https://livestream.zazerconer.workers.dev/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8
+http://metatvpro.com:25461/live/W0549/4058/275.playlist.m3u8
 #EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbxe5sIiySX5-PgYL5nGo334cNGlHE8D4EQ&usqp=CAU" ,BabyBus - Kids Songs and Cartoons
 https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8
 #EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28157844_ico.png" ,โรโบคาร์โพลีทีวี
@@ -306,12 +314,6 @@ https://cdn768.stm.trueid.net/p201drm/he005_multi_w_auto_wv_tidapp.smil/manifest
 ###SPORT###
 
 
-#EXTINF:-1 group-title="Sport" tvg-id="Eurosport" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3475078_ico.png", Eurosport1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-http://s@46.240.143.86/Eurosport1/video.m3u8?token=test
-#EXTINF:-1 group-title="Sport" tvg-id="Eurosport" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3475078_ico.png", Eurosport2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-http://s@46.240.143.86/Eurosport2/video.m3u8?token=test
 
 #EXTINF:-1 group-title="Sport" tvg-id="beIN SPORTS 1.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -570,6 +572,20 @@ http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ###กีฬาต่างประเทศ### 
+
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="Eurosport" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3475078_ico.png", Eurosport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+http://s@46.240.143.86/Eurosport1/video.m3u8?token=test
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="Eurosport" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3475078_ico.png", Eurosport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+http://s@46.240.143.86/Eurosport2/video.m3u8?token=test
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="EDGEsport" tvg-logo="https://i.ibb.co/TBSXVxv/edgesport.png", EDGEsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+http://metatvpro.com:25461/live/W0549/4058/392.m3u8
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="Tennis Channel" tvg-logo="https://i.ibb.co/Lz5rYyK/tennis-ch.png", Tennis Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+http://metatvpro.com:25461/live/W0549/4058/346.m3u8
+
 
 #EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="arenasport1serbia.rs" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport1.png",Arena Sport 1
 #EXTVLCOPT:http-referrer=https://livehdplay.ru/
@@ -1905,57 +1921,31 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730103911MOV.jpg"",FW MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=95262
 
 #EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730103943SOV.jpg"",FW SERIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=94898
 
 #EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730104009sport.jpg"",FW SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=92941
 
 #EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730104009sport.jpg"",FW DOCUMENTARY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=91303
 
 #EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730104048Toon.jpg"",FW CARTOON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=89782
 
 #EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730104109Comedy.jpg"",FW COMEDY"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=89781
 
-#EXTINF:-1 group-title="test" HBO FAM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c97626ac21bf3c228acd8c917073cb23:e1607dfaa05a86417fb6b4bd95fc3493
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-
-
-#EXTINF:-1 group-title="test" HBO SIG
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34b216cc360b32ba9fb4021c4df3315f:a641d4c6af470638fa7cca2c5d37cbd2
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-
-
-#EXTINF:-1 group-title="test" HBO HITS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5103bb74062d3e7b8d806328cf30294c:8eed273333e6a5e195788348146bcafa
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-
-#EXTINF:-1 group-title="test" HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b726367ce66d3de48ea51a789c07844e:a79401896a0d20127e1d89be24cad9a9
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-
-#EXTINF:-1 group-title="test" CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49d5744735f739fe8bc763f35a70c533:b302c3e863e70cb55c6eee37b12f8ae9
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
