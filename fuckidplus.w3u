@@ -1,5 +1,8 @@
 #EXTM3U url="https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u
 
+--------------------------------------------
+
+###ทีวีดิจิตอลไทย###
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ทีวีดิจิตอลไทย",NBT HD
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/HLS/V0001.m3u8
@@ -54,61 +57,59 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/
 
 --------------------------------------------
 
-###ช่องเด็ก###
+###ช่องการ์ตูน###
 
 
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://i.ibb.co/ZdzTXnj/animax.png",Animax
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/ZdzTXnj/animax.png",Animax
 http://metatvpro.com:25461/live/W0549/4058/267.playlist.m3u8
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://i.ibb.co/dPYsdsV/aniplus.jpg",Aniplus
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/dPYsdsV/aniplus.jpg",Aniplus
 http://metatvpro.com:25461/live/W0549/4058/268.playlist.m3u8
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://i.ibb.co/Xs4PYGs/cbeebies.png",Cbeebies
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/Xs4PYGs/cbeebies.png",Cbeebies
 http://metatvpro.com:25461/live/W0549/4058/274.playlist.m3u8
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://i.ytimg.com/vi/Zn1yvsGD-TU/maxresdefault.jpg",BabyBus
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ytimg.com/vi/Zn1yvsGD-TU/maxresdefault.jpg",BabyBus
 https://livestream.zazerconer.workers.dev/channel/UCKpFt-Nh3A2Sg--mLmCebZQ.m3u8
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://yt3.ggpht.com/P9Njluo4AsKyXYaxltiYxF4LrURIIOBZwdn9JlSEd4yiSrscBe3SpRittk5Gif8JbFst4zNWZA=s88-c-k-c0x00ffffff-no-rj",My Little Pony
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://yt3.ggpht.com/P9Njluo4AsKyXYaxltiYxF4LrURIIOBZwdn9JlSEd4yiSrscBe3SpRittk5Gif8JbFst4zNWZA=s88-c-k-c0x00ffffff-no-rj",My Little Pony
 https://livestream.zazerconer.workers.dev/channel/UCOT9qiUmk4mk-B_hN__toTw.m3u8
-#EXTINF:-1 group-title="ช่องเด็ก"   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVfKsOCHZW1jzOsGZydivGZP2ZDwROxtPdWQ&usqp=CAU",Disney Junior NO 24/7
+#EXTINF:-1 group-title="ช่องการ์ตูน"   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVfKsOCHZW1jzOsGZydivGZP2ZDwROxtPdWQ&usqp=CAU",Disney Junior NO 24/7
 http://metatvpro.com:25461/live/W0549/4058/275.playlist.m3u8
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbxe5sIiySX5-PgYL5nGo334cNGlHE8D4EQ&usqp=CAU" ,BabyBus - Kids Songs and Cartoons
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbxe5sIiySX5-PgYL5nGo334cNGlHE8D4EQ&usqp=CAU" ,BabyBus - Kids Songs and Cartoons
 https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28157844_ico.png" ,โรโบคาร์โพลีทีวี
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28157844_ico.png" ,โรโบคาร์โพลีทีวี
 https://livestream.zazerconer.workers.dev/channel/UCvKicVPiOrIuZdEYmxuRQug.m3u8
-
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-id="Boomerang" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png", Boomerang
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="Boomerang" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png", Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0104/DASH/V0104.mpd
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-id="Cartoon Club" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png", Cartoon Club
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="Cartoon Club" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png", Cartoon Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-id="Cartoonito.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",Cartoonito
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="Cartoonito.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6a1b556425b6932c6ffe80e7a828e57:bd8ea11b338954c1746f45bcf851c91e
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0113/DASH/V0113.mpd
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-id="nickjr" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
+#EXTINF:-1 group-title="ชช่องการ์ตูน" tvg-id="nickjr" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
-#EXTINF:-1 group-title="ช่องเด็ก" tvg-id="nickelodeonasia.sg" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="nickelodeonasia.sg" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34cf6695d9082bc5b4687e59d61b48d2:64e30dc5efbacf1f3fd344a01ba2f906
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0187/DASH/V0187.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="ช่องเด็ก",DreamWorks 
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="ช่องการ์ตูน",DreamWorks 
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://sv2.wacthstream.com/wacth_tv/448_DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDI6MjY6MjkgQU0maGFzaF92YWx1ZT1Rc1BPWFlGQmt2RzVpZE1EN2xGbThBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDI3ODE=
-#EXTINF:1 tvg-id="" group-title="ช่องเด็ก" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/xxyeq988g1wg0o04.png", True SPARK PLAY
+#EXTINF:1 tvg-id="" group-title="ช่องการ์ตูน" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/xxyeq988g1wg0o04.png", True SPARK PLAY
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://sv2.wacthstream.com/wacth_tv/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDI6Mzc6MDMgQU0maGFzaF92YWx1ZT0yUC80L29zQWRjQktrNmpwR3E3WktBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDUwNTk=
-#EXTINF:-1 tvg-id="ZooMoo.th" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/olzqUL2.jpg" group-title="ช่องเด็ก",ZooMoo
+#EXTINF:-1 tvg-id="ZooMoo.th" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/olzqUL2.jpg" group-title="ช่องการ์ตูน",ZooMoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="ช่องเด็ก",Cartoon Network TH 
 https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1 tvg-id="BadyTV" tvg-name="BadyTV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3515512_ico.png" group-title="ช่องเด็ก",BadyTV
+#EXTINF:-1 tvg-id="BadyTV" tvg-name="BadyTV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3515512_ico.png" group-title="ช่องการ์ตูน",BadyTV
 http://superonetv.ml:2095/live/1/0/115410.m3u8?mac=00:1a:79:b5:c5:a1
-#EXTINF:-1 tvg-id="aniplus.th" group-title="ช่องเด็ก" tvg-logo="https://gdplayertv.top/assets/img/logo/aniplus.png", ANIPLUS
+#EXTINF:-1 tvg-id="aniplus.th" group-title="ช่องการ์ตูน" tvg-logo="https://gdplayertv.top/assets/img/logo/aniplus.png", ANIPLUS
 #EXTVLCOPT:http-origin=https://gdplayertv.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #https://idx.iptvfreemium.com/denslokal/h/h114/S4/mnf.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
@@ -257,58 +258,7 @@ https://cdn1.aws-live-streaming.com/ais/trueballthai2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://aisplay24hd.com
 https://cdn1.aws-live-streaming.com/ais/trueballthai3/playlist.m3u8
 
------------------------------------------------------------------------------------------------------------------------------------
-###LIVESPORT###
 
-#EXTINF:-1 group-title="LIVESPORT" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM2.png", SPORTS LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd1/playlist.m3u8
-#EXTINF:-1 group-title="LIVESPORT" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM2.png", SPORTS LIVE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd2/playlist.m3u8
-#EXTINF:-1 group-title="LIVESPORT" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM3.png", SPORTS LIVE 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd3/playlist.m3u8
-#EXTINF:-1 group-title="LIVESPORT" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM1.png", SPORTS LIVE 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd4/playlist.m3u8
-#EXTINF:-1 group-title="LIVESPORT" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM5.png", SPORTS LIVE 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd5/playlist.m3u8
-#EXTINF:-1 group-title="LIVESPORT" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM6.png", SPORTS LIVE 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd6/playlist.m3u8
-#EXTINF:-1 group-title="LIVESPORT" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/ch77.png", SPORTS LIVE 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd7/playlist.m3u8
-#EXTINF:-1 group-title="LIVESPORT" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/ch88.png", SPORTS LIVE 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd5/playlist.m3u8
-#EXTINF:-1 group-title="LIVESPORT" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/ch99.png", SPORTS LIVE 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd4/playlist.m3u8
-
-#EXTINF:-1 group-title="LIVESPORT " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey  #KODIPROP:inputstream.adaptive.license_key=https://tv.realmetx.repl.co/Ch/license/truesport.html
-https://cdn728.stm.trueid.net/p101daidrm/he003_multi_w_auto_wv_tidapp.smil/manifest_w624873915_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPVJWTk5abHBtU1ZGaGRFNXFaRTF6WW1rdGIyUTBWWFJCYVdndFQycFZUbUkmc2lkPWQxOWZkN2MwMjMmcnQ9MTcwMzg3Nzg0MCZkcz04NjQwMCZ0az1scTdjWFZEU1loVU8xdEZJYjFtRVIwdnlROFNOVUo2WDZMbXMzM2EyNmVz.mpd
-
-#EXTINF:-1 group-title="LIVESPORT " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
-https://cdn725.stm.trueid.net/p101drm/he004_multi_w_auto_wv_tidapp.smil/manifest_w309058263_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPVJWTk5abHBtU1ZGaGRFNXFaRTF6WW1rdGIyUTBWWFJCYVdndFQycFZUbUkmc2lkPWEwYWU3YzE3MWMmcnQ9MTcwMzg3Nzg3MiZkcz04NjQwMCZ0az11WURQRDJmUG1ZR0Z2VTBuQWlfSm5BejN5UEh6Y05IMTlxYUhVSGV3ZzFv.mpd
-#EXTINF:-1 group-title="LIVESPORT " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
-https://cdn768.stm.trueid.net/p201drm/he005_multi_w_auto_wv_tidapp.smil/manifest_w1353054740_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPWRXOVBWV0ZhY1RsUGIwUjNZMmxEVDNVd1UydFdaVWt3ZGxkMFgydHdaRmsmc2lkPTM3NTBjYWM1MmUmcnQ9MTcwMzg3Nzg5NCZkcz04NjQwMCZ0az1QZVZWTk9Ud2hRcnpFd29OVDlXRE1kVENWM1ZGMzltNUZxMHZxTE9zNG1F.mpd
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ###SPORT###
@@ -568,6 +518,55 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png" group-title="Sport",Fight Sports
 http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/01.m3u8|referer=https://streaming.livescorethai.net
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM2.png", SPORTS LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballmun.com
+https://cdn.dooball66.xyz/ballmun_live/sd1/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM2.png", SPORTS LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballmun.com
+https://cdn.dooball66.xyz/ballmun_live/sd2/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM3.png", SPORTS LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballmun.com
+https://cdn.dooball66.xyz/ballmun_live/sd3/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM1.png", SPORTS LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballmun.com
+https://cdn.dooball66.xyz/ballmun_live/sd4/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM5.png", SPORTS LIVE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballmun.com
+https://cdn.dooball66.xyz/ballmun_live/sd5/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM6.png", SPORTS LIVE 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballmun.com
+https://cdn.dooball66.xyz/ballmun_live/sd6/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/ch77.png", SPORTS LIVE 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballmun.com
+https://cdn.dooball66.xyz/ballmun_live/sd7/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/ch88.png", SPORTS LIVE 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballmun.com
+https://cdn.dooball66.xyz/ballmun_live/sd5/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/ch99.png", SPORTS LIVE 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballmun.com
+https://cdn.dooball66.xyz/ballmun_live/sd4/playlist.m3u8
+
+#EXTINF:-1 group-title="LIVESPORT " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey  #KODIPROP:inputstream.adaptive.license_key=https://tv.realmetx.repl.co/Ch/license/truesport.html
+https://cdn728.stm.trueid.net/p101daidrm/he003_multi_w_auto_wv_tidapp.smil/manifest_w624873915_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPVJWTk5abHBtU1ZGaGRFNXFaRTF6WW1rdGIyUTBWWFJCYVdndFQycFZUbUkmc2lkPWQxOWZkN2MwMjMmcnQ9MTcwMzg3Nzg0MCZkcz04NjQwMCZ0az1scTdjWFZEU1loVU8xdEZJYjFtRVIwdnlROFNOVUo2WDZMbXMzM2EyNmVz.mpd
+
+#EXTINF:-1 group-title="LIVESPORT " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
+https://cdn725.stm.trueid.net/p101drm/he004_multi_w_auto_wv_tidapp.smil/manifest_w309058263_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPVJWTk5abHBtU1ZGaGRFNXFaRTF6WW1rdGIyUTBWWFJCYVdndFQycFZUbUkmc2lkPWEwYWU3YzE3MWMmcnQ9MTcwMzg3Nzg3MiZkcz04NjQwMCZ0az11WURQRDJmUG1ZR0Z2VTBuQWlfSm5BejN5UEh6Y05IMTlxYUhVSGV3ZzFv.mpd
+#EXTINF:-1 group-title="LIVESPORT " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
+https://cdn768.stm.trueid.net/p201drm/he005_multi_w_auto_wv_tidapp.smil/manifest_w1353054740_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPWRXOVBWV0ZhY1RsUGIwUjNZMmxEVDNVd1UydFdaVWt3ZGxkMFgydHdaRmsmc2lkPTM3NTBjYWM1MmUmcnQ9MTcwMzg3Nzg5NCZkcz04NjQwMCZ0az1QZVZWTk9Ud2hRcnpFd29OVDlXRE1kVENWM1ZGMzltNUZxMHZxTE9zNG1F.mpd
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -1917,7 +1916,61 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+####Movieonline####
 
+
+#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B8%8D-1-300x450.jpg", อควาแมน กับอาณาจักรสาบสูญ
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.77player.xyz/m3u8/9dcf5ab82dfddd0978dc7ebe/9dcf5ab82dfddd0978dc7ebe168.m3u8
+#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Society-of-the-Snow-2024-%E0%B8%AB%E0%B8%B4%E0%B8%A1%E0%B8%B0%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%AB%E0%B8%94-187x269.jpg", Society of the Snow (2024) หิมะโหดคนทรหด
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.77player.xyz/m3u8/c8ed81282223f5aec4cf2e9e/c8ed81282223f5aec4cf2e9e168.m3u8
+#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%AE%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C-%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%A1-187x269.jpg", The Hunger Games The Ballad of Songbirds & Snakes (2023) เดอะ ฮัง
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.77player.xyz/m3u8/1ae729097633ed79a1dd1193/1ae729097633ed79a1dd1193168.m3u8
+#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/12/Hell-Camp-Teen-Nightmare-2023-%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81-%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99-300x450.jpg", Hell Camp Teen Nightmare (2023) ค่ายนรก ฝันร้ายวัยรุ่น
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="DooMovieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/12/The-Adventures-2023-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B5%E0%B9%89-300x450.jpg", The Adventures (2023) ผจญภัยล่าขุมทรัพย์หมื่นลี้
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.77player.xyz/m3u8/78200dba24d4096abee805b3/78200dba24d4096abee805b3438.m3u8
+#EXTINF:-1 group-title="DooMovieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%AA%E0%B9%8C-1-300x450.jpg", The Marvels (2023) เดอะ มาร์เวลส์
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.77player.xyz/m3u8/9a621e1112440b704c49dfa5/9a621e1112440b704c49dfa5168.m3u8
+#EXTINF:-1 group-title="DooMovieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/11/3-Idiot-Heroes-2023-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%9A-300x450.jpg", 3 Idiot Heroes (2023) ฮีโร่ต้มแซ่บ
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.77player.xyz/m3u8/00bf8eb5c4e187b2db7442df/00bf8eb5c4e187b2db7442df168.m3u8
+#EXTINF:-1 group-title="DooMovieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/Thunder-Monk-2023-%E0%B8%AD%E0%B8%B2%E0%B8%95%E0%B8%A1%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2-300x450.jpg", Thunder Monk (2023) อาตมาฟ้าผ่า
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.77player.xyz/m3u8/d1546a369f1ad9f1a57e8d4b/d1546a369f1ad9f1a57e8d4b168.m3u8
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+####DooSeriesonline####
+
+#EXTINF:-1 group-title="DooSeriesonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/11/Squid-Game-The-Challenge-300x450.jpg", Squid Game The Challenge (2023) สควิดเกม เดอะ ชาเลนจ์
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.77player.xyz/m3u8/adb19d597f1fb1cd1a3355c7/adb19d597f1fb1cd1a3355c7168.m3u8
+https://main.77player.xyz/m3u8/90c80da6d951e0ee43a0395e/90c80da6d951e0ee43a0395e168.m3u8
+https://main.77player.xyz/m3u8/cba9d9f5ad5a6293c7866dd1/cba9d9f5ad5a6293c7866dd1168.m3u8
+https://main.77player.xyz/m3u8/1aaeea82c1ef536709f11abc/1aaeea82c1ef536709f11abc168.m3u8
+https://main.77player.xyz/m3u8/77c76374a7c877cacd7f91f1/77c76374a7c877cacd7f91f1168.m3u8
+https://main.77player.xyz/m3u8/3f069a0e0b7eef7db4dfcc14/3f069a0e0b7eef7db4dfcc14168.m3u8
+https://main.77player.xyz/m3u8/a64efd9c284eed5de28269f5/a64efd9c284eed5de28269f5168.m3u8
+https://main.77player.xyz/m3u8/f7cbcaf513d9b1a711e83fcf/f7cbcaf513d9b1a711e83fcf168.m3u8
+https://main.77player.xyz/m3u8/da019a572d5120aec29b12c7/da019a572d5120aec29b12c7168.m3u8
+https://main.77player.xyz/m3u8/1112ccfc10775bb730be3f48/1112ccfc10775bb730be3f48168.m3u8
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+####test####
 
 #EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730103911MOV.jpg"",FW MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1951,48 +2004,3 @@ https://freelive2.inwstream.com:1936/freelive-edge/gags_fw-iptv.stream/chunks.m3
 
 
 
-#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B8%8D-1-300x450.jpg", อควาแมน กับอาณาจักรสาบสูญ
-#EXTVLCOPT:http-referrer=https://www.24-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://main.77player.xyz/m3u8/9dcf5ab82dfddd0978dc7ebe/9dcf5ab82dfddd0978dc7ebe168.m3u8
-#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Society-of-the-Snow-2024-%E0%B8%AB%E0%B8%B4%E0%B8%A1%E0%B8%B0%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%AB%E0%B8%94-187x269.jpg", Society of the Snow (2024) หิมะโหดคนทรหด
-#EXTVLCOPT:http-referrer=https://www.24-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://main.77player.xyz/m3u8/c8ed81282223f5aec4cf2e9e/c8ed81282223f5aec4cf2e9e168.m3u8
-#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%AE%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C-%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%A1-187x269.jpg", The Hunger Games The Ballad of Songbirds & Snakes (2023) เดอะ ฮัง
-#EXTVLCOPT:http-referrer=https://www.24-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://main.77player.xyz/m3u8/1ae729097633ed79a1dd1193/1ae729097633ed79a1dd1193168.m3u8
-#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/12/Hell-Camp-Teen-Nightmare-2023-%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81-%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99-300x450.jpg", Hell Camp Teen Nightmare (2023) ค่ายนรก ฝันร้ายวัยรุ่น
-#EXTVLCOPT:http-referrer=https://www.24-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/12/The-Adventures-2023-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%B5%E0%B9%89-300x450.jpg", The Adventures (2023) ผจญภัยล่าขุมทรัพย์หมื่นลี้
-#EXTVLCOPT:http-referrer=https://www.24-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://main.77player.xyz/m3u8/78200dba24d4096abee805b3/78200dba24d4096abee805b3438.m3u8
-#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%AA%E0%B9%8C-1-300x450.jpg", The Marvels (2023) เดอะ มาร์เวลส์
-#EXTVLCOPT:http-referrer=https://www.24-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://main.77player.xyz/m3u8/9a621e1112440b704c49dfa5/9a621e1112440b704c49dfa5168.m3u8
-#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/11/3-Idiot-Heroes-2023-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%9A-300x450.jpg", 3 Idiot Heroes (2023) ฮีโร่ต้มแซ่บ
-#EXTVLCOPT:http-referrer=https://www.24-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://main.77player.xyz/m3u8/00bf8eb5c4e187b2db7442df/00bf8eb5c4e187b2db7442df168.m3u8
-#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/Thunder-Monk-2023-%E0%B8%AD%E0%B8%B2%E0%B8%95%E0%B8%A1%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2-300x450.jpg", Thunder Monk (2023) อาตมาฟ้าผ่า
-#EXTVLCOPT:http-referrer=https://www.24-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://main.77player.xyz/m3u8/d1546a369f1ad9f1a57e8d4b/d1546a369f1ad9f1a57e8d4b168.m3u8
-#EXTINF:-1 group-title="Movieonline" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/11/Squid-Game-The-Challenge-300x450.jpg", Squid Game The Challenge (2023) สควิดเกม เดอะ ชาเลนจ์
-#EXTVLCOPT:http-referrer=https://www.24-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://main.77player.xyz/m3u8/adb19d597f1fb1cd1a3355c7/adb19d597f1fb1cd1a3355c7168.m3u8
-https://main.77player.xyz/m3u8/90c80da6d951e0ee43a0395e/90c80da6d951e0ee43a0395e168.m3u8
-https://main.77player.xyz/m3u8/cba9d9f5ad5a6293c7866dd1/cba9d9f5ad5a6293c7866dd1168.m3u8
-https://main.77player.xyz/m3u8/1aaeea82c1ef536709f11abc/1aaeea82c1ef536709f11abc168.m3u8
-https://main.77player.xyz/m3u8/77c76374a7c877cacd7f91f1/77c76374a7c877cacd7f91f1168.m3u8
-https://main.77player.xyz/m3u8/3f069a0e0b7eef7db4dfcc14/3f069a0e0b7eef7db4dfcc14168.m3u8
-https://main.77player.xyz/m3u8/a64efd9c284eed5de28269f5/a64efd9c284eed5de28269f5168.m3u8
-https://main.77player.xyz/m3u8/f7cbcaf513d9b1a711e83fcf/f7cbcaf513d9b1a711e83fcf168.m3u8
-https://main.77player.xyz/m3u8/da019a572d5120aec29b12c7/da019a572d5120aec29b12c7168.m3u8
-https://main.77player.xyz/m3u8/1112ccfc10775bb730be3f48/1112ccfc10775bb730be3f48168.m3u8
