@@ -105,7 +105,7 @@ https://sv2.wacthstream.com/wacth_tv/445_SparkJump/playlist.m3u8?wmsAuthSign=c2V
 #EXTINF:-1 tvg-id="ZooMoo.th" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/olzqUL2.jpg" group-title="ช่องการ์ตูน",ZooMoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="ช่องเด็ก",Cartoon Network TH 
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="ช่องการ์ตูน",Cartoon Network TH 
 https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1 tvg-id="BadyTV" tvg-name="BadyTV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3515512_ico.png" group-title="ช่องการ์ตูน",BadyTV
 http://superonetv.ml:2095/live/1/0/115410.m3u8?mac=00:1a:79:b5:c5:a1
@@ -906,7 +906,7 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 
 -------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
-###Movies###
+###หนังภาพยนตร์###
 
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27377637_ico.png",fuck id movie 1
 http://45.91.133.39/play/tHF1QVCj8HRSuXInh3zPo2mm1qFS87ofll_NVrV8AUwb-ypoKTxN6bL9850AGXub/ts
@@ -914,6 +914,10 @@ http://45.91.133.39/play/tHF1QVCj8HRSuXInh3zPo2mm1qFS87ofll_NVrV8AUwb-ypoKTxN6bL
 http://45.91.133.39/play/tHF1QVCj8HRSuXInh3zPo2mm1qFS87ofll_NVrV8AUy0HvpNIc7ltxNdCAzzuSrU/ts
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613866_ico.png?ts=1702874579",fuck id movie 3
 http://45.91.133.39/play/tHF1QVCj8HRSuXInh3zPo2mm1qFS87ofll_NVrV8AUxTd9XfU07orAMypchhXV03/ts
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8OGM66fyZZ9Hi6nuqzxdSj3AsFqEn8MTNw&usqp=CAU",CTB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="SAT-ASIA TV CSAT" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17815677_ico.png",SAT-ASIA TV CSAT
 http://xtreamhd.ddns.net:9981/stream/mux/5466132886624b1b64cb56310b653002?ticket=7B935BB095C0670041252BCBB6CE2330A97FE3D8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/7M6WYVm.png" ,Thrill
@@ -940,6 +944,10 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lotus_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="หนังภาพยนตร์",Lotus_TV
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC41/index.m3u8
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9WX2-H1YO-fvH-2CaFKkTdwF0OtT7xSwRg&usqp=CAU",7flix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="แอท ทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0039.png" group-title="หนังภาพยนตร์",แอท ทีวี
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" tvg-logo="https://i.imgur.com/vMWjnIm.png" group-title="หนังภาพยนตร์",Mangorn
