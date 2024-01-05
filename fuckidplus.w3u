@@ -1950,6 +1950,8 @@ https://www.inwiptv.com/player_demo.php?channel=89782
 https://www.inwiptv.com/player_demo.php?channel=89781
 
 
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/b94hdtv/b94hdtv.png" group-title="test", test22
+#EXTINF:-1 group-title="test" tvg-id="arenasport2serbia.rs" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport2.png",test11
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo-hits/playlist.m3u8
-#https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo-hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjQgMzoyMDo0OSBBTSZoYXNoX3ZhbHVlPXUwTWtuKzRUNnF5RnlXaEdRSmpwaWc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo-hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjQgMzoyMDo0OSBBTSZoYXNoX3ZhbHVlPXUwTWtuKzRUNnF5RnlXaEdRSmpwaWc9PSZ2YWxpZG1pbnV0ZXM9MjA=
