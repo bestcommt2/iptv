@@ -60,21 +60,21 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/
 ###ช่องการ์ตูน###
 
 
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/ZdzTXnj/animax.png",Animax
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/vJdY0NG/animax.png",Animax
 http://metatvpro.com:25461/live/W0549/4058/267.playlist.m3u8
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/dPYsdsV/aniplus.jpg",Aniplus
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/nbgW2T5/aniplus.png",Aniplus
 http://metatvpro.com:25461/live/W0549/4058/268.playlist.m3u8
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/Xs4PYGs/cbeebies.png",Cbeebies
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/98RrVcM/cbeebies.png",Cbeebies
 http://metatvpro.com:25461/live/W0549/4058/274.playlist.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ytimg.com/vi/Zn1yvsGD-TU/maxresdefault.jpg",BabyBus
 https://livestream.zazerconer.workers.dev/channel/UCKpFt-Nh3A2Sg--mLmCebZQ.m3u8
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://yt3.ggpht.com/P9Njluo4AsKyXYaxltiYxF4LrURIIOBZwdn9JlSEd4yiSrscBe3SpRittk5Gif8JbFst4zNWZA=s88-c-k-c0x00ffffff-no-rj",My Little Pony
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/pKgMG4G/My-Little-Pony.png",My Little Pony
 https://livestream.zazerconer.workers.dev/channel/UCOT9qiUmk4mk-B_hN__toTw.m3u8
-#EXTINF:-1 group-title="ช่องการ์ตูน"   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVfKsOCHZW1jzOsGZydivGZP2ZDwROxtPdWQ&usqp=CAU",Disney Junior NO 24/7
+#EXTINF:-1 group-title="ช่องการ์ตูน"   tvg-logo="https://i.ibb.co/5jWbsKD/1.png",Disney 
 http://metatvpro.com:25461/live/W0549/4058/275.playlist.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbxe5sIiySX5-PgYL5nGo334cNGlHE8D4EQ&usqp=CAU" ,BabyBus - Kids Songs and Cartoons
 https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28157844_ico.png" ,โรโบคาร์โพลีทีวี
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/PTsGKkL/image.png" ,โรโบคาร์โพลีทีวี
 https://livestream.zazerconer.workers.dev/channel/UCvKicVPiOrIuZdEYmxuRQug.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="Boomerang" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png", Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
