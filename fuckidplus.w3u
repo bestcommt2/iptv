@@ -1949,3 +1949,7 @@ https://www.inwiptv.com/player_demo.php?channel=89782
 #EXTVLCOPT:http-referrer=https://inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=89781
 
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/b94hdtv/b94hdtv.png" group-title="test", test22
+https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo-hits/playlist.m3u8
+#https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo-hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjQgMzoyMDo0OSBBTSZoYXNoX3ZhbHVlPXUwTWtuKzRUNnF5RnlXaEdRSmpwaWc9PSZ2YWxpZG1pbnV0ZXM9MjA=
