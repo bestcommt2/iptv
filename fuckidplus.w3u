@@ -59,13 +59,16 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/
 
 ###ช่องการ์ตูน###
 
-
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/vJdY0NG/animax.png",Animax
-http://metatvpro.com:25461/live/W0549/4058/267.playlist.m3u8
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/nbgW2T5/aniplus.png",Aniplus
-http://metatvpro.com:25461/live/W0549/4058/268.playlist.m3u8
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/98RrVcM/cbeebies.png",Cbeebies
-http://metatvpro.com:25461/live/W0549/4058/274.playlist.m3u8
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/vJdY0NG/animax.png" group-title="ช่องการ์ตูน", ANIMAX
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-name="CBeebies" tvg-logo="https://i.ibb.co/98RrVcM/cbeebies.png" group-title="ช่องการ์ตูน", CBEEBIES
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ytimg.com/vi/Zn1yvsGD-TU/maxresdefault.jpg",BabyBus
 https://livestream.zazerconer.workers.dev/channel/UCKpFt-Nh3A2Sg--mLmCebZQ.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/pKgMG4G/My-Little-Pony.png",My Little Pony
@@ -121,7 +124,7 @@ http://superonetv.ml:2095/live/1/0/115410.m3u8?mac=00:1a:79:b5:c5:a1
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113190510cnn.png",CNN
 #EXTGRP:ข่าว
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/778_CNN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIzIDE6MTY6MzcgUE0maGFzaF92YWx1ZT0vampRb0lZZDFTT3VYbm9nRm5yc1lRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMzMzOTQ=
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="y" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/30/19a0be10-e778-11ed-a3d3-f3f98ac7a1a1_webp_320.webp", BBC
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTGRP:ข่าว
@@ -556,17 +559,19 @@ https://cdn.dooball66.xyz/ballmun_live/sd5/playlist.m3u8
 https://cdn.dooball66.xyz/ballmun_live/sd4/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey  #KODIPROP:inputstream.adaptive.license_key=https://tv.realmetx.repl.co/Ch/license/truesport.html
-https://cdn728.stm.trueid.net/p101daidrm/he003_multi_w_auto_wv_tidapp.smil/manifest_w624873915_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPVJWTk5abHBtU1ZGaGRFNXFaRTF6WW1rdGIyUTBWWFJCYVdndFQycFZUbUkmc2lkPWQxOWZkN2MwMjMmcnQ9MTcwMzg3Nzg0MCZkcz04NjQwMCZ0az1scTdjWFZEU1loVU8xdEZJYjFtRVIwdnlROFNOVUo2WDZMbXMzM2EyNmVz.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey  #KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/truesport.html
+https://cdn103.stm.trueid.net/p101daidrm/he003_multi_w_auto_wv_tidapp.smil/manifest_w1638750682_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPVJWbGlOV2RsZFc0d1ZqSnNPRlpKYzBkak5EWktjM1pwZEhkVU1HUm9NbFkmc2lkPWFmOWIxYjNiOTUmcnQ9MTcwNDg2NTgwOCZkcz04NjQwMCZ0az1DZW9fMUpkQmpCeGI2QTdnVkhvbmN1VV80eFFGeTlRelZ2U1cxUGxoN01R.mpd
+
 
 #EXTINF:-1 group-title="Sport " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
-https://cdn725.stm.trueid.net/p101drm/he004_multi_w_auto_wv_tidapp.smil/manifest_w309058263_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPVJWTk5abHBtU1ZGaGRFNXFaRTF6WW1rdGIyUTBWWFJCYVdndFQycFZUbUkmc2lkPWEwYWU3YzE3MWMmcnQ9MTcwMzg3Nzg3MiZkcz04NjQwMCZ0az11WURQRDJmUG1ZR0Z2VTBuQWlfSm5BejN5UEh6Y05IMTlxYUhVSGV3ZzFv.mpd
+https://cdn106.stm.trueid.net/p101drm/he004_multi_w_auto_wv_tidapp.smil/manifest_w678700866_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPVJWbGlOV2RsZFc0d1ZqSnNPRlpKYzBkak5EWktjM1pwZEhkVU1HUm9NbFkmc2lkPThhNWViOWVlZTkmcnQ9MTcwNDg2NTgyOCZkcz04NjQwMCZ0az1pek9Lc3RVbktEZXk2RERLazBvMUk0VXhmZFhZVFg4R0doSDRyUmJQaS1B.mpd
+
 #EXTINF:-1 group-title="Sport " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
-https://cdn768.stm.trueid.net/p201drm/he005_multi_w_auto_wv_tidapp.smil/manifest_w1353054740_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPWRXOVBWV0ZhY1RsUGIwUjNZMmxEVDNVd1UydFdaVWt3ZGxkMFgydHdaRmsmc2lkPTM3NTBjYWM1MmUmcnQ9MTcwMzg3Nzg5NCZkcz04NjQwMCZ0az1QZVZWTk9Ud2hRcnpFd29OVDlXRE1kVENWM1ZGMzltNUZxMHZxTE9zNG1F.mpd
+https://cdn768.stm.trueid.net/p201drm/he005_multi_w_auto_wv_tidapp.smil/manifest_w1186495828_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0xNDA3MzIxMDUmZGlkPVJWbGlOV2RsZFc0d1ZqSnNPRlpKYzBkak5EWktjM1pwZEhkVU1HUm9NbFkmc2lkPTFlYjkwZGRmODYmcnQ9MTcwNDg2NTg0MiZkcz04NjQwMCZ0az1qRGplXzhJWkJZeHFIRWdIUmNDWmhSZXFiUWZLZnBjeGk5TVNoRlNBZXNR.mpd
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -922,7 +927,7 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 http://xtreamhd.ddns.net:9981/stream/mux/5466132886624b1b64cb56310b653002?ticket=7B935BB095C0670041252BCBB6CE2330A97FE3D8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/7M6WYVm.png" ,Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://metatvpro.com:25461/live/W0549/4058/194.m3u8
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="NK TV" tvg-logo="https://img2.pic.in.th/pic/oie_3123588Cg7SBeC.jpeg",NK TV
 http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="TVB Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",TVB Thai
