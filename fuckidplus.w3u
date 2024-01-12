@@ -524,7 +524,7 @@ http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM1.png", SPORTS LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn1.aws-live-streaming.com/true/ch1/playlist.m3u8
+https://cdn1.aws-live-streaming.com/true/ch1/chunks.m3u8?nimblesessionid=176999492
 https://cdn.dooball66.xyz/ballmun_live/sd1/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM2.png", SPORTS LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -544,7 +544,7 @@ https://cdn.dooball66.xyz/ballmun_live/sd4/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM5.png", SPORTS LIVE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn1.aws-live-streaming.com/true/ch5/playlist.m3u8
+https://cdn1.aws-live-streaming.com/true/ch6/chunks.m3u8?nimblesessionid=5190287
 https://cdn.dooball66.xyz/ballmun_live/sd5/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM6.png", SPORTS LIVE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -554,7 +554,7 @@ https://cdn.dooball66.xyz/ballmun_live/sd6/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/ch77.png", SPORTS LIVE 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn1.aws-live-streaming.com/true/ch7/playlist.m3u8
+https://cdn1.aws-live-streaming.com/true/ch7/chunks.m3u8?nimblesessionid=176999475
 https://cdn.dooball66.xyz/ballmun_live/sd7/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/ch88.png", SPORTS LIVE 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
