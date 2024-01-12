@@ -524,39 +524,48 @@ http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM2.png", SPORTS LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd1/playlist.m3u8
+https://cdn1.aws-live-streaming.com/true/ch1/playlist.m3u8
+https://cdn.dooball66.xyz/ballmun_live/sd1/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM2.png", SPORTS LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd2/playlist.m3u8
+https://cdn1.aws-live-streaming.com/true/ch2/playlist.m3u8
+https://cdn.dooball66.xyz/ballmun_live/sd2/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM3.png", SPORTS LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd3/playlist.m3u8
+https://cdn1.aws-live-streaming.com/true/ch3/playlist.m3u8
+https://cdn.dooball66.xyz/ballmun_live/sd3/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM1.png", SPORTS LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd4/playlist.m3u8
+https://cdn1.aws-live-streaming.com/true/ch4/playlist.m3u8
+https://cdn.dooball66.xyz/ballmun_live/sd4/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM5.png", SPORTS LIVE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd5/playlist.m3u8
+https://cdn1.aws-live-streaming.com/true/ch5/playlist.m3u8
+https://cdn.dooball66.xyz/ballmun_live/sd5/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM6.png", SPORTS LIVE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd6/playlist.m3u8
+https://cdn1.aws-live-streaming.com/true/ch6/playlist.m3u8
+https://cdn.dooball66.xyz/ballmun_live/sd6/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/ch77.png", SPORTS LIVE 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd7/playlist.m3u8
+https://cdn1.aws-live-streaming.com/true/ch7/playlist.m3u8
+https://cdn.dooball66.xyz/ballmun_live/sd7/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/ch88.png", SPORTS LIVE 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd5/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/ch99.png", SPORTS LIVE 7
+https://cdn1.aws-live-streaming.com/true/ch8/playlist.m3u8
+https://cdn.dooball66.xyz/ballmun_live/sd8/chunks.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/ch99.png", SPORTS LIVE 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
-https://cdn.dooball66.xyz/ballmun_live/sd4/playlist.m3u8
+https://cdn1.aws-live-streaming.com/true/ch9/playlist.m3u8
+https://cdn.dooball66.xyz/ballmun_live/sd9/chunks.m3u8
 
 #EXTINF:-1 group-title="Sport " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey  #KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/truesport.html
