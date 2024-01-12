@@ -521,7 +521,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png" group-title="Sport",Fight Sports
 http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/01.m3u8|referer=https://streaming.livescorethai.net
-#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM2.png", SPORTS LIVE 1
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM1.png", SPORTS LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
 https://cdn1.aws-live-streaming.com/true/ch1/playlist.m3u8
@@ -536,7 +536,7 @@ https://cdn.dooball66.xyz/ballmun_live/sd2/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://ballmun.com
 https://cdn1.aws-live-streaming.com/true/ch3/playlist.m3u8
 https://cdn.dooball66.xyz/ballmun_live/sd3/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM1.png", SPORTS LIVE 4
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM4.png", SPORTS LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
 https://cdn1.aws-live-streaming.com/true/ch4/playlist.m3u8
