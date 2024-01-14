@@ -1,5 +1,22 @@
 #EXTM3U url="https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u
 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+###SPORTTODAY###
+
+#EXTINF:-1 group-title="SPORTTODAY" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/-1aa277112b5d0ec8d.png",AFC Asian Cup 2023 CH1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424742&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422121&extension=ts
+#EXTINF:-1 group-title="SPORTTODAY" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/-1aa277112b5d0ec8d.png",AFC Asian Cup 2023 CH2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422125&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422124&extension=ts
+#EXTINF:-1 group-title="SPORTTODAY" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/-1aa277112b5d0ec8d.png",AFC Asian Cup 2023 CH3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422128&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422127&extension=ts
+#EXTINF:-1 group-title="SPORTTODAY" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/-1aa277112b5d0ec8d.png",AFC Asian Cup 2023 CH4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422131&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422130&extension=ts
+
 --------------------------------------------
 
 ###ทีวีดิจิตอลไทย###
