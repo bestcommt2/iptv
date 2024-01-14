@@ -262,6 +262,18 @@ https://cdn1.aws-live-streaming.com/ais/trueballthai3/playlist.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------
 ###SPORT###
 
+#EXTINF:-1 group-title="Sport" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/-1aa277112b5d0ec8d.png",AFC Asian Cup 2023 CH1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424742&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422121&extension=m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/-1aa277112b5d0ec8d.png",AFC Asian Cup 2023 CH2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422125&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422124&extension=m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/-1aa277112b5d0ec8d.png",AFC Asian Cup 2023 CH3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422128&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422127&extension=m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/-1aa277112b5d0ec8d.png",AFC Asian Cup 2023 CH4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422131&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1422130&extension=m3u8
 
 
 #EXTINF:-1 group-title="Sport" tvg-id="beIN SPORTS 1.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEIN SPORTS 1
