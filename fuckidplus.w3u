@@ -934,11 +934,11 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 ###หนังภาพยนตร์###
 
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27377637_ico.png",fuck id movie 1
-http://45.91.133.39/play/tHF1QVCj8HRSuXInh3zPo2mm1qFS87ofll_NVrV8AUwb-ypoKTxN6bL9850AGXub/ts
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613877_ico.png",fuck id movie 2
-http://45.91.133.39/play/tHF1QVCj8HRSuXInh3zPo2mm1qFS87ofll_NVrV8AUy0HvpNIc7ltxNdCAzzuSrU/ts
+https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613866_ico.png?ts=1702874579",fuck id movie 3
-http://45.91.133.39/play/tHF1QVCj8HRSuXInh3zPo2mm1qFS87ofll_NVrV8AUxTd9XfU07orAMypchhXV03/ts
+https://psiiptv-b.sky-cdn.com/ttd06-playlist/index.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8OGM66fyZZ9Hi6nuqzxdSj3AsFqEn8MTNw&usqp=CAU",CTB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
@@ -1585,12 +1585,13 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
 
 ###Documentary###
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/4FcIqJP.png", Wild EARTH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=OTH
-#EXTVLCOPT:update=04-07-2023 14:27:35 ( please update playlist https://bit.ly/41ui6wT )
-#EXTVLCOPT:develop by Shark Wow not for sale
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 tvg-logo="https://media.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png" group-title="Documentary",Wired 2 Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/ebc4094a88e19dbfe24a0f747165dda8.png" group-title="Documentary",  Wild Earth
+https://wildearth-roku.amagi.tv/masterR432p.m3u8
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary", Nasa
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://drive.google.com/uc?id=141Goz5SCvIOicmCdi06hNDmZrEckK1SH", Animal kingdom
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
 #EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://dl.dropbox.com/s/glb7gxiextzw97k/ci.png?dl=0" group-title="Documentary",CrimeInvestigation-wacth
