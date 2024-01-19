@@ -934,11 +934,20 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 ###หนังภาพยนตร์###
 
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27377637_ico.png",fuck id movie 1
-https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+http://6395online.com:8080/live/antonio/6487/163.ts
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613877_ico.png",fuck id movie 2
-https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8
+
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613866_ico.png?ts=1702874579",fuck id movie 3
+
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.tvphet.com/wp-content/uploads/2023/08/cropped-1-1.jpg",phetchabuntv
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/97_x_LuOlUJm1sfjWYchQ2FX3GPiH6vTkN0Rr.png",TTD2
+https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8
+#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/101_x_fc3xlaigrzTqYC5ktJsGBo7REuK948UO.png",TTD6
 https://psiiptv-b.sky-cdn.com/ttd06-playlist/index.m3u8
+
+
+
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8OGM66fyZZ9Hi6nuqzxdSj3AsFqEn8MTNw&usqp=CAU",CTB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
@@ -1001,6 +1010,86 @@ http://kungtv.net/play/live.php?mac=00:1A:79:BF:E6:64&stream=115630&extension=ts
 http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115630&extension=ts&play_token
 #EXTINF:-0 group-title="หนังภาพยนตร์" tvg-id="" tvg-logo="https://lh3.ggpht.com/sgKSvsh_97MW98v4ohtnP5FLSRKjNqegnCICTE6SKm15yGx5Vobb0_spt6qCAVA59Q=w300", Channel8 THAILAND
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+
+--------------------------------------------------------------------------------------
+###MYTV###
+#EXTINF:-1 group-logo="https://mvtv.co.th/wp-content/uploads/2023/03/mvtvlogo.png"
+
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/153_x_IMz6So10K5qk7i9tlCZFAYrsBLDp3Eye.jpg" group-title="MVTV", Boomerang
+https://edge6a.v2h-cdn.com/boomerang/boomerang.stream//playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_x_rUVn5fCZe3aEAoLymjbKqtJHkzi9ORXv.png" group-title="MVTV",MV CHANNEL
+https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_x_saHpK8xzyeAbF1kVoBEQ7WvjLSrCO6Dq.png" group-title="MVTV",TVB-Thai
+https://n-edge-1-th.v2h-cdn.com/tvb/tvb_thai/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/36_x_KWQFiNwmxolf3PV54h8UcDryvGtbueEI.png" group-title="MVTV",MIX-MAJOR
+https://n-edge-1-th.v2h-cdn.com/mixmajor/mixmajor/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/38_x_31fQ6niWbtVPogeIJEGzNRcd8DhBvM7C.png" group-title="MVTV",ลิโด้ Channel
+https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/40_x_Aw4erhDcoTCKHG5FJPBYqQsixOSjtRWL.png" group-title="MVTV",ราม่า CHANNEL
+https://n-edge-1-th.v2h-cdn.com/rama/rama/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/37_x_tofpxriUeKzsv30hIy1LTV4gOQMRa526.png" group-title="MVTV",สยาม Channel
+https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/38_x_31fQ6niWbtVPogeIJEGzNRcd8DhBvM7C.png" group-title="MVTV",สกาล่า CHANNEL
+https://edge6a.v2h-cdn.com/v2h14/v2h14.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/34_x_Fk9Q2nuGNSaPJeiH6BAULjDWhX1bmMzE.png" group-title="MVTV",MVM
+https://n-edge-1-th.v2h-cdn.com/mvm/mvm/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/33_x_bMhkve5VyzXn2DTam83pIoHBNd9R41Jj.png" group-title="MVTV",MV LAO TV
+https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/32_x_fWKv7p8yBYAsRI5SgwENcFH0hCQukV3r.jpg" group-title="MVTV",VTV NEWS
+https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/109_x_yCdQsbaZUoFezS521J73tLcBkrMxH9jK.jpg" group-title="MVTV",MVC
+https://edge6a.v2h-cdn.com/mvc/mvc.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_x_TdjwNprxaEFS3qMQeU2obyO1AlufGCDW.png" group-title="MVTV",ไทยบ้าน ทีวี
+https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/69_x_b8ztpmRWAdkosCIfMhlw4Orcex0nPLGH.png" group-title="MVTV",Happy Channel 
+https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/108_x_hBmMkOWe15u0sSfPXC78IbRprLylAgaz.jpg" group-title="MVTV",อีสานทีวี
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/95_x_O8Du7ETc04HmRsBeJxqiZQtv9zVwaAGy.jpg" group-title="MVTV",TTD1
+https://psiiptv-b.sky-cdn.com/ttd01-playlist/tracks-v1a1/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/97_x_LuOlUJm1sfjWYchQ2FX3GPiH6vTkN0Rr.png" group-title="MVTV",TTD2
+https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/98_x_NCGwFWiEHLfaMjysOutrD8hKcZl4kJY5.jpg" group-title="MVTV",TTD3
+https://edge6a.v2h-cdn.com/tvb_26/tvb_26.stream/index.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/99_x_J35rB9f8c7szijgaqTVYpkmUREFwhAC6.jpg" group-title="MVTV",TTD4
+https://psiiptv-b.sky-cdn.com/ttd04-Playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/100_x_PMGq7QhpEJ3ezODoBI2suaF8gRj6UH5t.jpg" group-title="MVTV",TTD5
+https://psiiptv-b.sky-cdn.com/ttd05-playlist/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/42_x_yb1ORMZWmsUKkTNo8Gnu3vX20p4wxCLS.png" group-title="MVTV", MVSeries 
+https://edge6a.v2h-cdn.com/mv_series/mv_series.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/V2H8-LOGO.png" group-title="MVTV", V2H8
+https://edge6a.v2h-cdn.com/v2h8/v2h8.stream/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/112_x_IJ3AQXdaChY9HUoipnMTScOqsuEjzgV4.png" group-title="MVTV", MV NEWS
+https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/42_x_yb1ORMZWmsUKkTNo8Gnu3vX20p4wxCLS.png" group-title="MVTV",MV-TVSERIES
+https://n-edge-1-th.v2h-cdn.com/mvtvseries/mvtvseries/playlist.m3u8
+
+
+
+
+#EXTINF:1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/%E0%B8%A1%E0%B8%B9%E0%B9%80%E0%B8%A5%E0%B8%95%E0%B8%B9.png" group-title="MVTV",มูเตลู
+https://edge6a.v2h-cdn.com/v2h11/v2h11.stream/playlist.m3u8
+
+
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_x_TdjwNprxaEFS3qMQeU2obyO1AlufGCDW.png" group-title="MVTV",รักแท้ทีวี
+https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
+
+
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/110_x_ZthGxK85dq3pbS9uv4knjiOf1ylwgrWI.png" group-title="MVTV",MV-GO-SPORT
+https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
+
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/69_x_b8ztpmRWAdkosCIfMhlw4Orcex0nPLGH.png" group-title="MVTV",69TV
+https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/97_x_LuOlUJm1sfjWYchQ2FX3GPiH6vTkN0Rr.png" group-title="MVTV",TTD2
+https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/105_x_yRSd1jaYKgJ4VAI0cnuDzmNGlftUBZws.png" group-title="MVTV",TTD 10
+https://psiiptv-b.sky-cdn.com/ttd10-playlist/index.m3u8
+#EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/111_x_siDEFTI2noQW0ute1kA3RarfOvGjzXqw.png" group-title="MVTV", มูเตลู
+https://psiiptv-b.sky-cdn.com/ttd25-playlist/index.m3u8
 
 
 --------------------------------------------------------------------------------------
