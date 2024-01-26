@@ -546,6 +546,30 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png" group-title="Sport",Fight Sports
 http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/01.m3u8|referer=https://streaming.livescorethai.net
+
+
+#EXTINF:-1 group-title="Sport " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey  
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/truesport.html
+
+https://2nud.short.gy/trueid.mpd
+https://cdn112.stm.trueid.net/p101daidrm/he003_multi_m_auto_wv_tidapp.smil/manifest_w28464710_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNDE2NjY3NTkmZGlkPU5HTTRORE5tWkdRMVpEWTBNR016T0Emc2lkPWM4NzYxOTlmYmYmcnQ9MTcwNjEyMjAzMiZkcz04NjQwMCZ0az1kZU9Da3VwM3hHcjUwTVhLT3pyczF1TFN2QmNpbkFhMTY2b3EwU1EzWFVJ.mpd
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
+https://2nud.short.gy/trueid2.mpd
+https://cdn777.stm.trueid.net/p101drm/he004_multi_m_auto_wv_tidapp.smil/manifest_w257432591_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNDE2NjY3NTkmZGlkPU5HTTRORE5tWkdRMVpEWTBNR016T0Emc2lkPTRhNjIwZmI2MzEmcnQ9MTcwNjEyMjA1OCZkcz04NjQwMCZ0az1pcW5ad2JxelVQQ0lWdzE4ZGdscUFpN3VmZFAzWEE5YktTQkxRSWFfWlNN.mpd
+
+
+EXTINF:-1 group-title="Sport " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
+https://2nud.short.gy/trueid3.mpd
+https://cdn115.stm.trueid.net/p201drm/he005_multi_m_auto_wv_tidapp.smil/manifest_w899396069_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNDE2NjY3NTkmZGlkPU5HTTRORE5tWkdRMVpEWTBNR016T0Emc2lkPTZkZmMwYjYyN2EmcnQ9MTcwNjEyMjA3NiZkcz04NjQwMCZ0az1wbWtGSy0tWXEtLVhoX0NWZTZGRklKUzNzekZ2R2gzV0VlbWpaYU54UGNZ.mpd
+
+
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM1.png", SPORTS LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
@@ -934,9 +958,9 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 ###หนังภาพยนตร์###
 
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27377637_ico.png",fuck id movie 1
-http://6395online.com:8080/live/antonio/6487/163.ts
+http://6395online.com:8080/live/antonio/6487/163.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613877_ico.png",fuck id movie 2
-http://6395online.com:8080/live/antonio/6487/168.ts
+http://6395online.com:8080/live/antonio/6487/168.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613866_ico.png?ts=1702874579",fuck id movie 3
 https://rr3---sn-5fo-jomz.googlevideo.com/videoplayback?expire=1705669547&ei=Sx-qZbKJKr-t9fwPq9Wg8Aw&ip=2405%3A9800%3Ab910%3Aefe4%3A88f6%3A51a5%3A1c13%3Aa592&id=o-AFwD5QmKyI9YW0h76xULzmPyQV_H3TPm3bj0tGUUY1eT&itag=303&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C299%2C302%2C303%2C308%2C315%2C330%2C331%2C332%2C333%2C334%2C335%2C336%2C337%2C394%2C395%2C396%2C397%2C398%2C399%2C400%2C401%2C694%2C695%2C696%2C697%2C698%2C699%2C700%2C701&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=br&mm=31%2C29&mn=sn-5fo-jomz%2Csn-5fo-c33e7&ms=au%2Crdu&mv=m&mvi=3&pl=53&initcwndbps=905000&siu=1&spc=UWF9f5IMzrQZUc2tvd7ziQ_qsWSWt-omR5FWfu960_ZiWhYehZJQNjcyIelv&vprv=1&svpuc=1&mime=video%2Fwebm&ns=62hZchqFKIp3IibrS4JY9tcQ&gir=yes&clen=81276098&dur=158.591&lmt=1698146843462849&mt=1705647663&fvip=6&keepalive=yes&fexp=24007246&c=WEB&txp=4537434&n=hStKpvNLlOcuaw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdS...
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.tvphet.com/wp-content/uploads/2023/08/cropped-1-1.jpg",phetchabuntv
@@ -1009,7 +1033,6 @@ https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 
 --------------------------------------------------------------------------------------
 ###MYTV###
-#EXTINF:-1 group-logo="https://mvtv.co.th/wp-content/uploads/2023/03/mvtvlogo.png"
 
 #EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/153_x_IMz6So10K5qk7i9tlCZFAYrsBLDp3Eye.jpg" group-title="MVTV", Boomerang
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream//playlist.m3u8
@@ -1238,6 +1261,14 @@ https://sv2.wacthstream.com/wacth_tv/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:1 tvg-id="" group-title="TRUE VISION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png", OVE Nature 4K
 https://sv2.wacthstream.com/wacth_tv/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDI6MDg6MTUgUE0maGFzaF92YWx1ZT1VUGo1aVdwYjkwOGlRTXhZWjMySFlRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTI4MTg=
 
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="beinsports1thailand.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6342b23473f5a8caccc7a928caa6d9d:54e4f22c165c4f024fa0988bab410562
+   
+#https://cdn756.stm.trueid.net/p201daidrm/202_multi_m_auto_wv_tidapp.smil/manifest_w1549492909_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNjI3MTk0MzMmZGlkPVlXTXdPVGt3WkRnelpXWXlNemcxTXcmc2lkPWNkNDVkNTY1MTEmcnQ9MTcwNTU0MDYyNCZkcz04NjQwMCZ0az1xNUR1R3dMNVZjZVNod3lseC1zN2tXRlpGcm5wSlVRaVJCX1N2V21sdjdn.mpd
+
+
+
 --------------------------------------------------------------------------------------
 ###3BBTV###
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" tvg-name="" tvg-id="3BB-LOVE Nature 4K" group-title="3BBTV",Love Nature 4K
@@ -1424,7 +1455,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd
 #EXTGRP:AIS PLAY
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/DASH/V0105.mpd?
-#EXTINF:-1 group-title="AIS PLAY" tvg-id="RT" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png",RT
+#EXTINF:-1 group-title="AIS PLAY" tvg-id="RT" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png",RTDocumentary
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/DASH/V0106.mpd?
 #EXTINF:1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0107.png" group-title="AIS PLAY", HLN
@@ -1596,11 +1627,11 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0192/DASH/V0192.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0193/DASH/V0193.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//EUROSPORT.png" group-title="AIS PLAY", EUROSPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tv.realmetx.repl.co/Ch/license/eurosport.html
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/eurosport.html
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0184/DASH/V0184.mpd
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="Cartoon Network" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png", Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfamlUQlJQQlRWUnJpbVdaUnpYRmIiLCJjaWQiOiJYMTcxIiwidG9rZW4iOiI2aldidEJYb0x2bzVqWFNwZm40c1dUMHJUNEZHanErbVljL2VvT2VDSkpnSE5ZTW4vMXFrSDN1cVdTei81TW5nNUVYdVo1Mm5zK05aUW5Nekl1TWZLSGxSVm82OVd5YmRCVXdrU1FVeFNqTG5lTXg2cXcyZkVnbkNnd0VQeGRtaCIsInRpbWVzdGFtcCI6IjIwMjQtMDEtMDJUMDM6NDE6NDZaIiwiaGFzaCI6IjBzUXdUOTVnNXdBck1WdkE5eS8xNXpBcDZxM1pVTEtTcXBCUEhKK3BnNlk9In0=
+#KODIPROP:inputstream.adaptive.license_key=752cdfe2fd238fcb0b98a8cb7e0ed584:1f0d3ac06263a52d9c826394c7f3b1d4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd
@@ -1841,6 +1872,12 @@ https://sv2.wacthstream.com/wacth_tv/335_TrueInsideHD/playlist.m3u8?wmsAuthSign=
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC25/index.m3u8
 #EXTINF:-1 group-title="วาไรตี้" tvg-id="FTV" tvg-logo="https://images.gofreedownload.net/ftv-65610.jpg",FTV
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC28/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/sd-mtvasia.png" group-title="วาไรตี้",MTV-ASIA
+https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/playlist.m3u8|Referer=https://freetvdd.com
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-chvinter.png" group-title="วาไรตี้", [V]Channel
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC14/index.m3u8
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ###สถานีทองถิ่นไทย### 
@@ -6465,3 +6502,33 @@ https://www.inwiptv.com/player_demo.php?channel=89782
 #EXTVLCOPT:http-referrer=https://inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=89781
 
+
+
+#EXTINF:-1 tvg-logo="https://assets.the-afc.com/broadcasters/Tsports7.png" group-title="test", TSPORTS7 THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
+#https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://assets.the-afc.com/broadcasters/Tsports7.png" group-title="test", TSPORTS7 THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
+#https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://assets.the-afc.com/broadcasters/Tsports7.png" group-title="test", TSPORTS7 THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
+#https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://assets.the-afc.com/broadcasters/Tsports7.png" group-title="test", TSPORTS7 THAI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+#https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
