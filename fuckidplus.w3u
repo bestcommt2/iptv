@@ -6465,32 +6465,14 @@ https://play.kakjeawplay.xyz/6cf6d8c0-a080-46bb-b137-a3c14ea3fb3c/_
 #EXTVLCOPT:http-referrer=https://inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=95262
 
-#EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730103943SOV.jpg"",FW SERIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://inwiptv.com/
-https://www.inwiptv.com/player_demo.php?channel=94898
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHnDH8.png" group-title="test",test
+#EXTVLCOPT:http-referrer=www.bahfootball.com"playInNatPlayer": "true"
+https://www.bahfootball.com/tvonline/play.php?id=KlW9OymBRqrD
 
-#EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730104009sport.jpg"",FW SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://inwiptv.com/
-https://www.inwiptv.com/player_demo.php?channel=92941
-
-#EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730104009sport.jpg"",FW DOCUMENTARY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://inwiptv.com/
-https://www.inwiptv.com/player_demo.php?channel=91303
-
-#EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730104048Toon.jpg"",FW CARTOON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://inwiptv.com/
-https://www.inwiptv.com/player_demo.php?channel=89782
-
-#EXTINF:-1 group-title="test" tvg-logo="https://img.inwiptv.net/postor/20230730104109Comedy.jpg"",FW COMEDY"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://inwiptv.com/
-https://www.inwiptv.com/player_demo.php?channel=89781
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHnDH8.png" group-title="test",test2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
+#https://2nud.short.gy/truelife.mpd
 
 #EXTINF:-1 tvg-logo="https://assets.the-afc.com/broadcasters/Tsports7.png" group-title="test", TSPORTS7 THAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -6520,12 +6502,3 @@ https://www.inwiptv.com/player_demo.php?channel=89781
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
 #https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHnDH8.png" group-title="test",test
-#EXTVLCOPT:http-referrer=www.bahfootball.com"playInNatPlayer": "true"
-https://www.bahfootball.com/tvonline/play.php?id=KlW9OymBRqrD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHnDH8.png" group-title="test",test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
-#https://2nud.short.gy/truelife.mpd
