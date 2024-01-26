@@ -963,7 +963,7 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 http://xtreamhd.ddns.net:9981/stream/mux/5466132886624b1b64cb56310b653002?ticket=7B935BB095C0670041252BCBB6CE2330A97FE3D8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/7M6WYVm.png" ,Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+http://newlife3.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60283.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="NK TV" tvg-logo="https://img2.pic.in.th/pic/oie_3123588Cg7SBeC.jpeg",NK TV
 http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="TVB Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",TVB Thai
@@ -1122,14 +1122,17 @@ https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
+
 https://ctrl.laotv.la/live/TureFilm/index.m3u8
+
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115667&extension=ts&play_token
-https://streaming.livescorethai.net/iptv/hd-tfilm2.stream/playlist.m3u8
+
 http://playtv.my.id/play/truefilm2.m3u8
+https://github.com/bestcommt2/Kondoball/raw/master/truefilm2.m3u8
+
+
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TrueThaiFilm" tvg-logo="https://img2.pic.in.th/pic/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_originalf06065ca0f1a0890.png",TrueThaiFilm
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1252,7 +1255,7 @@ https://sv2.wacthstream.com/wacth_tv/563_Love_Nature/playlist.m3u8?wmsAuthSign=c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6342b23473f5a8caccc7a928caa6d9d:54e4f22c165c4f024fa0988bab410562
    
-#https://cdn756.stm.trueid.net/p201daidrm/202_multi_m_auto_wv_tidapp.smil/manifest_w1549492909_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNjI3MTk0MzMmZGlkPVlXTXdPVGt3WkRnelpXWXlNemcxTXcmc2lkPWNkNDVkNTY1MTEmcnQ9MTcwNTU0MDYyNCZkcz04NjQwMCZ0az1xNUR1R3dMNVZjZVNod3lseC1zN2tXRlpGcm5wSlVRaVJCX1N2V21sdjdn.mpd
+https://cdn756.stm.trueid.net/p201daidrm/202_multi_m_auto_wv_tidapp.smil/manifest_w1549492909_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNjI3MTk0MzMmZGlkPVlXTXdPVGt3WkRnelpXWXlNemcxTXcmc2lkPWNkNDVkNTY1MTEmcnQ9MTcwNTU0MDYyNCZkcz04NjQwMCZ0az1xNUR1R3dMNVZjZVNod3lseC1zN2tXRlpGcm5wSlVRaVJCX1N2V21sdjdn.mpd
 
 
 
