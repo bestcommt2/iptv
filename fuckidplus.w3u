@@ -6460,7 +6460,12 @@ https://play.kakjeawplay.xyz/6cf6d8c0-a080-46bb-b137-a3c14ea3fb3c/_
 -----------------------------------------------------------------------------------------------------------------------------------------
 ####test####
 
-EXTINF:-1 group-title="test" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
+EXTINF:-1 group-title="test" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://kdcid.stm.trueid.net/drm/widevine?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=8eb20d1804&rt=1706245443&ds=86400&tk=RFHHPX0AqPTZUEOiEH_mbB6VrWaXbotOSUQeFtc7tKQ&mpass=YhjePaljesmQsEYVuBzvBlgAIqijE0LZdWFvQOvnAxEHN67cHb7QM8xMMpL5zYOy0RFW2omVhNI2tTiFJjiVHZQ4FUFX4jkJ3qzJvi7bj2kgIHuchfm3UzaPARSc27Zu768
 https://cdn758.stm.trueid.net/p101daidrm/he003_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=8eb20d1804&rt=1706245443&ds=86400&tk=RFHHPX0AqPTZUEOiEH_mbB6VrWaXbotOSUQeFtc7tKQ
+
+#EXTINF:-1 group-title="test" tvg-id="Cartoonito.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://kdcid.stm.trueid.net/drm/widevine?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=0f09352f83&rt=1706248128&ds=86400&tk=TJgpp6E1GSsCaz204pR0G9IIS5B6EBlsGe390PXCZtU&mpass=f6hu9NtLA-L46tRhYwkmDp9QmsF9Ns0iyGs41-5eSxlyCOiERftYV10K9MD20Y94C4F5g3umF19ti5yxpdzJwwTfyAA1AU5a7VyDiQ6D7R0gIELC_UhTtw5XzK9byB8Z6Ts
+https://cdn762.stm.trueid.net/p101drm/he004_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=0f09352f83&rt=1706248128&ds=86400&tk=TJgpp6E1GSsCaz204pR0G9IIS5B6EBlsGe390PXCZtU
