@@ -1619,11 +1619,9 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0193/DASH/V0193.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/eurosport.html
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0184/DASH/V0184.mpd
-#EXTINF:-1 group-title="AIS PLAY" tvg-id="Cartoon Network" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png", Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-0 tvg-id="Cartoon Network.th" tvg-name="Cartoon Network" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="AIS PLAY",Cartoon Network TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=752cdfe2fd238fcb0b98a8cb7e0ed584:1f0d3ac06263a52d9c826394c7f3b1d4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://www.bahfootball.com/
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd
 
 
