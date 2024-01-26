@@ -549,15 +549,13 @@ https://cdn777.stm.trueid.net/p101daidrm/he003_multi_m_auto_wv_tidapp.smil/manif
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
 https://2nud.short.gy/trueid2.mpd
-https://cdn777.stm.trueid.net/p101drm/he004_multi_m_auto_wv_tidapp.smil/manifest_w257432591_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNDE2NjY3NTkmZGlkPU5HTTRORE5tWkdRMVpEWTBNR016T0Emc2lkPTRhNjIwZmI2MzEmcnQ9MTcwNjEyMjA1OCZkcz04NjQwMCZ0az1pcW5ad2JxelVQQ0lWdzE4ZGdscUFpN3VmZFAzWEE5YktTQkxRSWFfWlNN.mpd
-
+https://cdn110.stm.trueid.net/p101drm/he004_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=6b9e56e405&rt=1706249024&ds=86400&tk=MpQ1njuoHO83yDeRBTVz9u8q39blGopv5wYbzuGYb4s
 
 EXTINF:-1 group-title="Sport " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
 https://2nud.short.gy/trueid3.mpd
-https://cdn115.stm.trueid.net/p201drm/he005_multi_m_auto_wv_tidapp.smil/manifest_w899396069_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNDE2NjY3NTkmZGlkPU5HTTRORE5tWkdRMVpEWTBNR016T0Emc2lkPTZkZmMwYjYyN2EmcnQ9MTcwNjEyMjA3NiZkcz04NjQwMCZ0az1wbWtGSy0tWXEtLVhoX0NWZTZGRklKUzNzekZ2R2gzV0VlbWpaYU54UGNZ.mpd
-
+https://cdn760.stm.trueid.net/p201drm/he005_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=44c2eb7d3c&rt=1706249056&ds=86400&tk=dVEHgaeKlNCLK2e-fXseJTDlOdcX682SRxMl-0UHpss
 
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM1.png", SPORTS LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
