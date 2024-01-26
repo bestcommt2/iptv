@@ -6466,6 +6466,7 @@ https://play.kakjeawplay.xyz/6cf6d8c0-a080-46bb-b137-a3c14ea3fb3c/_
 https://www.inwiptv.com/player_demo.php?channel=95262
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHnDH8.png" group-title="test",test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=www.bahfootball.com"playInNatPlayer": "true"
 https://www.bahfootball.com/tvonline/play.php?id=KlW9OymBRqrD
 
