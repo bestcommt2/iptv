@@ -793,7 +793,6 @@ https://2nud.short.gy/sonyten3.m3u8
 #EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="sonyten4.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",SonyTen 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 
-#
 #EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="sonysix.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",SonyTen 5
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
@@ -6458,8 +6457,8 @@ https://play.kakjeawplay.xyz/6cf6d8c0-a080-46bb-b137-a3c14ea3fb3c/_
 
 #EXTINF:-1 group-title="test" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://kdcid.stm.trueid.net/drm/widevine?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=1bf44204a1&rt=1706336867&ds=86400&tk=X6GkQqsgQ-bsE4-TEHcC4xeF57daKgeWsWkODDKgZzk&mpass=v1Nfut3eoeOTyPdgJH1kf6offh_HxP_hCSFQj6ciVqAS2yzOk3kg-FccwxTu1AMhIHnatwWU0FpBkI34zvLzgDaq5Lqx5UcZ3JZnGFgTC_AgIEvGdQGQ0qSVOS4C6A9gar8
-https://cdn115.stm.trueid.net/p105drm/ht111_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=1bf44204a1&rt=1706336867&ds=86400&tk=X6GkQqsgQ-bsE4-TEHcC4xeF57daKgeWsWkODDKgZzk
+#KODIPROP:inputstream.adaptive.license_key=b8d35746ec9e9f5c3ebfc5ec945ebf42:78531faef00ddfcf9dfe029812c9f40f
+https://cdn129.stm.trueid.net/p305drm/ht112_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=f3890e6cc4&rt=1706341520&ds=86400&tk=tLBOuxUR36jo6RCUeZNnaQd5vXwbINLHMWqdjYtyclE
 
 
 #EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://i.imgur.com/QaVqmK1.png" group-title="test",True Film 2
@@ -6474,7 +6473,7 @@ https://2nud.short.gy/truelife.mpd
 
 #EXTINF:-1 group-title="test " tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True PremierHD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/epl1.html
+#KODIPROP:inputstream.adaptive.license_key=b8d35746ec9e9f5c3ebfc5ec945ebf42:78531faef00ddfcf9dfe029812c9f40f
 https://2nud.short.gy/trueepl1.mpd
 
 #EXTINF:-1 group-title="test " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
