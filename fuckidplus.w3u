@@ -6468,12 +6468,12 @@ https://cdn115.stm.trueid.net/p105drm/ht111_multi_m_auto_wv_tidapp.smil/manifest
 #EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://i.imgur.com/QaVqmK1.png" group-title="test",True Film 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/trueflim2.html
-#https://2nud.short.gy/truefilm2.mpd
+https://2nud.short.gy/truefilm2.mpd
 
 #EXTINF:-0 group-title="test" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", TRUE EXPLIFE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
-#https://2nud.short.gy/truelife.mpd
+https://2nud.short.gy/truelife.mpd
 
 #EXTINF:-1 group-title="test " tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True PremierHD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
