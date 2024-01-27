@@ -6461,6 +6461,41 @@ https://play.kakjeawplay.xyz/6cf6d8c0-a080-46bb-b137-a3c14ea3fb3c/_
 
 #EXTINF:-1 group-title="test" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://kdcid.stm.trueid.net/drm/widevine?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=8eb20d1804&rt=1706245443&ds=86400&tk=RFHHPX0AqPTZUEOiEH_mbB6VrWaXbotOSUQeFtc7tKQ&mpass=YhjePaljesmQsEYVuBzvBlgAIqijE0LZdWFvQOvnAxEHN67cHb7QM8xMMpL5zYOy0RFW2omVhNI2tTiFJjiVHZQ4FUFX4jkJ3qzJvi7bj2kgIHuchfm3UzaPARSc27Zu768
-https://cdn758.stm.trueid.net/p101daidrm/he003_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=8eb20d1804&rt=1706245443&ds=86400&tk=RFHHPX0AqPTZUEOiEH_mbB6VrWaXbotOSUQeFtc7tKQ
+#KODIPROP:inputstream.adaptive.license_key=https://kdcid.stm.trueid.net/drm/widevine?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=1bf44204a1&rt=1706336867&ds=86400&tk=X6GkQqsgQ-bsE4-TEHcC4xeF57daKgeWsWkODDKgZzk&mpass=v1Nfut3eoeOTyPdgJH1kf6offh_HxP_hCSFQj6ciVqAS2yzOk3kg-FccwxTu1AMhIHnatwWU0FpBkI34zvLzgDaq5Lqx5UcZ3JZnGFgTC_AgIEvGdQGQ0qSVOS4C6A9gar8
+https://cdn115.stm.trueid.net/p105drm/ht111_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=1bf44204a1&rt=1706336867&ds=86400&tk=X6GkQqsgQ-bsE4-TEHcC4xeF57daKgeWsWkODDKgZzk
 
+
+#EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://i.imgur.com/QaVqmK1.png" group-title="test",True Film 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/trueflim2.html
+#https://2nud.short.gy/truefilm2.mpd
+
+#EXTINF:-0 group-title="test" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", TRUE EXPLIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
+#https://2nud.short.gy/truelife.mpd
+
+#EXTINF:-1 group-title="test " tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True PremierHD 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/epl1.html
+https://2nud.short.gy/trueepl1.mpd
+
+#EXTINF:-1 group-title="test " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey  
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/truesport.html
+https://2nud.short.gy/trueid.mpd
+
+#EXTINF:-1 group-title="test " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
+https://2nud.short.gy/trueid2.mpd
+
+EXTINF:-1 group-title="test" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
+https://2nud.short.gy/trueid3.mpd
+
+#EXTINF:-1 group-title="test " tvg-id="beinsports1thailand.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6342b23473f5a8caccc7a928caa6d9d:54e4f22c165c4f024fa0988bab410562
+https://cdn756.stm.trueid.net/p201daidrm/202_multi_m_auto_wv_tidapp.smil/manifest_w1549492909_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNjI3MTk0MzMmZGlkPVlXTXdPVGt3WkRnelpXWXlNemcxTXcmc2lkPWNkNDVkNTY1MTEmcnQ9MTcwNTU0MDYyNCZkcz04NjQwMCZ0az1xNUR1R3dMNVZjZVNod3lseC1zN2tXRlpGcm5wSlVRaVJCX1N2V21sdjdn.mpd
