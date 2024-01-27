@@ -537,25 +537,6 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Refe
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png" group-title="Sport",Fight Sports
 http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/01.m3u8|referer=https://streaming.livescorethai.net
 
-
-#EXTINF:-1 group-title="Sport " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey  
-#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/truesport.html
-
-https://cdn777.stm.trueid.net/p101daidrm/he003_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=664400de8e&rt=1706248689&ds=86400&tk=QW5C2GQOPTdb93YC_r6579l9gQT6t0iX2BPpkg_U2Jg
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
-
-https://cdn110.stm.trueid.net/p101drm/he004_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=6b9e56e405&rt=1706249024&ds=86400&tk=MpQ1njuoHO83yDeRBTVz9u8q39blGopv5wYbzuGYb4s
-
-EXTINF:-1 group-title="Sport " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
-
-https://cdn760.stm.trueid.net/p201drm/he005_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=44c2eb7d3c&rt=1706249056&ds=86400&tk=dVEHgaeKlNCLK2e-fXseJTDlOdcX682SRxMl-0UHpss
-
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://ballmun.com/asset/icon/BM1.png", SPORTS LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballmun.com
@@ -1108,6 +1089,22 @@ https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 
 --------------------------------------------------------------------------------------
 ###TRUE VISION TV###
+
+#EXTINF:-1 group-title="TRUE VISION TV " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey  
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/truesport.html
+https://2nud.short.gy/trueid.mpd
+
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
+
+https://2nud.short.gy/trueid2.mpd
+EXTINF:-1 group-title="TRUE VISION TV " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
+
+https://2nud.short.gy/trueid3.mpd
 
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Rock_Entertainment" tvg-logo="http://tvsmagazine.com/images/channels/sm_177.jpg",Rock_Entertainment
 #EXTVLCOPT:http-referrer=https://wacth.tv
