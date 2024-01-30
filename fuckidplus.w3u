@@ -924,11 +924,13 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 ###หนังภาพยนตร์###
 
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27377637_ico.png",fuck id movie 1
+http://6395online.com:8080/live/danai/6487/163.m3u8
 http://6395online.com:8080/live/antonio/6487/163.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613877_ico.png",fuck id movie 2
+http://6395online.com:8080/live/danai/6487/168.m3u8
 http://6395online.com:8080/live/antonio/6487/168.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613866_ico.png?ts=1702874579",fuck id movie 3
-https://rr3---sn-5fo-jomz.googlevideo.com/videoplayback?expire=1705669547&ei=Sx-qZbKJKr-t9fwPq9Wg8Aw&ip=2405%3A9800%3Ab910%3Aefe4%3A88f6%3A51a5%3A1c13%3Aa592&id=o-AFwD5QmKyI9YW0h76xULzmPyQV_H3TPm3bj0tGUUY1eT&itag=303&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C299%2C302%2C303%2C308%2C315%2C330%2C331%2C332%2C333%2C334%2C335%2C336%2C337%2C394%2C395%2C396%2C397%2C398%2C399%2C400%2C401%2C694%2C695%2C696%2C697%2C698%2C699%2C700%2C701&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=br&mm=31%2C29&mn=sn-5fo-jomz%2Csn-5fo-c33e7&ms=au%2Crdu&mv=m&mvi=3&pl=53&initcwndbps=905000&siu=1&spc=UWF9f5IMzrQZUc2tvd7ziQ_qsWSWt-omR5FWfu960_ZiWhYehZJQNjcyIelv&vprv=1&svpuc=1&mime=video%2Fwebm&ns=62hZchqFKIp3IibrS4JY9tcQ&gir=yes&clen=81276098&dur=158.591&lmt=1698146843462849&mt=1705647663&fvip=6&keepalive=yes&fexp=24007246&c=WEB&txp=4537434&n=hStKpvNLlOcuaw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdS...
+https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/BQdq7_9MOklqngtkv/videoblocks-61dc77e29afa4f098010ed94_rwzecn-ak__7cb6c27a74e0204cc321dc71b4a076b0__P360.mp4
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.tvphet.com/wp-content/uploads/2023/08/cropped-1-1.jpg",phetchabuntv
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
@@ -6457,9 +6459,7 @@ https://play.kakjeawplay.xyz/6cf6d8c0-a080-46bb-b137-a3c14ea3fb3c/_
 
 #EXTINF:-1 group-title="test" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8d35746ec9e9f5c3ebfc5ec945ebf42:78531faef00ddfcf9dfe029812c9f40f
-https://cdn129.stm.trueid.net/p305drm/ht112_multi_m_auto_wv_tidapp.smil/manifest.mpd?appid=trueid.th&type=live&visitor=mobile&drm=wv3&uid=141666759&did=NGM4NDNmZGQ1ZDY0MGMzOA&sid=f3890e6cc4&rt=1706341520&ds=86400&tk=tLBOuxUR36jo6RCUeZNnaQd5vXwbINLHMWqdjYtyclE
-
+#KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://i.imgur.com/QaVqmK1.png" group-title="test",True Film 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6473,7 +6473,7 @@ https://2nud.short.gy/truelife.mpd
 
 #EXTINF:-1 group-title="test " tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True PremierHD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8d35746ec9e9f5c3ebfc5ec945ebf42:78531faef00ddfcf9dfe029812c9f40f
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/epl1.html
 https://2nud.short.gy/trueepl1.mpd
 
 #EXTINF:-1 group-title="test " tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID LIVE
