@@ -6463,16 +6463,16 @@ https://play.kakjeawplay.xyz/6cf6d8c0-a080-46bb-b137-a3c14ea3fb3c/_
 #KODIPROP:inputstream.adaptive.license_key=e6342b23473f5a8caccc7a928caa6d9d:54e4f22c165c4f024fa0988bab410562
 https://cdn756.stm.trueid.net/p201daidrm/202_multi_m_auto_wv_tidapp.smil/manifest_w1549492909_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNjI3MTk0MzMmZGlkPVlXTXdPVGt3WkRnelpXWXlNemcxTXcmc2lkPWNkNDVkNTY1MTEmcnQ9MTcwNTU0MDYyNCZkcz04NjQwMCZ0az1xNUR1R3dMNVZjZVNod3lseC1zN2tXRlpGcm5wSlVRaVJCX1N2V21sdjdn.mpd
 
-#EXTINF:-1 tvg-id="test" tvg-name="TrueFilmHD2" tvg-logo="https://i.imgur.com/QaVqmK1.png" group-title="TRUE VISION NOW",True Film 2
+#EXTINF:-1 tvg-id="test" tvg-name="TrueFilmHD2" tvg-logo="https://i.imgur.com/QaVqmK1.png" group-title="test",True Film 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/trueflim2.html
 https://2nud.short.gy/truefilm2.mpd
-http://playtv.my.id/play/truefilm2.m3u8
+
 
 #EXTINF:-0 group-title="test" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", TRUE EXPLIFE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
-#https://2nud.short.gy/truelife.mpd
+https://2nud.short.gy/truelife.mpd
 http://playtv.my.id/play/life.m3u8
 
 
