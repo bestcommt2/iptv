@@ -345,9 +345,9 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0190/DASH/V0190.mpd
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TENNIS HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp" group-title="Sport",TENNIS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sv2.wacthstream.com/wacth_tv/670_Tennis/playlist.m3u8
 https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8|referer=https://streaming.livescorethai.net
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA HD" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/nbatv.jpg" group-title="Sport",NBA HD
 http://superonetv.ml:2095/live/1/0/115738.m3u8?mac=00:1a:79:b5:c5:a1
 
