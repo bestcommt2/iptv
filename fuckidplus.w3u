@@ -1358,17 +1358,17 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V
 #EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="AIS PLAY",JKN 18
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0010/DASH/V0010.mpd
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="AIS PLAY",THAI PBS HD
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0014/HLS/V0014-avc1_5000000=2-mp4a_64000_tha=6.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0014/HLS/V0014.mpd
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="ไทยรัฐทีวี 32" tvg-logo="https://static.thairath.co.th/media/dFQROr7oWzulq5FZYjjA515688fYpq5TMLJD17vUyLlN8HXXTvARWsmL1j8q7THf3rE.jpg" group-title="AIS PLAY",ไทยรัฐทีวี 32
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013-avc1_8000000=4-mp4a_96000_tha=6.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.mpd
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="AIS PLAY",Workpoint
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0015/DASH/V0015.mpd
 #EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="AIS PLAY",MONO 29
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0016/DASH/V0016.mpd
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="AIS PLAY",Amarin TV
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0017/HLS/V0017.mpd
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0017/HLS/V0017.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="AIS PLAY",CH7 HD
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018-avc1_8000000=5-mp4a_96000_tha=6.m3u8
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018.m3u8
 #EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="AIS PLAY",GMM 25
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/DASH/B0019.mpd
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="AIS PLAY",Nation TV
