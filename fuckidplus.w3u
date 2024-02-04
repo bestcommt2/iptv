@@ -1167,6 +1167,7 @@ https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8
 #EXTINF:-0 group-title="TRUE VISION TV" tvg-id="TrueExploreLife.th" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-life.png",True Explorer Life-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://sv2.wacthstream.com/wacth_tv/560_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDI6MDg6MTUgUE0maGFzaF92YWx1ZT1VUGo1aVdwYjkwOGlRTXhZWjMySFlRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTI4MTg=
+http://playtv.my.id/play/life.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True Explore SCI (EN)" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-sci.png" group-title="TRUE VISION TV",True Explore SCI (EN)
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36h
