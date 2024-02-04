@@ -6461,7 +6461,7 @@ https://play.kakjeawplay.xyz/6cf6d8c0-a080-46bb-b137-a3c14ea3fb3c/_
 #EXTINF:-1 group-title="test " tvg-id="beinsports1thailand.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://artg.short.gy/key nfl true
-https://artg.short.gy/nfltrue
+https://artg.short.gy/nfltrue.mpd
 
 #EXTINF:-1 tvg-id="test" tvg-name="TrueFilmHD2" tvg-logo="https://i.imgur.com/QaVqmK1.png" group-title="test",True Film 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
