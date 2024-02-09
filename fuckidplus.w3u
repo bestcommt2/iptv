@@ -2,6 +2,9 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 group-title="หัวควย" tvg-id="AFC Asian Cup 2023" tvg-logo="",หัวควยกูไม่ปิดหลอกแอฟ มึงก็ไอ้เฒ่าตัวหนึ่ง มึงก็เหมือนหมาตัวนึง ที่ชอบเหา ไล่กัดเท่าไปทั่ว ดวย
+
+-----------------------------------------------------------------------------------------------------------------------------------
 ###AFC Asian Cup 2023###
 
 #EXTINF:-1 group-title="AFC Asian Cup 2023" tvg-id="AFC Asian Cup 2023" tvg-logo="https://img2.pic.in.th/pic/afc-asian-cup-2023-ch1.png",AFC Asian Cup 2023 CH1
@@ -2092,6 +2095,17 @@ https://main.77player.xyz/m3u8/1112ccfc10775bb730be3f48/1112ccfc10775bb730be3f48
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ####DooMovieonline####
+
+#EXTINF:-1 group-title="DooMovieonline" tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023-%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B9%88%E0%B8%AD-187x269.jpg", The Undertaker (2023) สัปเหร่อ 
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.m3u8p.com/m3u8/fa0618ad16c8e18530e3646d/fa0618ad16c8e18530e3646d438.m3u8
+
+#EXTINF:-1 group-title="DooMovieonline" tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Sit-Down-with-Stand-Up-Udom-Taephanich-2024-%E0%B8%8B%E0%B8%B4%E0%B8%97%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%97-%E0%B8%AA%E0%B9%81%E0%B8%95%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B8%AD%E0%B8%B1%E0%B8%9E-%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1-%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A-187x269.jpg", Sit Down with Stand Up Udom Taephanich (2024) ซิทดาวน์ วิท สแตนด์
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.m3u8p.com/m3u8/73167f547dfe1c54543d205e/73167f547dfe1c54543d205e438.m3u8
+
 
 #EXTINF:-1 group-title="DooMovieonline" tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-187x269.jpg", 4 Kings 2 
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
