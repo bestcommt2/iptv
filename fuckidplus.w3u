@@ -397,31 +397,31 @@ https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V1002/HLS/V1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c36f3b0f9a5677aff2f0a5bade6ac9:92314d7b1ce6b7541f7ff147b72f1e96
 https://artg.short.gy/trueepl1fuckid.mpd
-https://2nud.short.gy/trueepl1.mpd
+
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey  
 #KODIPROP:inputstream.adaptive.license_key=e46b07f9049b58b99ffc24a6bc2d813b:6cbd92a4efad354681576eb76c29b9bb
 https://artg.short.gy/trueid1fuckid.mpd
-https://2nud.short.gy/trueid.mpd
+
 
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
 
-https://2nud.short.gy/trueid2.mpd
+https://artg.short.gy/trueid2fuckid.mpd
 EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
 
-https://2nud.short.gy/trueid3.mpd
+https://artg.short.gy/trueid3fuckid.mpd
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sports HD2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3530497a38a952eea890f12d2e94e049&key=9f23baa81327ec1806d89e930943ce8f
 https://artg.short.gy/truesport2fuckid.mpd
-https://2nud.short.gy/truesport2.mpd
+
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2022/12/22/d9313340-81d9-11ed-a7f9-412bbba270e9_webp_original.png",NFL & NBATV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
