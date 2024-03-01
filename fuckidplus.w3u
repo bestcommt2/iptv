@@ -155,15 +155,18 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="beinsports7ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",BEIN SPORTS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-https://49-2310-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 #EXTINF:-1 tvg-id="" tvg-name="SIAMSPORT1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png" group-title="AIS PLAY",SIAMSPORT1
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL001/DASH/JL001
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL001/DASH/JL001.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="SIAMSPORT2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png" group-title="AIS PLAY",SIAMSPORT2
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL002/DASH/JL002
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL002/DASH/JL002.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="SIAMSPORT3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png" group-title="AIS PLAY",SIAMSPORT3
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL003/DASH/JL003
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL003/DASH/JL003.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="SIAMSPORT3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png" group-title="AIS PLAY",SIAMSPORT4
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL004/DASH/JL004
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL004/DASH/JL004.mpd
 
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="GlobalTrekker.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png",GlobalTrekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
