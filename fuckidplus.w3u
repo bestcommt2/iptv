@@ -441,7 +441,7 @@ https://2nud.short.gy/truebein3.mpd
 #EXTINF:-0 group-title="TRUE ID" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", True Explife 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/bestcommt2/iptv/master/keytruelife
-https://2nud.short.gy/truelife.mpd
+https://artg.short.gy/truelifefuckid.mpd
 http://playtv.my.id/play/life.m3u8
 
 
@@ -449,16 +449,19 @@ http://playtv.my.id/play/life.m3u8
 #EXTINF:-0 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png" group-title="TRUE ID",TrueMovieHits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f75ff165c14d50ab80965fed2d5b469f:731a4c8c2f289bbbf99c0fc05276ea5e
+https://artg.short.gy/truemoviehits.mpd
 https://2nud.short.gy/truehits.mpd
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp", THAIFILM 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81591627934455d9a3215b04d13932fc:6b990eb27ee6ee4c2ca9c7d3372c8cab
+https://artg.short.gy/truethaifilmfuckid.mpd
 https://2nud.short.gy/thaifilm.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://2nud.short.gy/truefilm1.php
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/bestcommt2/iptv/master/keytruefilm1
 #EXTINF:-0 tvg-id="TrueFilmHD1.th" tvg-name="TH - TR FILM HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png" group-title="TRUE ID", True Film 1
+https://artg.short.gy/truefilm1fuckid.mpd
 https://2nud.short.gy/truefilm1.mpd
 
 #EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="TRUE ID",True Film 2
