@@ -419,6 +419,11 @@ EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/
 
 https://artg.short.gy/trueid3fuckid.mpd
 
+#EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Sports HD1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://is.gd/keyidnfl
+https://artg.short.gy/truesport1fuckid.mpd
+
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sports HD2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -464,7 +469,26 @@ https://artg.short.gy/truethaifilmfuckid.mpd
 https://artg.short.gy/truefilm1fuckid.mpd
 
 
+#EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="TRUE ID",True Film 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://distractible-smile.000webhostapp.com/keyid/trueflim2.html
+https://artg.short.gy/truefilm2fuckid.mpd
 
+#EXTINF:-1 tvg-id="kmtv.th" tvg-name="KMTV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png" group-title="TRUE ID", KMTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=349cd45f1d665f4c999456d7fa7ff7de:c5d6a01f56fd169cbcc4accbd5bbfb7d
+https://artg.short.gy/truekmtfuckid.mpd
+
+#EXTINF:-1 tvg-id="MTY1" tvg-name="MTY1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/35349410-5363-11ee-8322-fb6a8c8f2ff6_webp_original.webp" group-title="TRUE ID", MOTORVISION TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ade5b9295fab59989dc6f3fc3486f791:24b8043bd9ffbb5102227adef60af29c
+https://artg.short.gy/trueMOTORVISIONTVfuckid.mpd
+
+
+
+#EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/a915a6a2-2e64-49e4-8049-6741274ce00e.png",FASHION TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://is.gd/keyidfashion
 
 --------------------------------------------------------------------------------------
 ###TRUE VISION TV###
