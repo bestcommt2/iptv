@@ -1,0 +1,39 @@
+#EXTM3U url="https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u
+
+
+
+--------------------------------------------------------------------------------------
+###TRUE ID###
+
+
+#EXTINF:-1 group-title="TRUE ID" tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://artg.short.gy/keytpl2
+https://artg.short.gy/trueepl2fuckid.mpd
+
+
+#EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="TRUE ID",True Film 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://distractible-smile.000webhostapp.com/keyid/trueflim2.html
+https://2nud.short.gy/truefilm2.mpd
+
+#EXTINF:-1 tvg-id="kmtv.th" tvg-name="KMTV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png" group-title="TRUE ID", KMTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=349cd45f1d665f4c999456d7fa7ff7de:c5d6a01f56fd169cbcc4accbd5bbfb7d
+https://cdn132.stm.trueid.net/p402drm/121_multi_m_auto_wv_tidapp.smil/manifest_w809304518_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNDE2NjY3NTkmZGlkPU5HTTRORE5tWkdRMVpEWTBNR016T0Emc2lkPTg0ZTQ4YWNjNWMmcnQ9MTcwOTA1NDM2OSZkcz04NjQwMCZ0az1DdkZ3NlhJeFppTEY0Y3RNOF9MSHRaVkJmS2Jtb0VoS1l1bWhLb3lHbE4w.mpd
+
+
+#EXTINF:-1 tvg-id="MTY1" tvg-name="MTY1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/35349410-5363-11ee-8322-fb6a8c8f2ff6_webp_original.webp" group-title="TRUE ID", MOTORVISION TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ade5b9295fab59989dc6f3fc3486f791:24b8043bd9ffbb5102227adef60af29c
+https://cdn117.stm.trueid.net/p202drm/165_multi_m_auto_wv_tidapp.smil/manifest_w1974865785_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNDE2NjY3NTkmZGlkPU5HTTRORE5tWkdRMVpEWTBNR016T0Emc2lkPTQ1YTJjMDM2NDEmcnQ9MTcwOTA1Mzg5MyZkcz04NjQwMCZ0az1iNkFOc3IwVk96cDVQWlBrM2lmUFhZT1NSQ3A4aFhtUDNhUHhSUkRfSXNN.mpd
+
+#EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2022/12/22/d9313340-81d9-11ed-a7f9-412bbba270e9_webp_original.png",NFL & NBATV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://is.gd/keyidnfl
+https://2nud.short.gy/nfl.mpd
+
+#EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/a915a6a2-2e64-49e4-8049-6741274ce00e.png",FASHION TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://is.gd/keyidfashion
+https://cdn112.stm.trueid.net/p102drm/178_multi_m_auto_wv_tidapp.smil/manifest_w1470147362_qYXBwaWQ9dHJ1ZWlkLnRoJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YzJnVpZD0xNDE2NjY3NTkmZGlkPU5HTTRORE5tWkdRMVpEWTBNR016T0Emc2lkPWJiNGQ1YmFjNDkmcnQ9MTcwOTA1MzcyMyZkcz04NjQwMCZ0az1lQ18tcnFkUWdFQVZWS1c3d21udzFsMnNXbkhUdXk2Z0RLcTZpUGYzLURB.mpd
