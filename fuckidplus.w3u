@@ -415,7 +415,9 @@ http://183.182.100.240:1936/threstr2/bein1/playlist.m3u8
 https://str136.playhd.la/threstr2/truexzyte/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="thaifilm" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp" group-title="TRUE ID", Thaifilm
 http://183.182.100.236/threstr2/thaifilm/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="axnhd" tvg-logo="" group-title="TRUE ID", axnhd
+#EXTINF:-0 tvg-id="" tvg-name="thaifilm" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="TRUE ID", moviehits
+https://str136.playhd.la/threstr2/moviehits/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="axnhd" tvg-logo="https://cdn.worldvectorlogo.com/logos/axn-1.svg" group-title="TRUE ID", axnhd
 https://str136.playhd.la/threstr2/axnhd/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/31/a208e380-2fbd-11ee-b371-776974901079_webp_original.webp" group-title="TRUE ID",Nickelodeon
 http://183.182.100.236/threstr2/nickelodeon/playlist.m3u8 
@@ -424,10 +426,9 @@ https://str138.playhd.la/threstr2/cartoonnetwork/playlist.m3u8
 #EXTINF:-0 tvg-id="Discovery.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="TRUE ID", Discovery
 http://183.182.100.236/threstr2/discovery/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/1f7642c0-d79f-11ee-afcd-214a368edc48_webp_original.webp" group-title="TRUE ID", Animal Planet
-http://183.182.100.241:1938/threstr2/animalplanet/playlist.m3u8
+http://183.182.100.236/threstr2/animalplanet/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/28/a9685480-4593-11ee-9c5d-191fce4ff53e_webp_original.webp" group-title="TRUE ID", BBC Earth
-http://183.182.100.241:1938/threstr2/bbcearth/playlist.m3u8
-
+http://183.182.100.236/threstr2/bbcearth/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="food network" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/31/bd3a2340-3a63-11ec-84ef-a5cdc7ce4314_original.png" group-title="TRUE ID", Food Network
 https://str136.playhd.la/threstr2/foodnetwork/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="tennis" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp" group-title="TRUE ID", TENNIS
