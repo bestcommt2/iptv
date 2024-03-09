@@ -420,7 +420,7 @@ https://str136.playhd.la/threstr2/axnhd/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/31/a208e380-2fbd-11ee-b371-776974901079_webp_original.webp" group-title="TRUE ID",Nickelodeon
 http://183.182.100.236/threstr2/nickelodeon/playlist.m3u8 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/df4ff010-fb8a-11ed-85ca-7d9b373a85e7_webp_original.png" group-title="TRUE ID", Cartoon Network
-https://2nud.short.gy/cartoonnetwork.m3u8
+https://str138.playhd.la/threstr2/cartoonnetwork/playlist.m3u8
 #EXTINF:-0 tvg-id="Discovery.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="TRUE ID", Discovery
 http://183.182.100.236/threstr2/discovery/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/1f7642c0-d79f-11ee-afcd-214a368edc48_webp_original.webp" group-title="TRUE ID", Animal Planet
@@ -429,10 +429,9 @@ http://183.182.100.241:1938/threstr2/animalplanet/playlist.m3u8
 http://183.182.100.241:1938/threstr2/bbcearth/playlist.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="food network" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/31/bd3a2340-3a63-11ec-84ef-a5cdc7ce4314_original.png" group-title="TRUE ID", Food Network
-https://2nud.short.gy/foodnetwork.m3u8
+https://str136.playhd.la/threstr2/foodnetwork/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="tennis" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp" group-title="TRUE ID", TENNIS
-https://2nud.short.gy/tennie.m3u8
-
+https://str136.playhd.la/threstr2/tennis/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://cms.dmpcdn.com/helpcenter/2022/03/28/1c7bf300-ae73-11ec-80bb-192707a2eb26_webp_original.png" 
 #EXTINF:-1 group-title="TRUE ID" tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1
@@ -445,7 +444,7 @@ https://2nud.short.gy/tennie.m3u8
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey  
 #KODIPROP:inputstream.adaptive.license_key=e46b07f9049b58b99ffc24a6bc2d813b:6cbd92a4efad354681576eb76c29b9bb
-#https://artg.short.gy/trueid1fuckid.mpd
+https://artg.short.gy/trueid1fuckid.mpd
 
 
 
@@ -453,13 +452,13 @@ https://2nud.short.gy/tennie.m3u8
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
-#https://artg.short.gy/trueid2fuckid.mpd
+https://artg.short.gy/trueid2fuckid.mpd
 
 EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
 
-#https://artg.short.gy/trueid3fuckid.mpd
+https://artg.short.gy/trueid3fuckid.mpd
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Sports HD1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
