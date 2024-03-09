@@ -419,7 +419,7 @@ https://str136.playhd.la/threstr2/truexzyte/playlist.m3u8
 http://183.182.100.236/threstr2/thaifilm/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="thaifilm" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="TRUE ID", moviehits
 https://str136.playhd.la/threstr2/moviehits/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="axnhd" tvg-logo="https://cdn.worldvectorlogo.com/logos/axn-1.svg" group-title="TRUE ID", axnhd
+#EXTINF:-0 tvg-id="" tvg-name="axnhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="TRUE ID", axnhd
 https://str136.playhd.la/threstr2/axnhd/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/31/a208e380-2fbd-11ee-b371-776974901079_webp_original.webp" group-title="TRUE ID",Nickelodeon
 http://183.182.100.236/threstr2/nickelodeon/playlist.m3u8
