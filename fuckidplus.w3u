@@ -392,18 +392,60 @@ https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V1002/HLS/V1
 -----------------------------------------------------------------------------------------------------------------------------------------
 ####TRUE ID####
 
+
+#EXTINF:-0 tvg-id="" tvg-name="spotv" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="TRUE ID", Spotv1
+http://183.182.100.241:1938/threstr2/spotv/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="spotv2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="TRUE ID", Spotv2
+http://183.182.100.241:1938/threstr2/spotv2/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="truesport7" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="TRUE ID", Truesport7
+http://183.182.100.240:1936/threstr2/truesport7/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="truesport5" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="TRUE ID", Truesport5
+http://183.182.100.240:1936/threstr2/truesport5/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="truesporthd3" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="TRUE ID", Truesporthd3
+http://183.182.100.240:1936/threstr2/truesporthd3/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="TRUE ID", truesporthd2
+http://183.182.100.240:1936/threstr2/truesporthd2/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="TRUE ID", truesporthd1
+http://183.182.100.240:1936/threstr2/truesporthd/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="bein2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="TRUE ID", Bein2
+http://183.182.100.240:1936/threstr2/bein2/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="TRUE ID", Bein1
+http://183.182.100.240:1936/threstr2/bein1/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="truexzyte" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/2043f300-d79f-11ee-b9a6-6d06a62b7aad_webp_original.webp" group-title="TRUE ID", truexzyte
+https://str136.playhd.la/threstr2/truexzyte/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="thaifilm" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp" group-title="TRUE ID", Thaifilm
+http://183.182.100.236/threstr2/thaifilm/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="axnhd" tvg-logo="" group-title="TRUE ID", axnhd
+https://str136.playhd.la/threstr2/axnhd/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/31/a208e380-2fbd-11ee-b371-776974901079_webp_original.webp" group-title="TRUE ID",Nickelodeon
+http://183.182.100.236/threstr2/nickelodeon/playlist.m3u8 
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/df4ff010-fb8a-11ed-85ca-7d9b373a85e7_webp_original.png" group-title="TRUE ID", Cartoon Network
+https://2nud.short.gy/cartoonnetwork.m3u8
+#EXTINF:-0 tvg-id="Discovery.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="TRUE ID", Discovery
+http://183.182.100.236/threstr2/discovery/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/1f7642c0-d79f-11ee-afcd-214a368edc48_webp_original.webp" group-title="TRUE ID", Animal Planet
+http://183.182.100.241:1938/threstr2/animalplanet/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/28/a9685480-4593-11ee-9c5d-191fce4ff53e_webp_original.webp" group-title="TRUE ID", BBC Earth
+http://183.182.100.241:1938/threstr2/bbcearth/playlist.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="food network" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/31/bd3a2340-3a63-11ec-84ef-a5cdc7ce4314_original.png" group-title="TRUE ID", Food Network
+https://2nud.short.gy/foodnetwork.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="tennis" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp" group-title="TRUE ID", TENNIS
+https://2nud.short.gy/tennie.m3u8
+
+
 #EXTINF:-1 group-logo="https://cms.dmpcdn.com/helpcenter/2022/03/28/1c7bf300-ae73-11ec-80bb-192707a2eb26_webp_original.png" 
 #EXTINF:-1 group-title="TRUE ID" tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c36f3b0f9a5677aff2f0a5bade6ac9:92314d7b1ce6b7541f7ff147b72f1e96
-https://artg.short.gy/trueepl1fuckid.mpd
+#https://artg.short.gy/trueepl1fuckid.mpd
 
 
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey  
 #KODIPROP:inputstream.adaptive.license_key=e46b07f9049b58b99ffc24a6bc2d813b:6cbd92a4efad354681576eb76c29b9bb
-https://artg.short.gy/trueid1fuckid.mpd
+#https://artg.short.gy/trueid1fuckid.mpd
 
 
 
@@ -411,42 +453,42 @@ https://artg.short.gy/trueid1fuckid.mpd
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c3898e20-5b4f-11ee-a599-1d1a4f7c1125_webp_original.webp",TrueID Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
-https://artg.short.gy/trueid2fuckid.mpd
+#https://artg.short.gy/trueid2fuckid.mpd
 
 EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/25/c389b530-5b4f-11ee-a6f1-ffa978a40b9f_webp_original.webp",TrueID Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0da90e772c45088bcfb74ab6fd11ce1:9afa9b813c3fb862d43a2117b480bd7a
 
-https://artg.short.gy/trueid3fuckid.mpd
+#https://artg.short.gy/trueid3fuckid.mpd
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Sports HD1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://artg.short.gy/keytruesport1fuckid
-https://artg.short.gy/truesport1fuckid.mpd
+#https://artg.short.gy/truesport1fuckid.mpd
 
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sports HD2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://artg.short.gy/keytruesport2
-https://artg.short.gy/truesport2fuckid.mpd
+#https://artg.short.gy/truesport2fuckid.mpd
 
 
 #EXTINF:-1 group-title="TRUE ID" tvg-id="beinsports1thailand.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6342b23473f5a8caccc7a928caa6d9d:54e4f22c165c4f024fa0988bab410562
-https://artg.short.gy/bein1truefuckid.mpd
+#https://artg.short.gy/bein1truefuckid.mpd
 
 
 #EXTINF:-1 group-title="TRUE ID" tvg-id="beinsports3thailand.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp", Bein Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3677f2e261e75ca09340d1a4d484e720:584344d9df8c1ab292cda4740265c2ec
-https://artg.short.gy/bein3truefuckid.mpd
+#https://artg.short.gy/bein3truefuckid.mpd
 
 
 #EXTINF:-0 group-title="TRUE ID" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", True Explife 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://fuckidiptv.000webhostapp.com/keytrueid/True%20Explife.html
-https://artg.short.gy/truelifefuckid.mpd
+#https://artg.short.gy/truelifefuckid.mpd
 
 
 
@@ -454,42 +496,42 @@ https://artg.short.gy/truelifefuckid.mpd
 #EXTINF:-0 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png" group-title="TRUE ID",TrueMovieHits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f75ff165c14d50ab80965fed2d5b469f:731a4c8c2f289bbbf99c0fc05276ea5e
-https://artg.short.gy/truemoviehits.mpd
+#https://artg.short.gy/truemoviehits.mpd
 
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp", THAIFILM 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81591627934455d9a3215b04d13932fc:6b990eb27ee6ee4c2ca9c7d3372c8cab
-https://artg.short.gy/truethaifilmfuckid.mpd
+#https://artg.short.gy/truethaifilmfuckid.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://2nud.short.gy/truefilm1.php
 #EXTINF:-0 tvg-id="TrueFilmHD1.th" tvg-name="TH - TR FILM HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png" group-title="TRUE ID", True Film 1
-https://artg.short.gy/truefilm1fuckid.mpd
+#https://artg.short.gy/truefilm1fuckid.mpd
 
 
 #EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="TRUE ID",True Film 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://fuckidiptv.000webhostapp.com/keytrueid/truehd2.html
-https://artg.short.gy/truefilm2fuckid.mpd
+#https://artg.short.gy/truefilm2fuckid.mpd
 
 #EXTINF:-1 tvg-id="kmtv.th" tvg-name="KMTV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png" group-title="TRUE ID", KMTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=349cd45f1d665f4c999456d7fa7ff7de:c5d6a01f56fd169cbcc4accbd5bbfb7d
-https://artg.short.gy/truekmtfuckid.mpd
+#https://artg.short.gy/truekmtfuckid.mpd
 
 #EXTINF:-1 tvg-id="MTY1" tvg-name="MTY1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/35349410-5363-11ee-8322-fb6a8c8f2ff6_webp_original.webp" group-title="TRUE ID", MOTORVISION TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ade5b9295fab59989dc6f3fc3486f791:24b8043bd9ffbb5102227adef60af29c
-https://artg.short.gy/trueMOTORVISIONTVfuckid.mpd
+#https://artg.short.gy/trueMOTORVISIONTVfuckid.mpd
 
 
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/a915a6a2-2e64-49e4-8049-6741274ce00e.png",FASHION TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://is.gd/keyidfashion
-https://artg.short.gy/trueFASHIONTVfuckid.mpd
+#https://artg.short.gy/trueFASHIONTVfuckid.mpd
 
 --------------------------------------------------------------------------------------
 ###TRUE VISION TV###
