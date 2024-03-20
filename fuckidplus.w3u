@@ -555,7 +555,6 @@ https://wacthstream.com/stream_live/357_TrueMusic/playlist.m3u8?wmsAuthSign=c2Vy
 https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8
 #EXTINF:-0 group-title="TRUE VISION TV" tvg-id="TrueExploreLife.th" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-life.png",True Explorer Life-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/560_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDI6MDg6MTUgUE0maGFzaF92YWx1ZT1VUGo1aVdwYjkwOGlRTXhZWjMySFlRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTI4MTg=
 http://playtv.my.id/play/life.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True Explore SCI (EN)" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-sci.png" group-title="TRUE VISION TV",True Explore SCI (EN)
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
@@ -594,7 +593,7 @@ https://wacthstream.com/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="AXN" tvg-logo="https://img2.pic.in.th/pic/oie_943026LIiDsCeb.png",AXN-freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
+https://wacthstream.com/stream_live/336_AXN/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://truevisions.co.th/static/891ab984-b696-4284-a9df-9cb412fe8c84.png" group-title="TRUE VISION TV",TVN HD
 https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="FoodNetwork" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-food-network.webp",FoodNetwork
@@ -1557,8 +1556,7 @@ http://6395online.com:8080/live/antonio/6487/163.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613877_ico.png",fuck id movie 2
 http://6395online.com:8080/live/danai/6487/168.m3u8
 http://6395online.com:8080/live/antonio/6487/168.m3u8
-#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613866_ico.png?ts=1702874579",fuck id movie 3
-https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/BQdq7_9MOklqngtkv/videoblocks-61dc77e29afa4f098010ed94_rwzecn-ak__7cb6c27a74e0204cc321dc71b4a076b0__P360.mp4
+
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.tvphet.com/wp-content/uploads/2023/08/cropped-1-1.jpg",phetchabuntv
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
@@ -1567,12 +1565,12 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8OGM66fyZZ9Hi6nuqzxdSj3AsFqEn8MTNw&usqp=CAU",CTB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
-http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="SAT-ASIA TV CSAT" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17815677_ico.png",SAT-ASIA TV CSAT
 http://xtreamhd.ddns.net:9981/stream/mux/5466132886624b1b64cb56310b653002?ticket=7B935BB095C0670041252BCBB6CE2330A97FE3D8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/7M6WYVm.png" ,Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://newlife3.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60283.m3u8
+#http://newlife3.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60283.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="NK TV" tvg-logo="https://img2.pic.in.th/pic/oie_3123588Cg7SBeC.jpeg",NK TV
 http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="TVB Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",TVB Thai
@@ -1607,7 +1605,7 @@ http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="AXN" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images4a6371ef0b8dbbf9.png",AXN
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
+https://wacthstream.com/stream_live/336_AXN/playlist.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="Paramount" tvg-logo="https://cdn.windowsreport.com/wp-content/uploads/2020/08/Paramount-Network-Spike-TV-live-stream.jpg",Paramount
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDM6MTM6NDMgQU0maGFzaF92YWx1ZT1xaVNUNFhRQjhCQXZGQy9PbjdEVVVRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA3MjI=
