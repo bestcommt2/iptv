@@ -345,6 +345,10 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0182/DASH/V0182.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adfe8e6aa801559a4e129992c0f20403:6c7aefc27c4bea0fd10c282061c138d8
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0183/DASH/V0183.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//EUROSPORT.png" group-title="AIS PLAY", EUROSPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5f67464d9d312c700be706ae06ea789:757b64dc16872bbc5fb23184ce9e1d62
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0184/DASH/V0184.mpd
 #EXTINF:-0 tvg-id="ParamountNetwork.sg" tvg-name="Paramount Network" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png" group-title="AIS PLAY",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25bf32f14fa2141acb7d008c0c438bc8:e8b12304c39c113f97de330a27887b31
