@@ -393,48 +393,7 @@ https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V1002/HLS/V1
 ####TRUE ID####
 
 
-#EXTINF:-0 tvg-id="" tvg-name="spotv" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="TRUE ID", Spotv1
-http://183.182.100.241:1938/threstr2/spotv/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="spotv2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="TRUE ID", Spotv2
-http://183.182.100.241:1938/threstr2/spotv2/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="truesport7" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="TRUE ID", Truesport7
-http://183.182.100.240:1936/threstr2/truesport7/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="truesport5" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="TRUE ID", Truesport5
-http://183.182.100.240:1936/threstr2/truesport5/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="truesporthd3" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="TRUE ID", Truesporthd3
-http://183.182.100.240:1936/threstr2/truesporthd3/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="TRUE ID", truesporthd2
-http://183.182.100.240:1936/threstr2/truesporthd2/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="TRUE ID", truesporthd1
-http://183.182.100.240:1936/threstr2/truesporthd/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="bein2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="TRUE ID", Bein2
-http://183.182.100.240:1936/threstr2/bein2/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="TRUE ID", Bein1
-http://183.182.100.240:1936/threstr2/bein1/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="tennis" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp" group-title="TRUE ID", TENNIS
-https://str136.playhd.la/threstr2/tennis/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="truexzyte" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/2043f300-d79f-11ee-b9a6-6d06a62b7aad_webp_original.webp" group-title="TRUE ID", truexzyte
-https://str136.playhd.la/threstr2/truexzyte/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="thaifilm" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp" group-title="TRUE ID", Thaifilm
-http://183.182.100.236/threstr2/thaifilm/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="thaifilm" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="TRUE ID", moviehits
-https://str136.playhd.la/threstr2/moviehits/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="axnhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="TRUE ID", axnhd
-https://str136.playhd.la/threstr2/axnhd/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/31/a208e380-2fbd-11ee-b371-776974901079_webp_original.webp" group-title="TRUE ID",Nickelodeon
-http://183.182.100.236/threstr2/nickelodeon/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" group-title="TRUE ID",NickJR
-https://str138.playhd.la/threstr2/nickjr/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/df4ff010-fb8a-11ed-85ca-7d9b373a85e7_webp_original.png" group-title="TRUE ID", Cartoon Network
-https://str138.playhd.la/threstr2/cartoonnetwork/playlist.m3u8
-#EXTINF:-0 tvg-id="Discovery.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="TRUE ID", Discovery
-http://183.182.100.236/threstr2/discovery/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/1f7642c0-d79f-11ee-afcd-214a368edc48_webp_original.webp" group-title="TRUE ID", Animal Planet
-http://183.182.100.236/threstr2/animalplanet/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/28/a9685480-4593-11ee-9c5d-191fce4ff53e_webp_original.webp" group-title="TRUE ID", BBC Earth
-http://183.182.100.236/threstr2/bbcearth/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="food network" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/31/bd3a2340-3a63-11ec-84ef-a5cdc7ce4314_original.png" group-title="TRUE ID", Food Network
-https://str136.playhd.la/threstr2/foodnetwork/playlist.m3u8
+
 
 
 #EXTINF:-1 group-logo="https://cms.dmpcdn.com/helpcenter/2022/03/28/1c7bf300-ae73-11ec-80bb-192707a2eb26_webp_original.png" 
