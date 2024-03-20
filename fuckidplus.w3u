@@ -399,7 +399,6 @@ https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V1002/HLS/V1
 
 
 
-
 #EXTINF:-1 group-logo="https://cms.dmpcdn.com/helpcenter/2022/03/28/1c7bf300-ae73-11ec-80bb-192707a2eb26_webp_original.png" 
 #EXTINF:-1 group-title="TRUE ID" tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -462,24 +461,27 @@ https://artg.short.gy/trueid3fuckid.mpd
 #EXTINF:-0 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png" group-title="TRUE ID",TrueMovieHits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f75ff165c14d50ab80965fed2d5b469f:731a4c8c2f289bbbf99c0fc05276ea5e
-https://artg.short.gy/truemoviehits.mpd
+#https://artg.short.gy/truemoviehits.mpd
+http://6395online.com:8080/live/danai/6487/148.m3u8
 
 
 #EXTINF:-1 group-title="TRUE ID" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp", THAIFILM 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81591627934455d9a3215b04d13932fc:6b990eb27ee6ee4c2ca9c7d3372c8cab
-https://artg.short.gy/truethaifilmfuckid.mpd
-
+#https://artg.short.gy/truethaifilmfuckid.mpd
+http://6395online.com:8080/live/danai/6487/141.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://2nud.short.gy/truefilm1.php
 #EXTINF:-0 tvg-id="TrueFilmHD1.th" tvg-name="TH - TR FILM HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png" group-title="TRUE ID", True Film 1
-https://artg.short.gy/truefilm1fuckid.mpd
+#https://artg.short.gy/truefilm1fuckid.mpd
+http://6395online.com:8080/live/danai/6487/143.m3u8
 
 #EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="TRUE ID",True Film 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://fuckidiptv.000webhostapp.com/keytrueid/truehd2.html
-https://artg.short.gy/truefilm2fuckid.mpd
+#https://artg.short.gy/truefilm2fuckid.mpd
+http://6395online.com:8080/live/danai/6487/142.m3u8
 
 
 #EXTINF:-1 tvg-id="kmtv.th" tvg-name="KMTV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png" group-title="TRUE ID", KMTV
