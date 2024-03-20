@@ -476,11 +476,11 @@ https://artg.short.gy/trueid3fuckid.mpd
 #EXTINF:-0 tvg-id="TrueFilmHD1.th" tvg-name="TH - TR FILM HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png" group-title="TRUE ID", True Film 1
 #https://artg.short.gy/truefilm1fuckid.mpd
 
-
 #EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="TRUE ID",True Film 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://fuckidiptv.000webhostapp.com/keytrueid/truehd2.html
-#https://artg.short.gy/truefilm2fuckid.mpd
+https://artg.short.gy/truefilm2fuckid.mpd
+
 
 #EXTINF:-1 tvg-id="kmtv.th" tvg-name="KMTV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png" group-title="TRUE ID", KMTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
