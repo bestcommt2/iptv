@@ -503,7 +503,6 @@ https://wacthstream.com/stream_live/566_TLC/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/449_Carton_Netwrk/playlist.m3u8??wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgNzozNDoyNyBBTSZoYXNoX3ZhbHVlPSsxWkorZmhRMmtBNEdvSFVnMlNPZGc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xNjg2MA==
 #EXTINF:1 tvg-id="" group-title="TRUE VISION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png", LOVE Nature 4K
-https://wacthstream.com/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgNzozNDoyNyBBTSZoYXNoX3ZhbHVlPSsxWkorZmhRMmtBNEdvSFVnMlNPZGc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xNjg2MA==
 https://github.com/bestcommt2/iptv/raw/master/love4k.m3u8
 #EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="TRUE VISION TV",Lifetime TH 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
