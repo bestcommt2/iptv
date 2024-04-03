@@ -520,7 +520,7 @@ https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png" group-title="TRUE VISION TV",Discovery
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/562_Discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToxNDo0MyBBTSZoYXNoX3ZhbHVlPWM3OUo0NXgvcmZob0VZZGxLaW8rZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTg0Nw==
+https://wacthstream.com/stream_live/562_Discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgNzozNDoyNyBBTSZoYXNoX3ZhbHVlPSsxWkorZmhRMmtBNEdvSFVnMlNPZGc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xNjg2MA==
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TLC" tvg-name="TLC" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e3c376d0-fb8a-11ed-82d8-75b5e95c0f8a_webp_320.webp" group-title="TRUE VISION TV",TLC
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
