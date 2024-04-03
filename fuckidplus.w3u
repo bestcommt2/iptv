@@ -427,13 +427,13 @@ https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:-0 group-title="TRUE VISION TV" tvg-id="TrueExploreLife.th" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-life.png",True Explorer Life-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://github.com/bestcommt2/iptv/raw/master/true%20life.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Explorer Wild" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_320.webp" group-title="TRUE VISION TV",True Explorer Wild
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36h
+#EXTINF:-0 tvg-id="TrueExploreWild.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png" group-title="TRUE VISION TV",TRUE EXPLORE WILD
 https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjQgMzo1OTowNSBQTSZoYXNoX3ZhbHVlPUNReVY0d2tYRDE2MGdGOG1TU3hubHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF80MzY2NQ==|Referer=https://wacth.tv
-#EXTINF:-1 tvg-id="" tvg-name="True Explore SCI (EN)" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-sci.png" group-title="TRUE VISION TV",True Explore SCI (EN)
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36h
+#EXTINF:-0 tvg-id="TrueExploreWild.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png" group-title="TRUE VISION TV",TRUE EXPLORE WILD
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8
+
+#EXTINF:-0 group-title="TRUE VISION TV" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
 https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjQgMzo1ODoyNiBQTSZoYXNoX3ZhbHVlPXlUS3hJQVZoeW1XY3VJbld3aVMzeEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF85MjUxMg==|Referer=https://wacth.tv
 
 
