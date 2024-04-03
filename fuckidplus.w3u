@@ -405,6 +405,8 @@ https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",True Movie Hits-1
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueFilmHD1.th" tvg-name="TH - TR FILM HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png" group-title="TRUE VISION TV", TRUE FILM HD1
+https://wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MTc6MDkgQU0maGFzaF92YWx1ZT0rVkZNemJENC8zeHhSc3BDRHZwcjVnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjI5NzQ|Referer=https://wacth.tv
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://github.com/bestcommt2/iptv/raw/master/truehd1.m3u8
