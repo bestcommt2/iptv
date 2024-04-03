@@ -409,7 +409,7 @@ https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
-http://playtv.my.id/play/truefilm1.m3u8
+#http://playtv.my.id/play/truefilm1.m3u8
 
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
