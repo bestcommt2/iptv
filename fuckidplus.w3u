@@ -533,8 +533,11 @@ https://github.com/bestcommt2/iptv/raw/master/Dreamwork.m3u8
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgNzoxODoyMCBBTSZoYXNoX3ZhbHVlPUUra3YrbmVSMEFKKzFmUlBUeksyZnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xNTQzMA==
 #EXTINF:-0 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e00a1850-fb8a-11ed-bf86-7b9263bde387_webp_original.png" group-title="TRUE VISION TV", TRUE CNN
-https://sv2.wacthstream.com/wacth_tv/778_CNN/playlist.m3u8
+https://sv2.wacthstream.com/wacth_tv/778_CNN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgNzoxODoyMCBBTSZoYXNoX3ZhbHVlPUUra3YrbmVSMEFKKzFmUlBUeksyZnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xNTQzMA==
 
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="TRUE VISION TV",TRUE SPARK PLAY
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://github.com/bestcommt2/iptv/raw/master/truesparkplay.m3u8
 --------------------------------------------
 ###ทีวีดิจิตอลไทย###
 
@@ -632,10 +635,10 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0187/DASH/V0187.mpd
 #EXTINF:-1 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="ช่องการ์ตูน",DreamWorks 
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/448_DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDI6MjY6MjkgQU0maGFzaF92YWx1ZT1Rc1BPWFlGQmt2RzVpZE1EN2xGbThBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDI3ODE=
-#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="ชช่องการ์ตูน",TH - TR SPARK PLAY
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="ช่องการ์ตูน",TH - TR SPARK PLAY
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgNzo0MTo0MyBBTSZoYXNoX3ZhbHVlPXBrb09YYjZDa0VDWEZrMnZDcCtUNXc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF82MTYxNA==
-https://github.com/bestcommt2/iptv/raw/master/truesparkplay.m3u8
+
 #EXTINF:-1 tvg-id="ZooMoo.th" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/olzqUL2.jpg" group-title="ช่องการ์ตูน",ZooMoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8
