@@ -72,11 +72,11 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
-#EXTINF:-1 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png" group-title="3BBTV",3BB-BALLTHAI 1
+#EXTINF:-1 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png" group-title="3BBTV",3BB-BALLTHAI 11
 https://github.com/bestcommt2/iptv/raw/master/3bbballthai1.m3u8
-#EXTINF:-1 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png" group-title="3BBTV",3BB-BALLTHAI 2
+#EXTINF:-1 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png" group-title="3BBTV",3BB-BALLTHAI 22
 https://github.com/bestcommt2/iptv/raw/master/3bbballthai2.m3u8
-#EXTINF:-1 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png" group-title="3BBTV",3BB-BALLTHAI 3
+#EXTINF:-1 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png" group-title="3BBTV",3BB-BALLTHAI 33
 https://github.com/bestcommt2/iptv/raw/master/3bbballthai3.m3u8
 #EXTINF:-0 group-title="3BBTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", 3BB-BALLTHAI 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -519,9 +519,10 @@ https://github.com/bestcommt2/iptv/raw/master/Dreamwork.m3u8
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgNzoxODoyMCBBTSZoYXNoX3ZhbHVlPUUra3YrbmVSMEFKKzFmUlBUeksyZnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xNTQzMA==
 #EXTINF:-0 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e00a1850-fb8a-11ed-bf86-7b9263bde387_webp_original.png" group-title="TRUE VISION TV", TRUE CNN
+#EXTVLCOPT:http-referrer=https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u
 https://github.com/bestcommt2/iptv/raw/master/cnn.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="TRUE VISION TV",TRUE SPARK PLAY
-#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-referrer=https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u
 https://github.com/bestcommt2/iptv/raw/master/truesparkplay.m3u8
 --------------------------------------------
 ###ทีวีดิจิตอลไทย###
@@ -757,14 +758,16 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL009/HLS/TL009.m3u8
 
-
-
-#EXTINF:-1 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png" group-title="ไทยลีก",3BB-BALLTHAI 1
+#EXTINF:-0 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png" group-title="ไทยลีก",3BB-BALLTHAI 1
+#EXTVLCOPT:http-referrer=https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u
 https://github.com/bestcommt2/iptv/raw/master/3bbballthai1.m3u8
-#EXTINF:-1 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png" group-title="ไทยลีก",3BB-BALLTHAI 2
+#EXTINF:-0 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png" group-title="ไทยลีก",3BB-BALLTHAI 1
+#EXTVLCOPT:http-referrer=https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u
 https://github.com/bestcommt2/iptv/raw/master/3bbballthai2.m3u8
-#EXTINF:-1 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png" group-title="ไทยลีก",3BB-BALLTHAI 3
+#EXTINF:-0 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png" group-title="ไทยลีก",3BB-BALLTHAI 1
+#EXTVLCOPT:http-referrer=https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u
 https://github.com/bestcommt2/iptv/raw/master/3bbballthai3.m3u8
+
 
 #EXTINF:-1 group-title="ไทยลีก" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",TRUE BALL THAI1
 #EXTVLCOPT:http-referrer=https://aisplay24hd.com
