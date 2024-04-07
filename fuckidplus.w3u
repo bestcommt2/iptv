@@ -2129,7 +2129,7 @@ https://main.77player.xyz/m3u8/d1546a369f1ad9f1a57e8d4b/d1546a369f1ad9f1a57e8d4b
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3530497a38a952eea890f12d2e94e049&key=9f23baa81327ec1806d89e930943ce8f
 https://dootv.xyz/c81a4bbb-510b-429b-901e-6f53a8550cea
 
-#EXTINF:-1 group-title="test" tvg-id="" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/Thunder-Monk-2023-%E0%B8%AD%E0%B8%B2%E0%B8%95%E0%B8%A1%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2-300x450.jpg", Thunder Monk (2023) อาตมาฟ้าผ่า
-#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTINF:-1 group-title="test" tvg-id="" tvg-logo="https://dookeela.live/uploads/1664499665.png", EPL1
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://dootv.xyz/c81a4bbb-510b-429b-901e-6f53a8550cea
+https://dookeela.live/live-tv/epl1_sd
