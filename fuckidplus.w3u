@@ -6,6 +6,61 @@
 หัวควยกูไม่ปิดหลอกแอฟ มึงก็ไอ้เฒ่าตัวหนึ่ง มึงก็เหมือนหมาที่ชอบเหา ที่ชอบไล่กัดเขาไปทั่ว ดวย
 
 --------------------------------------------------------------------------------------
+###ทีวีดิจิตอลไทย###
+
+#EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ทีวีดิจิตอลไทย",NBT HD
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/HLS/V0001.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="ทีวีดิจิตอลไทย",THAI PBS HD
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0014/HLS/V0014-avc1_5000000=2-mp4a_64000_tha=6.m3u8
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="ทีวีดิจิตอลไทย",ALTV
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV/index.m3u8
+#EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="ทีวีดิจิตอลไทย",TV5 HD
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/HLS/V0007-avc1_5000000=3-mp4a_64000_tha=7.m3u8
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="ทีวีดิจิตอลไทย",T Sports 7
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+#EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ทีวีดิจิตอลไทย",TPTV
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8
+#EXTINF:-1 tvg-id="TNN2.th" tvg-name="TNN 2" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png" group-title="ทีวีดิจิตอลไทย",TNN 2
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/DASH/V0053.mpd
+#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ทีวีดิจิตอลไทย",JKN 18
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0010/DASH/V0010.mpd
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="ทีวีดิจิตอลไทย",Nation TV
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0021/DASH/V0021.mpd
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="ทีวีดิจิตอลไทย",Workpoint
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0015/DASH/V0015.mpd
+#EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ทีวีดิจิตอลไทย",True 4U
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/DASH/B0054.mpd
+#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ทีวีดิจิตอลไทย",GMM 25
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/DASH/B0019.mpd
+#EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="ทีวีดิจิตอลไทย",CH8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0006/DASH/B0006.mpd
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="ทีวีดิจิตอลไทย",MONO 29
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0016/DASH/V0016.mpd
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ทีวีดิจิตอลไทย",MCOT HD
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8
+#EXTINF:-1 tvg-id="OneHD.th" tvg-name="ONE HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ทีวีดิจิตอลไทย",ONE HD
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTINF:-1 tvg-id="CH3.th" tvg-name="CH3 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="ทีวีดิจิตอลไทย",CH3 HD
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/DASH/B0003.mpd?
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="ทีวีดิจิตอลไทย",Amarin TV
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0017/HLS/V0017-avc1_5000000=14-mp4a_64000_tha=9.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="ทีวีดิจิตอลไทย",CH7 HD
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018-avc1_8000000=5-mp4a_96000_tha=6.m3u8
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="ทีวีดิจิตอลไทย",PPTV HD
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/HLS/V0022-avc1_5000000=7-mp4a_64000_tha=2.m3u8
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="ไทยรัฐทีวี 32" tvg-logo="https://static.thairath.co.th/media/dFQROr7oWzulq5FZYjjA515688fYpq5TMLJD17vUyLlN8HXXTvARWsmL1j8q7THf3rE.jpg" group-title="ทีวีดิจิตอลไทย" ,ไทยรัฐทีวี 32
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013-avc1_8000000=4-mp4a_96000_tha=6.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YATEEM TV" tvg-logo="https://yateem.tv/wp-content/uploads/2019/01/Logo-Header.png" group-title="ทีวีดิจิตอลไทย",YATEEM TV
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/11/08/v8ZV7g.png" group-title="ทีวีดิจิตอลไทย",TOPNEWs
+https://live.topnews.co.th/hls/topnews_720.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ทีวีดิจิตอลไทย",News1
+https://server1.streamssl.com/stream/news1_mid.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATION TV" tvg-logo="https://mthai.com/app/uploads/2021/05/nation-tv.jpg" group-title="ทีวีดิจิตอลไทย",NATION TV
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/B0021-avc1_8000000=9-mp4a_96000_tha=2.m3u8
+
+--------------------------------------------------------------------------------------
+
 ###3BBTV###
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" tvg-name="" tvg-id="3BB-LOVE Nature 4K" group-title="3BBTV",Love Nature 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -496,7 +551,7 @@ https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8?wmsAuthSign
 https://wacthstream.com/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjQgMzo1NzozOCBQTSZoYXNoX3ZhbHVlPTZtUFF2SXNUeTBVVHBscDFWaTV1Z1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF85NjcwMA==
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="TRUE VISION TV",TH AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/336_AXN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgNzoxNzowOSBBTSZoYXNoX3ZhbHVlPTJHM2MzL3cxZWl1ZXl3RnFzT3BUa0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NjE2NA==|Referer=https://wacth.tv
+https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:0 tvg-id="AnimalPlanet.Id" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="TRUE VISION TV",Animal Planet TH
 https://wacthstream.com/stream_live/567_Animal_Planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjQgMzo1ODo1MSBQTSZoYXNoX3ZhbHVlPUNtWm5lZW51UHVlbm13c2lFcm0zOHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xNTExNg==|Referer=https://wacth.tv
 #EXTINF:-1 tvg-id="TR KMTV" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png" group-title="TRUE VISION TV",KMTV 
@@ -524,60 +579,6 @@ https://github.com/bestcommt2/iptv/raw/master/cnn.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="TRUE VISION TV",TRUE SPARK PLAY
 #EXTVLCOPT:http-referrer=https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u
 https://github.com/bestcommt2/iptv/raw/master/truesparkplay.m3u8
---------------------------------------------
-###ทีวีดิจิตอลไทย###
-
-#EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ทีวีดิจิตอลไทย",NBT HD
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/HLS/V0001.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="ทีวีดิจิตอลไทย",THAI PBS HD
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0014/HLS/V0014-avc1_5000000=2-mp4a_64000_tha=6.m3u8
-#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="ทีวีดิจิตอลไทย",ALTV
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV/index.m3u8
-#EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="ทีวีดิจิตอลไทย",TV5 HD
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/HLS/V0007-avc1_5000000=3-mp4a_64000_tha=7.m3u8
-#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="ทีวีดิจิตอลไทย",T Sports 7
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
-#EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ทีวีดิจิตอลไทย",TPTV
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8
-#EXTINF:-1 tvg-id="TNN2.th" tvg-name="TNN 2" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png" group-title="ทีวีดิจิตอลไทย",TNN 2
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/DASH/V0053.mpd
-#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ทีวีดิจิตอลไทย",JKN 18
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0010/DASH/V0010.mpd
-#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="ทีวีดิจิตอลไทย",Nation TV
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0021/DASH/V0021.mpd
-#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="ทีวีดิจิตอลไทย",Workpoint
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0015/DASH/V0015.mpd
-#EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ทีวีดิจิตอลไทย",True 4U
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/DASH/B0054.mpd
-#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ทีวีดิจิตอลไทย",GMM 25
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/DASH/B0019.mpd
-#EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="ทีวีดิจิตอลไทย",CH8
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0006/DASH/B0006.mpd
-#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="ทีวีดิจิตอลไทย",MONO 29
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0016/DASH/V0016.mpd
-#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ทีวีดิจิตอลไทย",MCOT HD
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8
-#EXTINF:-1 tvg-id="OneHD.th" tvg-name="ONE HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ทีวีดิจิตอลไทย",ONE HD
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTINF:-1 tvg-id="CH3.th" tvg-name="CH3 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="ทีวีดิจิตอลไทย",CH3 HD
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/DASH/B0003.mpd?
-#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="ทีวีดิจิตอลไทย",Amarin TV
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0017/HLS/V0017-avc1_5000000=14-mp4a_64000_tha=9.m3u8
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="ทีวีดิจิตอลไทย",CH7 HD
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018-avc1_8000000=5-mp4a_96000_tha=6.m3u8
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="ทีวีดิจิตอลไทย",PPTV HD
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/HLS/V0022-avc1_5000000=7-mp4a_64000_tha=2.m3u8
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="ไทยรัฐทีวี 32" tvg-logo="https://static.thairath.co.th/media/dFQROr7oWzulq5FZYjjA515688fYpq5TMLJD17vUyLlN8HXXTvARWsmL1j8q7THf3rE.jpg" group-title="ทีวีดิจิตอลไทย" ,ไทยรัฐทีวี 32
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013-avc1_8000000=4-mp4a_96000_tha=6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YATEEM TV" tvg-logo="https://yateem.tv/wp-content/uploads/2019/01/Logo-Header.png" group-title="ทีวีดิจิตอลไทย",YATEEM TV
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/11/08/v8ZV7g.png" group-title="ทีวีดิจิตอลไทย",TOPNEWs
-https://live.topnews.co.th/hls/topnews_720.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ทีวีดิจิตอลไทย",News1
-https://server1.streamssl.com/stream/news1_mid.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATION TV" tvg-logo="https://mthai.com/app/uploads/2021/05/nation-tv.jpg" group-title="ทีวีดิจิตอลไทย",NATION TV
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/B0021-avc1_8000000=9-mp4a_96000_tha=2.m3u8
-
 --------------------------------------------
 
 ###ช่องการ์ตูน###
