@@ -974,15 +974,15 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf4/playlist.m3u8|refere
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-5ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5ufa
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf5/playlist.m3u8|referer=https://www.andaman888th.com/
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl1.png" , EPL-1
+#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" , EPL-1
 https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl2.png" ,EPL-2
+#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" ,EPL-2
 https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd2/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl3.png" ,EPL-3
+#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" ,EPL-3
 https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd3/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl4.png" ,EPL-4
+#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png" ,EPL-4
 https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd4/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl5.png" ,EPL-5
+#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png" ,EPL-5
 https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd5/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 1 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-dooball2you
@@ -1028,24 +1028,24 @@ https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 https://ctrl.laotv.la/live/THD7/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 1 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-livestream88
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesporthd1/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 2 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 2 HD-livestream88
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesporthd2/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 3 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 3 HD-livestream88
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesporthd3/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 4 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 4 HD-livestream88
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesporthd4/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 5" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5-livestream88
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesportsd5/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 7" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7-livestream88
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesportsd7/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Channel" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp" group-title="Sport",Golf Channel
-https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8|referer=https://streaming.livescorethai.net
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf/playlist.m3u8|referer=https://dooball2you.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Channel Thailand 2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/6057ad50-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="Sport",Golf Channel Thailand 2
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd
 #EXTINF:-1 tvg-id="spotv.kr" tvg-name="SPOTV 1 TRUE" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="Sport",SPOTV 1 TRUE
