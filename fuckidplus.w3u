@@ -614,12 +614,14 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0113/DASH/V0113.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/nickjr/playlist.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="nickelodeonasia.sg" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34cf6695d9082bc5b4687e59d61b48d2:64e30dc5efbacf1f3fd344a01ba2f906
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0187/DASH/V0187.mpd
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="ช่องการ์ตูน",DreamWorks 
-#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/
 https://cdn-mfixer-20g.ndos.stream:8082/mfixer/dreamworks/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="ช่องการ์ตูน",TH - TR SPARK PLAY
 #EXTVLCOPT:http-referrer=https://wacth.tv/
