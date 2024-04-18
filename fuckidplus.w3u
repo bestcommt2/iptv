@@ -1620,8 +1620,7 @@ https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ###GoodTV###
-#EXTINF:-1 group-title="GOODTV" tvg-logo="https://www.dropbox.com/scl/fi/kxi4h3hsrrlhz28gvi4dv/nextkid.png?rlkey=s2okn4v7bgenqwnbt1twlchnu&dl=1",nextkid
-https://cdn-mfixer-20g.ndos.stream:8082/mfixer/nextkid/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Khongdee.th" tvg-name="KhongDee" tvg-logo="https://i.ibb.co/Pg7dBL9/ddd.png" group-title="GOODTV",KhongDee-Ais
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0154/HLS/V0154.m3u8
 #EXTINF:-1 tvg-id="Budsaba.th" tvg-name="Busaba" tvg-logo="https://i.ibb.co/7SRycDD/bbb.png" group-title="GOODTV",Busaba-wacth
@@ -1643,12 +1642,10 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 https://wacthstream.com/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTE6NDM6NTEgQU0maGFzaF92YWx1ZT1DWjRxWFhLV25sMUl5bXpscThTa1d3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODUwMTQ=
 #EXTINF:-1 tvg-id="Hero.th" tvg-name="Hero" tvg-logo="https://i.ibb.co/S3LPy31/Hero.png" group-title="GOODTV",Hero-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTE6NDI6NTMgQU0maGFzaF92YWx1ZT1vQW51bnNyMWNON0VVcjI1SHFoL09nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTEyNTk=
+https://wacthstream.com/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTE6NDQ6MzQgQU0maGFzaF92YWx1ZT1uN2xVTWRNZmxRUzZZVW9YWk9HcXVRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTEyNTc=
 #EXTINF:-1 tvg-id="Sumlojlok.th" tvg-name="Sumlojlok" tvg-logo="https://i.ibb.co/Pm84NSc/goodtv.jpg" group-title="GOODTV",Sumlojlok-Ais
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
-#EXTINF:-1 tvg-id="Sumlojlok.th" tvg-name="Sumlojlok" tvg-logo="https://i.ibb.co/Pm84NSc/goodtv.jpg" group-title="GOODTV",Sumlojlok-cdn6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 #EXTINF:-1 tvg-id="animalshow.th" tvg-name="AnimalShow" tvg-logo="https://i.ibb.co/T018CMK/animal.jpg" group-title="GOODTV",AnimalShow-Ais
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1661,9 +1658,7 @@ https://wacthstream.com/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c
 #EXTINF:-1 tvg-id="mysci.th" tvg-name="MYSCI" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png" group-title="GOODTV",MYSCI-Ais
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8
-#EXTINF:-1 tvg-id="mysci.th" tvg-name="MYSCI" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png" group-title="GOODTV",MYSCI-cdn6
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
-#EXTINF:-1 tvg-id="MYSCI" tvg-name="MYSCI" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png" group-title="GOODTV",MYSCI-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTE6NDQ6MzQgQU0maGFzaF92YWx1ZT1uN2xVTWRNZmxRUzZZVW9YWk9HcXVRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTEyNTc=
 #EXTINF:-1 tvg-id="NewExplorer.th" tvg-name="NewExplorer.th" tvg-logo="https://i.ibb.co/NZB9D3z/newexplore.png" group-title="GOODTV",NewExplorer-wacth
@@ -1673,6 +1668,7 @@ https://wacthstream.com/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wacthstream.com/stream_live/goodtv66_NextKid2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTE6NDQ6NTggQU0maGFzaF92YWx1ZT1Bbmc2aXlXQ0I5QVozY3JUNzZocmRBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDg5MzE=
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/nextkid/playlist.m3u8
 #EXTINF:-0 group-title="GOODTV" tvg-id="Global Trekker" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",Global Trekker-cdn6
 #EXTVLCOPT:http-referrer=https://ufanance.co/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
