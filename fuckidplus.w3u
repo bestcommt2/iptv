@@ -1473,8 +1473,7 @@ http://xtreamhd.ddns.net:9981/stream/mux/5466132886624b1b64cb56310b653002?ticket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #http://newlife3.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60283.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="NK TV" tvg-logo="https://img2.pic.in.th/pic/oie_3123588Cg7SBeC.jpeg",NK TV
-http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
-https://github.com/bestcommt2/m3u8/raw/master/nktv.m3u8
+http://stream.nktv.live:9898/live/nktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="TVB Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",TVB Thai
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
