@@ -27,9 +27,9 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8
 #EXTINF:-1 tvg-id="TNN2.th" tvg-name="TNN 2" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png" group-title="ทีวีดิจิตอลไทย",TNN 2
 https://ctrl.laotv.la/live/TNN2/index.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="TNN.th" tvg-name="TNN 16" tvg-logo="https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ทีวีดิจิตอลไทย", TNN 16 
+#EXTINF:-1 tvg-chno="16" tvg-id="TNN.th" tvg-name="TNN 16" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ทีวีดิจิตอลไทย", TNN 16 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8
 #EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ทีวีดิจิตอลไทย",JKN 18
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv/index.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="ทีวีดิจิตอลไทย",Nation TV
@@ -63,7 +63,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="ไทยรัฐทีวี 32" tvg-logo="https://static.thairath.co.th/media/dFQROr7oWzulq5FZYjjA515688fYpq5TMLJD17vUyLlN8HXXTvARWsmL1j8q7THf3rE.jpg" group-title="ทีวีดิจิตอลไทย" ,ไทยรัฐทีวี 32
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/DASH/B0013.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/DASH/B0013.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YATEEM TV" tvg-logo="https://yateem.tv/wp-content/uploads/2019/01/Logo-Header.png" group-title="ทีวีดิจิตอลไทย",YATEEM TV
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/11/08/v8ZV7g.png" group-title="ทีวีดิจิตอลไทย",TOPNEWs
@@ -162,21 +162,21 @@ https://github.com/bestcommt2/iptv/raw/master/3bbballthai3.m3u8
 --------------------------------------------------------------------------------------
 ###AIS PLAY###
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="AIS PLAY",NBT HD
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/HLS/V0001.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/HLS/V0001.mpd
 #EXTINF:-1 tvg-id="CH3.th" tvg-name="CH3 HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="AIS PLAY",CH3 HD
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/DASH/B0003.mpd
 #EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH8" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="AIS PLAY",CH8
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0006/DASH/B0006.mpd
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="AIS PLAY",TV5 HD
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/HLS/V0007.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/HLS/V0007.mpd
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="AIS PLAY",MCOT HD
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.mpd
 #EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="AIS PLAY",JKN 18
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0010/DASH/V0010.mpd
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="AIS PLAY",THAI PBS HD
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0014/HLS/V0014.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0014/HLS/V0014.mpd
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="ไทยรัฐทีวี 32" tvg-logo="https://static.thairath.co.th/media/dFQROr7oWzulq5FZYjjA515688fYpq5TMLJD17vUyLlN8HXXTvARWsmL1j8q7THf3rE.jpg" group-title="AIS PLAY",ไทยรัฐทีวี 32
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.mpd
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="AIS PLAY",Workpoint
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0015/DASH/V0015.mpd
 #EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="AIS PLAY",MONO 29
@@ -190,7 +190,7 @@ https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/DASH
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="AIS PLAY",Nation TV
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0021/DASH/V0021.mpd
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="AIS PLAY",PPTV HD
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/HLS/V0022.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/HLS/V0022.mpd
 #EXTINF:-1 tvg-id="TNN2.th" tvg-name="TNN 2" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png" group-title="AIS PLAY",TNN 2
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/DASH/V0053.mpd
 #EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="AIS PLAY",True 4U
@@ -269,10 +269,10 @@ https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="RT" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png",RT
 #EXTGRP:AIS PLAY
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/DASH/V0105.mpd?
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/DASH/V0105.mpd?
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="RT" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png",RTDocumentary
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/DASH/V0106.mpd?
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/DASH/V0106.mpd?
 #EXTINF:1 tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0107.png" group-title="AIS PLAY", HLN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5e2d32a4acc84af9770faba8a7ff1fa:7b0b64c86be296d15ebdf3a3a1af0560
@@ -311,7 +311,7 @@ https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0121/DASH
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="CNA" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png",CNA
 #EXTGRP:AIS PLAY
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/DASH/V0122.mpd?
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/DASH/V0122.mpd?
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="France 24" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png",France 24
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0123/DASH/V0123.mpd?
@@ -325,7 +325,7 @@ https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0125/DASH
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="Aljazeera" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png",Aljazeera
 #EXTGRP:AIS PLAY
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/DASH/V0140.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/DASH/V0140.mpd
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="TV5 Monde" tvg-logo="https://cms.dmpcdn.com/livetv/2023/06/01/c25d7dd0-ffd4-11ed-aaf9-a19119bc3367_webp_320.webp",TV5 Monde
 #EXTGRP:AIS PLAY
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -378,10 +378,10 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/DASH
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="Arirang" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0177.png",Arirang
 #EXTGRP:AIS PLAY
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0177/DASH/V0177.mpd?
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0177/DASH/V0177.mpd?
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="CNBC" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/dffb2430-fb8a-11ed-ab37-775f5d36f2f4_webp_320.webp",CNBC
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0178/DASH/V0178.mpd
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0178/DASH/V0178.mpd
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="AIS PLAY",TH - Discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
@@ -669,7 +669,7 @@ https://wacthstream.com/stream_live/780_BBC/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0125/DASH/V0125.mpd
 #EXTINF:-1 group-title="ข่าว" tvg-id="CNBC" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/dffb2430-fb8a-11ed-ab37-775f5d36f2f4_webp_320.webp",CNBC
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0178/DASH/V0178.mpd?
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0178/DASH/V0178.mpd?
 https://ctrl.laotv.la/live/CNBC/index.m3u8
 #EXTINF:-1 group-title="ข่าว" tvg-id="ABC Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/800px-ABC_Australia_logo.svg.png",ABC Australia
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -682,7 +682,7 @@ https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/DASH
 https://ctrl.laotv.la/live/NHK/index.m3u8
 #EXTINF:-1 group-title="ข่าว" tvg-id="RT" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png",RT
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/DASH/V0106.mpd?
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/DASH/V0106.mpd?
 #EXTINF:-1 group-title="ข่าว" tvg-id="Euronews " tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon/EuroNnews-1.png",Euronews 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0119/DASH/V0119.mpd?
@@ -703,25 +703,25 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/DASH
 #EXTINF:-1 group-title="ข่าว" tvg-id="CNA" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png",CNA
 #EXTGRP:ข่าว
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/DASH/V0122.mpd?
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/DASH/V0122.mpd?
 #EXTINF:-1 group-title="ข่าว" tvg-id="Aljazeera" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png",Aljazeera
 #EXTGRP:ข่าว
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/DASH/V0140.mpd?
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/DASH/V0140.mpd?
 https://ctrl.laotv.la/live/ALJazeera/index.m3u8
 #EXTINF:-1 group-title="ข่าว" tvg-id="Arirang" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0177.png",Arirang
 #EXTGRP:ข่าว
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0177/DASH/V0177.mpd?
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0177/DASH/V0177.mpd?
 https://ctrl.laotv.la/live/Arirang/index.m3u8
 #EXTINF:-1 group-title="ข่าว" tvg-id="RT" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png",RT
 #EXTGRP:ข่าว
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/DASH/V0105.mpd?
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/DASH/V0105.mpd?
 #EXTINF:-1 group-title="ข่าว" tvg-id="TVBS" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVBS.png",TVBS
 #EXTGRP:ข่าว
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0108/DASH/V0108.mpd?
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0108/DASH/V0108.mpd?
 #EXTINF:-1 group-title="ข่าว" tvg-id="TV5 Monde" tvg-logo="https://cms.dmpcdn.com/livetv/2023/06/01/c25d7dd0-ffd4-11ed-aaf9-a19119bc3367_webp_320.webp",TV5 Monde
 #EXTGRP:ข่าว
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -747,31 +747,31 @@ https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/HLS/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", group-title="ไทยลีก", BALLTHAI 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", group-title="ไทยลีก", BALLTHAI 2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", group-title="ไทยลีก", BALLTHAI 3
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png", group-title="ไทยลีก", BALLTHAI 4
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png", group-title="ไทยลีก", BALLTHAI 5
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png", group-title="ไทยลีก", BALLTHAI 6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png", group-title="ไทยลีก", BALLTHAI 7
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png", group-title="ไทยลีก", BALLTHAI 8
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_9.png", group-title="ไทยลีก", BALLTHAI 9
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL009/HLS/TL009.m3u8
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL009/HLS/TL009.m3u8
 
 #EXTINF:-0 tvg-id="https://gigatv.3bbtv.co.th/" tvg-name="3BB-BALLTHAI 1" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png" group-title="ไทยลีก",3BB-BALLTHAI 1
 #EXTVLCOPT:http-referrer=https://raw.githubusercontent.com/bestcommt2/iptv/master/fuckidplus.w3u
@@ -1485,7 +1485,7 @@ http://xtreamhd.ddns.net:9981/stream/mux/5466132886624b1b64cb56310b653002?ticket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #http://newlife3.wanicelife.com:8880/live/3ca7283n03/asdf23e423/60283.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="NK TV" tvg-logo="https://img2.pic.in.th/pic/oie_3123588Cg7SBeC.jpeg",NK TV
-https://github.com/bestcommt2/m3u8/raw/master/nktv.m3u8
+http://stream.nktv.live:9898/live/nktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="TVB Thai" tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",TVB Thai
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
