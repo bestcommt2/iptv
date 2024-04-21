@@ -1292,10 +1292,8 @@ https://webudit.hlsjs.ru/lb/premium135/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium139/index.m3u8
 
-#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="astroarena.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena 1
 
 
-#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="astrocricket.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 #EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="astrocricket.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 #EXTVLCOPT:http-referrer=https://livehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1392,9 +1390,7 @@ https://webudit.hlsjs.ru/lb/premium525/index.m3u8?|referer=https://widevine.lice
 #EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="foxsports1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZWp5rqstiPrHw6LyRBzN7O5dG1RyOcRn8YA&usqp=CAU",FOX Sports WWE 
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
 https://streaming.livescorethai.net/iptv/us-foxsports2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
-#EXTVLCOPT:http-referrer=https://livehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.hlsjs.ru/lb/premium39/index.m3u8|referer=https://widevine.licenses4.me/
+
 
 #EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-id="skysportsaction.uk" tvg-logo="https://i.imgur.com/XlASTQb.png",Sky Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2199,5 +2195,5 @@ https://main.77player.xyz/m3u8/d1546a369f1ad9f1a57e8d4b/d1546a369f1ad9f1a57e8d4b
 #EXTINF:-1 group-title="test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",Test
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x6/baygonhero1/chunks.m3u8|Referer=https://ballsodlive.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/baygonhero1/playlist.m3u8|referer=https://www.andaman888th.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/siamsport3/playlist.m3u8|referer=https://www.andaman888th.com/
 
