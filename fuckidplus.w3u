@@ -945,16 +945,31 @@ https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD4_chunklist
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://raw.githubusercontent.com/Playidturl1/epgtv/main/ch/PremierHD5_chunklist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball1.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1
-https://2nud.short.gy/tpf1.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball2.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2
-https://2nud.short.gy/tpf2b.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball3.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3
-https://2nud.short.gy/epl3.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball4.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4
-https://2nud.short.gy/epl4.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball5.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5
-https://2nud.short.gy/epl5.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball1.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1dolive
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball2.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2dolive
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball3.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3dolive
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball4.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4dolive
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="truepremierfootball5.th" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5dolive
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" , EPL-1
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd1/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" ,EPL-2
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd2/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" ,EPL-3
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd3/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png" ,EPL-4
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd4/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png" ,EPL-5
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd5/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -971,6 +986,7 @@ https://wacthstream.com/stream_live/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTE6NTY6MDcgQU0maGFzaF92YWx1ZT1VdURRbmY4ZUYrUUtTSytqR04zNTVRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTY2NTY=
+#EXTINF:-1 group-title="Sport" tvg-id="EPL-2ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1ufa
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf1/playlist.m3u8|referer=https://www.andaman888th.com/
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-2ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2ufa
@@ -985,16 +1001,7 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf4/playlist.m3u8|refere
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-5ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5ufa
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf5/playlist.m3u8|referer=https://www.andaman888th.com/
-#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" , EPL-1
-https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" ,EPL-2
-https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd2/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" ,EPL-3
-https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd3/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png" ,EPL-4
-https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd4/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png" ,EPL-5
-https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd5/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 1 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-dooball2you
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
