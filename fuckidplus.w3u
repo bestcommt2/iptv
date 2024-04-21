@@ -2196,12 +2196,8 @@ https://main.77player.xyz/m3u8/d1546a369f1ad9f1a57e8d4b/d1546a369f1ad9f1a57e8d4b
 -----------------------------------------------------------------------------------------------------------------------------------------
 ####test####
 
-#EXTINF:-1 group-title="test" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sports HD2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3530497a38a952eea890f12d2e94e049&key=9f23baa81327ec1806d89e930943ce8f
-https://dootv.xyz/c81a4bbb-510b-429b-901e-6f53a8550cea
+#EXTINF:-1 group-title="test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",Test
+#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
+https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x6/baygonhero1/chunks.m3u8|Referer=https://ballsodlive.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/baygonhero1/playlist.m3u8|referer=https://www.andaman888th.com/
 
-#EXTINF:-1 group-title="test" tvg-id="" tvg-logo="https://dookeela.live/uploads/1664499665.png", EPL1
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://dookeela.live/live-tv/epl1_sd
