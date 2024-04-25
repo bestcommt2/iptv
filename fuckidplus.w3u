@@ -1490,11 +1490,9 @@ https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/espnus/playlist.m3u8
 #EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/gol.png" ,GOL
 https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/gol/playlist.m3u8
 
-#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-logo="htt" ,Fox Inter Sports 2 (US)
+#EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport2.png" ,Fox Inter Sports 2 (US)
 https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/foxsports2usa/playlist.m3u8
 
-#EXTINF:-1 group-title=กีฬาต่างประเทศ" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport2.png" ,Fox Sports 2 (NL)
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/foxsports2nl/playlist.m3u8
 
 #EXTINF:-1 group-title="กีฬาต่างประเทศ" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport4nl.png" ,Fox Sports 4 (NL)
 https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/foxsports4nl/playlist.m3u8
