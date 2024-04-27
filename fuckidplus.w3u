@@ -986,38 +986,38 @@ https://wacthstream.com/stream_live/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
-#EXTINF:-1 group-title="Sport" tvg-id="EPL-2ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1ufa
+#EXTINF:-1 group-title="Sport" tvg-id="EPL-2ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-365livebal
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf1/playlist.m3u8|referer=https://www.andaman888th.com/
-#EXTINF:-1 group-title="Sport" tvg-id="EPL-2ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2ufa
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl1_480p/chunks.m3u8|referer=https://365liveball.com/
+#EXTINF:-1 group-title="Sport" tvg-id="EPL-2ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-365livebal
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf2/playlist.m3u8?|referer=https://www.andaman888th.com/
-#EXTINF:-1 group-title="Sport" tvg-id="EPL-3ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3ufa
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl2_480p/chunks.m3u8|referer=https://365liveball.com/
+#EXTINF:-1 group-title="Sport" tvg-id="EPL-3ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-365livebal
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf3/playlist.m3u8|referer=https://www.andaman888th.com/
-#EXTINF:-1 group-title="Sport" tvg-id="EPL-4ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4ufa
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl3_480p/chunks.m3u8|referer=https://365liveball.com/
+#EXTINF:-1 group-title="Sport" tvg-id="EPL-4ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-365livebal
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf4/playlist.m3u8|referer=https://www.andaman888th.com/
-#EXTINF:-1 group-title="Sport" tvg-id="EPL-5ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5ufa
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl4_480p/chunks.m3u8|referer=https://365liveball.com/
+#EXTINF:-1 group-title="Sport" tvg-id="EPL-5ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-365livebal
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf5/playlist.m3u8|referer=https://www.andaman888th.com/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl5_480p/chunks.m3u8|referer=https://365liveball.com/
 
 
-#EXTINF:-1 group-title="Sport" tvg-id="True Sport 1 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-dooball2you
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="True Sport 2 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 2 HD-dooball2you
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="True Sport 3 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 3 HD-dooball2you
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="True Sport 5-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5-dooball2you
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="True Sport 7-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7-dooball2you
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="True Sport 1 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-365livebal
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sporthd1_480p/chunks.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="True Sport 2 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 2 HD-365livebal
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sporthd2_480p/chunks.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="True Sport 3 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 3 HD-365livebal
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sporthd3_480p/chunks.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="True Sport 5-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5-365livebal
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sport5_480p/chunks.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="True Sport 7-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7-365livebal
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sport5_480p/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 1 HD-freetvdd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8
