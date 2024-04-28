@@ -463,7 +463,7 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TrueThaiFilm" tvg-logo="https://img2.pic.in.th/pic/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_originalf06065ca0f1a0890.png",TrueThaiFilm
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -488,12 +488,12 @@ https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://github.com/bestcommt2/iptv/raw/master/true%20life.m3u8
 #EXTINF:-0 tvg-id="TrueExploreWild.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="TRUE VISION TV",TRUE EXPLORE WILD
-https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=|Referer=https://wacth.tv/
+https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2|Referer=https://wacth.tv/
 #EXTINF:-0 group-title="TRUE VISION TV" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
-https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=|Referer=https://wacth.tv/
+https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2|Referer=https://wacth.tv/
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Rock_Entertainment" tvg-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",Rock_Entertainment
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="ROCK ACTION HD" tvg-name="ROCK ACTION HD" tvg-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="TRUE VISION TV",ROCK ACTION HD
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -502,11 +502,11 @@ https://github.com/bestcommt2/iptv/raw/master/rock%20action.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TrueInsideHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7d74eda0-2515-11ee-864f-a52221dad038_webp_original.webp" group-title="TRUE VISION TV",TRUE INSIDE
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/335_TrueInsideHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/335_TrueInsideHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-id="" tvg-name="TRUE-MUSIC" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-music-hd.webp" group-title="TRUE VISION TV",TRUE-MUSIC
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/357_TrueMusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/357_TrueMusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="warnertv" tvg-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",warnertv
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8?|Referer=https://freetvdd.com
@@ -518,7 +518,7 @@ https://github.com/bestcommt2/iptv/raw/master/Paramount.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="TRUE VISION TV",Crime+Investigation
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TVB" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/08f0470b-4f2f-4459-a6cc-0006e97887b7_original.png",TVB
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
@@ -531,48 +531,48 @@ https://streaming.livescorethai.net/iptv/hd-foodeng.stream/playlist.m3u8?|Refere
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="TRUE VISION TV",BBCLifestyle
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:0 tvg-id="BBCEarth.Id" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png" group-title="TRUE VISION TV",BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="AFN Network" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",AFN Network
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://wacthstream.com/stream_live/356_AFN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/356_AFN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png" group-title="TRUE VISION TV",Discovery
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/562_Discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/562_Discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TLC" tvg-name="TLC" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e3c376d0-fb8a-11ed-82d8-75b5e95c0f8a_webp_320.webp" group-title="TRUE VISION TV",TLC
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/566_TLC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/566_TLC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:1 tvg-id="" group-title="TRUE VISION TV" tvg-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0171.png", Cartoon Netwrk
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/449_Carton_Netwrk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/449_Carton_Netwrk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:1 tvg-id="" group-title="TRUE VISION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png", LOVE Nature 4K
 https://github.com/bestcommt2/iptv/raw/master/love4k.m3u8
 #EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="TRUE VISION TV",Lifetime TH 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-0 tvg-id="Discovery Asia.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png" group-title="TRUE VISION TV",Discovery Asia TH
-https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=|Referer=https://wacth.tv/
+https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2|Referer=https://wacth.tv/
 #EXTINF:-0 tvg-id="OUTDOOR" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f2c30832-7d77-4a24-88ad-1d30c593bda1.png" group-title="TRUE VISION TV",TH OUTDOOR
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="TRUE VISION TV",TH AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:0 tvg-id="AnimalPlanet.Id" tvg-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="TRUE VISION TV",Animal Planet TH
 https://wacthstream.com/stream_live/567_Animal_Planet/playlist.m3u8|Referer=https://wacth.tv/
 #EXTINF:-1 tvg-id="TR KMTV" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png" group-title="TRUE VISION TV",KMTV 
-https://wacthstream.com/stream_live/347_KMTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=|Referer=https://wacth.tv
+https://wacthstream.com/stream_live/347_KMTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2|Referer=https://wacth.tv
 #EXTINF:-1 group-title="TRUE VISION TV " tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/35349410-5363-11ee-8322-fb6a8c8f2ff6_webp_original.webp", Motorvision (TH)
 
-https://wacthstream.com/stream_live/687_motorvision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=|Referer=https://wacth.tv
+https://wacthstream.com/stream_live/687_motorvision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2|Referer=https://wacth.tv
 #EXTINF:-0 tvg-id="GEM" tvg-name="Gem" tvg-logo="https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_original.png" group-title="TRUE VISION TV",TH GEM
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="TRUE VISION TV", TRUE HISTORY
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8
@@ -661,7 +661,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="y" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/30/19a0be10-e778-11ed-a3d3-f3f98ac7a1a1_webp_320.webp", BBC
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTGRP:ข่าว
-https://wacthstream.com/stream_live/780_BBC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/780_BBC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://49-231-34-107-rewriter.ais-vidnt.com
 https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0125/DASH/V0125.mpd
@@ -732,7 +732,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC33/index.m3u8
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN HD" tvg-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" group-title="ข่าว",CNN HD
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/778_CNN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/778_CNN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="AlJazeeraEnglish" tvg-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png" group-title="ข่าว",AlJazeeraEnglish
 https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0140/HLS/V0140.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.th" tvg-name="RT Documentary" tvg-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png" group-title="ข่าว",RT Documentary
@@ -973,19 +973,19 @@ https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd5/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/602_eng2./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/602_eng2./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="Sport" tvg-id="EPL-2ufa" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-365livebal
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl1_480p/chunks.m3u8|referer=https://365liveball.com/
@@ -1566,10 +1566,10 @@ http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 https://wacthstream.com/stream_live/336_AXN/playlist.m3u8
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="Paramount" tvg-logo="https://cdn.windowsreport.com/wp-content/uploads/2020/08/Paramount-Network-Spike-TV-live-stream.jpg",Paramount
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="Rock_Extreme" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/rgethejte.webp",Rock_Extreme
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" tvg-logo="https://i.imgur.com/vMWjnIm.png" group-title="หนังภาพยนตร์",MANGORN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
@@ -1684,24 +1684,24 @@ https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0154/HLS/V0154.m3u8
 #EXTINF:-1 tvg-id="Budsaba.th" tvg-name="Busaba" tvg-logo="https://i.ibb.co/7SRycDD/bbb.png" group-title="GOODTV",Busaba-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-id="JustFun.th" tvg-name="JustFun" tvg-logo="https://i.ibb.co/dsNNJ3L/Justfun.png" group-title="GOODTV",JustFun-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-id="100" tvg-name="Thainess" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113190044thainess.png" group-title="GOODTV",Thainess-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/V0155.m3u8
-https://wacthstream.com/stream_live/goodtv40_ThaiNess./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/goodtv40_ThaiNess./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-id="Sweet" tvg-name="Sweet" tvg-logo="https://i.ibb.co/tXr6CPL/sweet.png" group-title="GOODTV",Sweet-cdn6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 #EXTINF:-1 tvg-id="Heart.th" tvg-name="Heart" tvg-logo="https://i.ibb.co/qYHStJ0/heart.png" group-title="GOODTV",Heart-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-id="Hero.th" tvg-name="Hero" tvg-logo="https://i.ibb.co/S3LPy31/Hero.png" group-title="GOODTV",Hero-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-id="Sumlojlok.th" tvg-name="Sumlojlok" tvg-logo="https://i.ibb.co/Pm84NSc/goodtv.jpg" group-title="GOODTV",Sumlojlok-Ais
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
@@ -1712,21 +1712,21 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
 #EXTINF:-1 tvg-id="BXcite.th" tvg-name="BXcite" tvg-logo="https://i.ibb.co/0ZXqLCb/bxcite.png" group-title="GOODTV",BXcite-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
-https://wacthstream.com/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
+https://wacthstream.com/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-id="mysci.th" tvg-name="MYSCI" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png" group-title="GOODTV",MYSCI-Ais
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-id="NewExplorer.th" tvg-name="NewExplorer.th" tvg-logo="https://i.ibb.co/NZB9D3z/newexplore.png" group-title="GOODTV",NewExplorer-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-id="NextKid.th" tvg-name="nextKids" tvg-logo="https://i.ibb.co/GC2XbHr/nextKids.jpg" group-title="GOODTV",nextKids-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/goodtv66_NextKid2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/goodtv66_NextKid2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 
 #EXTINF:-0 group-title="GOODTV" tvg-id="Global Trekker" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",Global Trekker-cdn6
 #EXTVLCOPT:http-referrer=https://ufanance.co/
@@ -1750,10 +1750,10 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
 #EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://dl.dropbox.com/s/glb7gxiextzw97k/ci.png?dl=0" group-title="Documentary",CrimeInvestigation-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-0 tvg-id="DiscoveryAsia" tvg-name="" tvg-logo="https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0" group-title="Documentary",Discovery Asia-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-0 tvg-id="DiscoveryAsia" tvg-name="" tvg-logo="https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0" group-title="Documentary",Discovery Asia-livescorethai
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1764,7 +1764,7 @@ https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8
 https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0181/DASH/V0181.mpd
 #EXTINF:-0 tvg-id="DiscoveryChannel" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="Documentary",Discovery-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/562_Discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/562_Discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-0 tvg-id="DiscoveryChannel" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="Documentary",Discovery-laotv
 https://ctrl.laotv.la/live/Discovery/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="discoveryturbouk.uk" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-turbo.png",Discovery Turbo-livescorethai
@@ -1777,7 +1777,7 @@ https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://dl.dropbox.com/s/ok5j2fbe9y54b4s/history.png?dl=0" group-title="Documentary",History-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/556_History/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/556_History/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/LoveNature4K.png" tvg-name="" tvg-id="3BB-LOVE Nature 4K" group-title="Documentary",Love Nature 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1785,19 +1785,19 @@ https://wacthstream.com/stream_live/556_History/playlist.m3u8?wmsAuthSign=c2Vydm
 https://cnt2-streamer19.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
 #EXTINF:-1 tvg-id="LoveNature4K" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love Nature-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature 4K(EN)
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-0 tvg-id="OUTDOOR" tvg-name="" tvg-logo="https://dl.dropbox.com/s/ed7x1ozg9iz4s0l/outdoor.png?dl=0" group-title="Documentary",OUTDOOR-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-0 tvg-id="NationalGeographic" tvg-name="" tvg-logo="https://dl.dropbox.com/s/3xym6jy2h7h0q2j/ng.png?dl=0" group-title="Documentary",National Geographic-livescorethai
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 http://portal.zebratv.one:25461/live/1/0/17253.m3u8?mac=00:1a:79:b5:c5:a1
 #EXTINF:-0 tvg-id="NationalGeographic" tvg-name="" tvg-logo="https://dl.dropbox.com/s/3xym6jy2h7h0q2j/ng.png?dl=0" group-title="Documentary",National Geographic-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/558_Nationnal_geographic/playlist.m3u8??wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/558_Nationnal_geographic/playlist.m3u8??wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-0 tvg-id="True Exploer Wild" tvg-name="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-wild.png" group-title="Documentary",True Exploer Wild-kungtv
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 http://kungtv.net/play/live.php?mac=00:1A:79:BF:E6:64&stream=115663&extension=ts&play_token
@@ -1817,7 +1817,7 @@ https://2nud.short.gy/hgtv.m3u8
 #EXTVLCOPT:http-referrer=https://wacth.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
 Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/567_Animal_Planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/567_Animal_Planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-1 tvg-id="AnimalPlanet.Id" tvg-logo="https://dl.dropbox.com/s/d55ewtydhd2sabh/animalplanet.png?dl=0" group-title="Documentary",Animal Planet-laotv
 #EXTVLCOPT:http-referrer=https://wacth.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
@@ -1830,18 +1830,18 @@ Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ctrl.laotv.la/live/AnimalShow/index.m3u8
 #EXTINF:-0 tvg-id="TrueExploreWild.th" tvg-name="" tvg-logo="https://dl.dropbox.com/s/pe1kvervyja3cd3/trueexplorerwild.png?dl=0" group-title="Documentary",TRUE EXPLORE WILD-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-0 tvg-id="TrueExploreWild.th" tvg-name="" tvg-logo="https://dl.dropbox.com/s/pe1kvervyja3cd3/trueexplorerwild.png?dl=0" group-title="Documentary",TRUE EXPLORE WILD-livescorethai
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
 https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8
 #EXTINF:-0 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png" group-title="Documentary",BBC Lifestyle-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 https://dl.dropbox.com/s/6oon0jq2xd3352j/bbclifestyle.m3u8?dl=0
 #EXTINF:0 tvg-id="BBCEarth.Id" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/503.png" group-title="Documentary",BBC Earth-wacth
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/568_BBC_Earth/playlist.m3u8??wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=|Referer=https://wacth.tv
+https://wacthstream.com/stream_live/568_BBC_Earth/playlist.m3u8??wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2|Referer=https://wacth.tv
 #EXTINF:-0 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/503.png" group-title="Documentary",BBC Earth-livescorethai
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
@@ -1853,7 +1853,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC43/index.m3u8
 #EXTINF:-0 tvg-id="GEM" tvg-name="Gem" tvg-logo="http://tvsmagazine.com/images/channels/sm_212.jpg" group-title="Documentary",TH GEM-wacth
 #EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/244_GEM/playlist.m3u8??wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDY6MzY6MDEgUE0maGFzaF92YWx1ZT1oazdRdENUZ0IvMk9lOEVPYW9SOFlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODEzMDA=
+https://wacthstream.com/stream_live/244_GEM/playlist.m3u8??wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjM3OjMxIFBNJmhhc2hfdmFsdWU9eUd5QzZ3M1JsUHlDV3NoLzRuc3laUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQyNzI2
 #EXTINF:-0 group-title="Documentary" tvg-id="DMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
