@@ -1230,16 +1230,16 @@ https://ctrl.laotv.la/live/THD7/index.m3u8
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 2 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 2 HD-livestream88
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/th-sport/truesport2/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 3 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 3 HD-livestream88
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/th-sport/truesport3/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 4 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 4 HD-livestream88
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/th-sport/truesport4/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 5" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5-livestream88
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/th-sport/truesport5/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 7" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7-livestream88
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
@@ -1250,7 +1250,7 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf/playlist.m3u8|referer
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 #EXTINF:-1 tvg-id="spotv.kr" tvg-name="SPOTV 1 TRUE" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="Sport",SPOTV 1 TRUE
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/th-sport/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png" group-title="Sport",Fight Sports
 http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/01.m3u8|referer=https://streaming.livescorethai.net
 
