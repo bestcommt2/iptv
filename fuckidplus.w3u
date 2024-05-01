@@ -753,22 +753,28 @@ https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/PTsGKkL/image.png" ,โรโบคาร์โพลีทีวี
 https://livestream.zazerconer.workers.dev/channel/UCvKicVPiOrIuZdEYmxuRQug.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="Boomerang" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png", Boomerang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://www.bahfootball.com/
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/DASH/V0104.mpd
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="Cartoon Club" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png", Cartoon Club
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://www.bahfootball.com/
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="Cartoonito.th" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",Cartoonito
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6a1b556425b6932c6ffe80e7a828e57:bd8ea11b338954c1746f45bcf851c91e
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0113/DASH/V0113.mpd
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="nickjr" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="nickelodeonasia.sg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34cf6695d9082bc5b4687e59d61b48d2:64e30dc5efbacf1f3fd344a01ba2f906
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0187/DASH/V0187.mpd
@@ -804,10 +810,11 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTGRP:ข่าว
 https://wacthstream.com/stream_live/780_BBC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDE6MjA6MDEgUE0maGFzaF92YWx1ZT1xK1FERnJYMzVnaGpZNGRNaEhiRE13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODUyMTQ=
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://49-231-34-107-rewriter.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0125/DASH/V0125.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 #EXTINF:-1 group-title="ข่าว" tvg-id="CNBC" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/dffb2430-fb8a-11ed-ab37-775f5d36f2f4_webp_320.webp",CNBC
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0178/DASH/V0178.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 https://ctrl.laotv.la/live/CNBC/index.m3u8
@@ -817,53 +824,66 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://ctrl.laotv.la/live/ABCA/index.m3u8
 #EXTINF:-1 group-title="ข่าว" tvg-id="NHK" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png",NHK
 #EXTGRP:ข่าว
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/DASH/V0102.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 https://ctrl.laotv.la/live/NHK/index.m3u8
 #EXTINF:-1 group-title="ข่าว" tvg-id="RT" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png",RT
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/DASH/V0106.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 #EXTINF:-1 group-title="ข่าว" tvg-id="Euronews " tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon/EuroNnews-1.png",Euronews 
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0119/DASH/V0119.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 #EXTINF:-1 group-title="ข่าว" tvg-id="DW" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121",DW
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0121/DASH/V0121.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 https://ctrl.laotv.la/live/DW/index.m3u8
 #EXTINF:-1 group-title="ข่าว" tvg-id="CCTV4" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png",CCTV4
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0173/DASH/V0173.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 https://ctrl.laotv.la/live/CCTV4A/index.m3u8
 #EXTINF:-1 group-title="ข่าว" tvg-id="France 24" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png",France 24
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0123/DASH/V0123.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 #EXTINF:-1 group-title="ข่าว" tvg-id="CGTN" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CGTN.png",CGTN
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/DASH/V0174.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 #EXTINF:-1 group-title="ข่าว" tvg-id="CNA" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png",CNA
 #EXTGRP:ข่าว
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/DASH/V0122.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 #EXTINF:-1 group-title="ข่าว" tvg-id="Aljazeera" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png",Aljazeera
 #EXTGRP:ข่าว
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/DASH/V0140.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 https://ctrl.laotv.la/live/ALJazeera/index.m3u8
 #EXTINF:-1 group-title="ข่าว" tvg-id="Arirang" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0177.png",Arirang
 #EXTGRP:ข่าว
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0177/DASH/V0177.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 https://ctrl.laotv.la/live/Arirang/index.m3u8
 #EXTINF:-1 group-title="ข่าว" tvg-id="RT" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png",RT
 #EXTGRP:ข่าว
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/DASH/V0105.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 #EXTINF:-1 group-title="ข่าว" tvg-id="TVBS" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVBS.png",TVBS
 #EXTGRP:ข่าว
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0108/DASH/V0108.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 #EXTINF:-1 group-title="ข่าว" tvg-id="TV5 Monde" tvg-logo="https://cms.dmpcdn.com/livetv/2023/06/01/c25d7dd0-ffd4-11ed-aaf9-a19119bc3367_webp_320.webp",TV5 Monde
 #EXTGRP:ข่าว
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0141/HLS/V0141.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-name="CNBC" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CNBC.png" group-title="ข่าว",CNBC
@@ -876,9 +896,13 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC33/index.m3u8
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/778_CNN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDE6MjA6MDEgUE0maGFzaF92YWx1ZT1xK1FERnJYMzVnaGpZNGRNaEhiRE13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODUyMTQ=
 #EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="AlJazeeraEnglish" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png" group-title="ข่าว",AlJazeeraEnglish
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/HLS/V0140.m3u8
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/HLS/V0140.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 #EXTINF:-1 tvg-id="RTDocumentary.th" tvg-name="RT Documentary" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png" group-title="ข่าว",RT Documentary
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/HLS/V0105.m3u8
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/HLS/V0105.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -943,31 +967,44 @@ https://cdn1.aws-live-streaming.com/ais/trueballthai3/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sport" tvg-id="beIN SPORTS 1.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 2.th" tvg-name="" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_2.png" group-title="Sport",BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 3.th" tvg-name="" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_3.png" group-title="Sport", BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 #EXTINF:-1 group-title="Sport" tvg-id="beinsports4ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png", BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
 #EXTINF:-1 group-title="Sport" tvg-id="beinsports5ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png", BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
 #EXTINF:-1 group-title="Sport" tvg-id="beinsports6ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png", BEIN SPORTS 6
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 #EXTINF:-1 group-title="Sport" tvg-id="beinsports1thailand.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png", BEIN SPORTS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/HLS/S0007.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-id="beinsports1thailand.th" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png", Bein Sports 1-laotv
@@ -995,6 +1032,8 @@ https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="Sport",3BBSportOne
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d153e515a3ec465db2d812275d254d3f:808b83fd09be3a6c95fdd322379e068b
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0190/DASH/V0190.mpd
@@ -1901,6 +1940,8 @@ https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8?wmsAuthSign
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8
 #EXTINF:-0 tvg-id="Discovery Asia.th" tvg-name="" tvg-logo="https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0" group-title="Documentary",Discovery Asia TH
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7d2b3a2ee44d2d9e676f5ff1c09cc57:17d93e04b88ec01e67e3f07f68947164
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0181/DASH/V0181.mpd
@@ -2017,9 +2058,11 @@ http://kungtv.net/play/live.php?mac=00:1A:79:BF:E6:64&stream=115664&extension=ts
 ###วาไรตี###
 
 #EXTINF:-1 group-title="วาไรตี้" tvg-id=",40-50" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0030.png",40-50
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0030/DASH/V0030.mpd?
 #EXTINF:-1 group-title="วาไรตี้" tvg-id=",วัวมันลั่นทุ่ง" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LunthungTV.PNG",วัวมันลั่นทุ่ง
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0092/DASH/V0092.mpd?
 #EXTINF:-0 tvg-id="TrueXZyte.th" tvg-name="True X-Zyte" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/2a450650-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="วาไรตี้",TH - TR X-ZYTE
