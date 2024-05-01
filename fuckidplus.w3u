@@ -1246,7 +1246,9 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Channel" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp" group-title="Sport",Golf Channel
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf/playlist.m3u8|referer=https://dooball2you.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Channel Thailand 2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/6057ad50-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="Sport",Golf Channel Thailand 2
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
 #EXTINF:-1 tvg-id="spotv.kr" tvg-name="SPOTV 1 TRUE" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="Sport",SPOTV 1 TRUE
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png" group-title="Sport",Fight Sports
