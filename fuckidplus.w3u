@@ -2132,6 +2132,10 @@ https://live.thaitvstream.com/play/b94hdtv/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://main.24playerhd.com/m3u8/4f505d9fad9c97e211e0bf56/4f505d9fad9c97e211e0bf56168.m3u8
+#EXTINF:-1 group-title="DooSeriesonline" tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Sit-Down-with-Stand-Up-Udom-Taephanich-2024-%E0%B8%8B%E0%B8%B4%E0%B8%97%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%97-%E0%B8%AA%E0%B9%81%E0%B8%95%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B8%AD%E0%B8%B1%E0%B8%9E-%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1-%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A-187x269.jpg", Sit Down with Stand Up Udom Taephanich (2024) ซิทดาวน์ วิท สแตนด์
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.24playerhd.com/m3u8/73167f547dfe1c54543d205e/73167f547dfe1c54543d205e168.m3u8
 #EXTINF:-1 group-title="DooSeriesonline" tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Deaw-13-2022-%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-13-187x269.jpg", Deaw 13 (2022) เดี่ยว 13
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
