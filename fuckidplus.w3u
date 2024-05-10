@@ -2175,11 +2175,15 @@ https://main.24playerhd.com/m3u8/946eb89924236cf4aa706a05/946eb89924236cf4aa706a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://main.24playerhd.com/m3u8/9c19ca29b07b3e932bd87e87/9c19ca29b07b3e932bd87e87168.m3u8
 
------------------------------------------------------------------------------------------------------------------------------------------
-####test####
+#EXTINF:-1 group-title="DooMovieonline" tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Aquaman-2018-%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3-187x269.jpg", Aquaman (2018) อควาแมน เจ้าสมุทร
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.24playerhd.com/m3u8/12ab85a34a93c558ff28d806/12ab85a34a93c558ff28d806168.m3u8
 
-#EXTINF:-1 group-title="test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png",Test
-#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/baygonhero1/chunks.m3u8|Referer=https://365liveball.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/siamsport3/playlist.m3u8|referer=https://www.andaman888th.com/
+#EXTINF:-1 group-title="DooMovieonline" tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B8%8D-187x269.jpg", Aquaman and the Lost Kingdom (2023) อควาแมน กับอาณาจักรสาบสูญ
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.24playerhd.com/m3u8/ce206618ccfc1111da9e993d/ce206618ccfc1111da9e993d168.m3u8
+
+
 
