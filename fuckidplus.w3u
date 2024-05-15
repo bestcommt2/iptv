@@ -380,6 +380,13 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=3fa5582671949bb01fb737a4178925ac&chunkHttps=true&tmid=B0014&tpbk=hoLxX0rnBPfXLki0&rrt=1715706082&tmod=rfk&rsid=247f5acc-b4b6-4d08-bda2-abb04d376373&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1715792482
+
+#EXTINF:-1 ch-number="118" tvg-name="HBO Hits" tvg-id="HBO Hits.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="AIS PLAY", HBO Hits
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=3fa5582671949bb01fb737a4178925ac&chunkHttps=true&tmid=B0014&tpbk=hoLxX0rnBPfXLki0&rrt=1715706082&tmod=rfk&rsid=247f5acc-b4b6-4d08-bda2-abb04d376373&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1715792482
+
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="cinemaxasia.sg" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",CINEMAX Ais Movies 
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -475,7 +482,6 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0168/DASH
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" group-title="AIS PLAY",CNN HD
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#http://playtv.my.id/play/cnn.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tv.realmetx.repl.co/Ch/license/cnn.html
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0172/DASH/V0172.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=3fa5582671949bb01fb737a4178925ac&chunkHttps=true&tmid=B0014&tpbk=hoLxX0rnBPfXLki0&rrt=1715706082&tmod=rfk&rsid=247f5acc-b4b6-4d08-bda2-abb04d376373&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1715792482
@@ -797,8 +803,10 @@ http://superonetv.ml:2095/live/1/0/115410.m3u8?mac=00:1a:79:b5:c5:a1
 #EXTVLCOPT:http-origin=https://gdplayertv.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #https://idx.iptvfreemium.com/denslokal/h/h114/S4/mnf.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://www.dropbox.com/scl/fi/kxi4h3hsrrlhz28gvi4dv/nextkid.png?rlkey=s2okn4v7bgenqwnbt1twlchnu&dl=1",nextkid
-https://cdn-mfixer-20g.ndos.stream:8082/mfixer/nextkid/playlist.m3u8
+#EXTINF:-1 tvg-id="NextKid.th" tvg-name="nextKids" tvg-logo="https://i.ibb.co/GC2XbHr/nextKids.jpg" group-title="ช่องการ์ตูน",nextKids-wacth
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://wacthstream.com/stream_live/goodtv66_NextKid2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDE6MjA6MDEgUE0maGFzaF92YWx1ZT1xK1FERnJYMzVnaGpZNGRNaEhiRE13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODUyMTQ=
 
 -----------------------------------------------------------------------------------------
 
