@@ -5,6 +5,13 @@
 ###หัวควย###
 หัวควยกูไม่ปิดหลอกแอฟ มึงก็ไอ้เฒ่าตัวหนึ่ง มึงก็เหมือนหมาที่ชอบเหา ที่ชอบไล่กัดเขาไปทั่ว ดวย
 
+###VNL###
+#EXTINF:-1 tvg-id="VNL 2024" tvg-name="VNL 2024" tvg-logo="https://image.springnews.co.th/uploads/images/contents/w1024/2024/05/6XQSAoGNwLxJyiBlXTSC.webp" group-title="VNL",VNL 2024 
+https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="VNL",VNL 2024 CH7
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
+
+
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
 
