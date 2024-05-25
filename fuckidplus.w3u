@@ -2211,5 +2211,7 @@ https://main.24playerhd.com/m3u8/12ab85a34a93c558ff28d806/12ab85a34a93c558ff28d8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://main.24playerhd.com/m3u8/ce206618ccfc1111da9e993d/ce206618ccfc1111da9e993d168.m3u8
 
-
-
+#EXTINF:-1 group-title="DooMovieonline" tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-187x269.jpg", 4 Kings 2 (2023)
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://main.24playerhd.com/m3u8/319b8fbac730b46cb6b99085/319b8fbac730b46cb6b99085438.m3u8
