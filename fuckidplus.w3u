@@ -1723,12 +1723,7 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 --------------------------------------------------------------------------------------
 ###หนังภาพยนตร์###
 
-#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27377637_ico.png",fuck id movie 1
-http://6395online.com:8080/live/danai/6487/163.m3u8
-http://6395online.com:8080/live/antonio/6487/163.m3u8
-#EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27613877_ico.png",fuck id movie 2
-http://6395online.com:8080/live/danai/6487/168.m3u8
-http://6395online.com:8080/live/antonio/6487/168.m3u8
+
 
 #EXTINF:-1 group-title="หนังภาพยนตร์" tvg-id="fuck id" tvg-logo="https://www.tvphet.com/wp-content/uploads/2023/08/cropped-1-1.jpg",phetchabuntv
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
