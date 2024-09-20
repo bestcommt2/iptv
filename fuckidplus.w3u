@@ -16,8 +16,6 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 https://ctrl.laotv.la/live/WWE/index.m3u8
 
 
-efix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
-
 
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
@@ -2348,3 +2346,12 @@ https://main.24playerhd.com/m3u8/0c24eb6d2b1fef26ba2f82c5/0c24eb6d2b1fef26ba2f82
 #EXTVLCOPT:http-referrer=https://www.24-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://main.24playerhd.com/m3u8/9508bb3a85839d32e0536544/9508bb3a85839d32e0536544438.m3u8
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+####Test####
+
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://i.ibb.co/GC2XbHr/nextKids.jpg" group-title="Test",Test
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/3bbasian
