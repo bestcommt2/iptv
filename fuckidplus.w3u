@@ -106,7 +106,7 @@ https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/sd-tnn2.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="TNN.th" tvg-name="TNN 16" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ทีวีดิจิตอลไทย", TNN 16 
+#EXTINF:-1 tvg-chno="13" tvg-id="tnn16.iptv36.my.to" group-title="ทีวีดิจิตอลไทย" tvg-logo="https://iptv36.my.to/logo/tnn16.png",TNN16 HD
 https://iptv36.vercel.app/api/true?channel=tnn16hd
 #EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ทีวีดิจิตอลไทย",JKN 18
 https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
