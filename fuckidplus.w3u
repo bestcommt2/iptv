@@ -99,23 +99,22 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 #EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ทีวีดิจิตอลไทย",TPTV
-https://tv-live.tpchannel.org/live/tv_1080p.m3u8,?vhost=tv-live.tpchannel.org
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 #EXTINF:-1 tvg-id="TNN2.th" tvg-name="TNN 2" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png" group-title="ทีวีดิจิตอลไทย",TNN 2
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/sd-tnn2.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="TNN.th" tvg-name="TNN 16" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ทีวีดิจิตอลไทย", TNN 16 
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://iptv36.vercel.app/api/true?channel=tnn16hd
 #EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ทีวีดิจิตอลไทย",JKN 18
 https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="ทีวีดิจิตอลไทย",Nation TV
 http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="ทีวีดิจิตอลไทย",Workpoint
-https://streaming.livescorethai.net/iptv/sd-workpoint.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ทีวีดิจิตอลไทย",True 4U
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -152,8 +151,6 @@ http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YATEEM TV" tvg-logo="https://yateem.tv/wp-content/uploads/2019/01/Logo-Header.png" group-title="ทีวีดิจิตอลไทย",YATEEM TV
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/11/08/v8ZV7g.png" group-title="ทีวีดิจิตอลไทย",TOPNEWs
-https://live.topnews.co.th/hls/topnews_720.m3u8
 #EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ทีวีดิจิตอลไทย",News1
 https://server1.streamssl.com/stream/news1_mid.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683186938.png"group-title="ทีวีดิจิตอลไทย",ช่อง NBT ภาคกลาง
