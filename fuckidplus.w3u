@@ -88,12 +88,8 @@ http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="ทีวีดิจิตอลไทย",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="ทีวีดิจิตอลไทย",TV5 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
+#EXTINF:-1 tvg-chno="7" tvg-id="tv5.iptv36.my.to" group-title="ทีวีดิจิตอลไทย" tvg-logo="https://iptv36.my.to/logo/tv5.png",TV5 FHD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="ทีวีดิจิตอลไทย",T Sports 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -106,8 +102,6 @@ https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/sd-tnn2.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="tnn16.iptv36.my.to" group-title="ทีวีดิจิตอลไทย" tvg-logo="https://iptv36.my.to/logo/tnn16.png",TNN16 HD
-https://iptv36.vercel.app/api/true?channel=tnn16hd
 #EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ทีวีดิจิตอลไทย",JKN 18
 https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="ทีวีดิจิตอลไทย",Nation TV
@@ -148,6 +142,13 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
 http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/16.png" group-title="ทีวีดิจิตอลไทย", TNN16
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YATEEM TV" tvg-logo="https://yateem.tv/wp-content/uploads/2019/01/Logo-Header.png" group-title="ทีวีดิจิตอลไทย",YATEEM TV
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
