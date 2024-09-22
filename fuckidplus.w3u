@@ -964,23 +964,17 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/DASH
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="Cartoonito.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",Cartoonito
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6a1b556425b6932c6ffe80e7a828e57:bd8ea11b338954c1746f45bcf851c91e
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0113/DASH/V0113.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
+#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="nickjr" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="nickelodeonasia.sg" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34cf6695d9082bc5b4687e59d61b48d2:64e30dc5efbacf1f3fd344a01ba2f906
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0187/DASH/V0187.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
+#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #EXTINF:-1 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="ช่องการ์ตูน",DreamWorks 
 #EXTVLCOPT:http-referrer=https://beta.m-fixer.net/
 https://cdn-mfixer-20g.ndos.stream:8082/mfixer/dreamworks/playlist.m3u8
