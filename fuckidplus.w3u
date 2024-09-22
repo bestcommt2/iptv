@@ -176,7 +176,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
-#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://gigatv.3BBGIGATV.co.th/wp-content/themes/changwattana/assets/channel/4.png" group-title="3BBGIGATV", ALTV
+#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/4.png" group-title="3BBGIGATV", ALTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
