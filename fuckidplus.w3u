@@ -83,28 +83,33 @@ https://dolive.thaim3u.com/doolive4k-tv/youtube-10/chunks.m3u8
 ###ทีวีดิจิตอลไทย###
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="ทีวีดิจิตอลไทย",NBT HD
-https://streaming.livescorethai.net/iptv/sd-nbt.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="ทีวีดิจิตอลไทย",THAI PBS HD
-https://streaming.livescorethai.net/iptv/hd-tpbs.stream/playlist.m3u8
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="ทีวีดิจิตอลไทย",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="ทีวีดิจิตอลไทย",TV5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="ทีวีดิจิตอลไทย",T Sports 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 #EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ทีวีดิจิตอลไทย",TPTV
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8,?vhost=tv-live.tpchannel.org
 #EXTINF:-1 tvg-id="TNN2.th" tvg-name="TNN 2" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png" group-title="ทีวีดิจิตอลไทย",TNN 2
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://streaming.livescorethai.net/iptv/sd-tnn2.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="TNN.th" tvg-name="TNN 16" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ทีวีดิจิตอลไทย", TNN 16 
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://streaming.livescorethai.net/iptv/sd-tnn24.stream/playlist.m3u8
+https://iptv36.vercel.app/api/true?channel=tnn16hd
 #EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ทีวีดิจิตอลไทย",JKN 18
 https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="ทีวีดิจิตอลไทย",Nation TV
@@ -112,7 +117,8 @@ http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="ทีวีดิจิตอลไทย",Workpoint
 https://streaming.livescorethai.net/iptv/sd-workpoint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ทีวีดิจิตอลไทย",True 4U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
@@ -134,13 +140,16 @@ http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="ทีวีดิจิตอลไทย",CH7 HD
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="ทีวีดิจิตอลไทย",PPTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="ไทยรัฐทีวี 32" tvg-logo="https://static.thairath.co.th/media/dFQROr7oWzulq5FZYjjA515688fYpq5TMLJD17vUyLlN8HXXTvARWsmL1j8q7THf3rE.jpg" group-title="ทีวีดิจิตอลไทย" ,ไทยรัฐทีวี 32
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
-https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YATEEM TV" tvg-logo="https://yateem.tv/wp-content/uploads/2019/01/Logo-Header.png" group-title="ทีวีดิจิตอลไทย",YATEEM TV
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/11/08/v8ZV7g.png" group-title="ทีวีดิจิตอลไทย",TOPNEWs
@@ -354,25 +363,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
-
-#EXTINF:-1 tvg-id="https://gigatv.3BBGIGATV.co.th/" tvg-name="3BB-BALLTHAI 1" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png" group-title="3BBGIGATV",3BB-BALLTHAI 11
-#https://github.com/bestcommt2/iptv/raw/master/3bbballthai1.m3u8
-#EXTINF:-1 tvg-id="https://gigatv.3BBGIGATV.co.th/" tvg-name="3BB-BALLTHAI 2" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png" group-title="3BBGIGATV",3BB-BALLTHAI 22
-#https://github.com/bestcommt2/iptv/raw/master/3bbballthai2.m3u8
-#EXTINF:-1 tvg-id="https://gigatv.3BBGIGATV.co.th/" tvg-name="3BB-BALLTHAI 3" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png" group-title="3BBGIGATV",3BB-BALLTHAI 33
-#https://github.com/bestcommt2/iptv/raw/master/3bbballthai3.m3u8
-#EXTINF:-0 group-title="3BBGIGATV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", 3BB-BALLTHAI 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/tstv/902/901.mpd
-#EXTINF:-0 group-title="3BBGIGATV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", 3BB-BALLTHAI 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/tstv/902/902.mpd
-#EXTINF:-0 group-title="3BBGIGATV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", 3BB-BALLTHAI 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/tstv/902/903.mpd
 
 
 --------------------------------------------------------------------------------------
