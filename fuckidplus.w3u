@@ -442,7 +442,7 @@ https://cdn1.googlecdn.live/4k/tvn-indonesia/chunks.m3u8
 https://cdn1.googlecdn.live/4k/bbc-lifestyle/chunks.m3u8
 #EXTINF:0 tvg-id="BBCEarth.Id" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png" group-title="TRUE VISION TV",BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn1.googlecdn.live/4k/rock-action/chunks.m3u8|Referer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bbc-earth/chunks.m3u8|Referer=https://soccertv4k.com/
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="AFN Network" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",AFN Network
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
