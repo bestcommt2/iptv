@@ -382,14 +382,26 @@ https://cdn1.googlecdn.live/4k/spotv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/spotv2/playlist.m3u8
 
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo=""https://img2.pic.in.th/pic/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_originalf06065ca0f1a0890.png",TrueThaiFilm
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/truethaifilm/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",Warnertv
+https://cdn1.googlecdn.live/4k/epl1/chunks.m3u8
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/warnertv/playlist.m3u8
+https://cdn1.googlecdn.live/4k/epl2/chunks.m3u8
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/epl3/chunks.m3u8
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/epl4/chunks.m3u8
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/epl5/chunks.m3u8
 
 
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
