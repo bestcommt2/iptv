@@ -369,6 +369,10 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 ###TRUE VISION TV###
 
 
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://www.upload.ee/image/17288218/NFL.png",015 NFL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/nfl/playlist.m3u8
 
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
