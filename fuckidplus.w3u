@@ -407,25 +407,25 @@ https://cdn1.googlecdn.live/4k/epl5/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/truethaifilm/chunks.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://cdn-20g.m-fixer.net:8082/mfixer/trueseries/chunks.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
 https://cdn-20g.m-fixer.net:8082/mfixer/truemoviehits/chunks.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
 https://cdn-20g.m-fixer.net:8082/mfixer/truefilm1/chunks.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
 https://cdn-20g.m-fixer.net:8082/mfixer/truefilm2/chunks.m3u8
 
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://cdn-20g.m-fixer.net:8082/mfixer/trueasianmore/chunks.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="TRUE VISION TV",True Film Asia
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://cdn-20g.m-fixer.net:8082/mfixer/truefilmasia/chunks.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
@@ -433,23 +433,23 @@ https://cdn-20g.m-fixer.net:8082/mfixer/truefilmasia/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/ccm/chunks.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True X-Zyte" tvg-logo="https://img2.pic.in.th/pic/46fb6170-e599-11ed-b606-c19576cb8b29_webp_original.png",True X-Zyte
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/documentary.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://cdn-20g.m-fixer.net:8082/mfixer/truexzyte/chunks.m3u8
 #EXTINF:-0 group-title="TRUE VISION TV" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
-#EXTVLCOPT:http-referrer=hhttps://beta.m-fixer.net
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/documentary.html
 https://cdn-20g.m-fixer.net:8082/mfixer/trueexplorelife/chunks.m3u8
 #EXTINF:-0 tvg-id="TrueExploreWild.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="TRUE VISION TV",TRUE EXPLORE WILD
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/documentary.html
 https://cdn-20g.m-fixer.net:8082/mfixer/trueexplorelife/chunks.m3u8
 #EXTINF:-0 group-title="TRUE VISION TV" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/documentary.html
 https://cdn-20g.m-fixer.net:8082/mfixer/trueexploresci/chunks.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Rock_Entertainment" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",Rock_Entertainment
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
 https://cdn-20g.m-fixer.net:8082/mfixer/rockentertainmentred/playlist.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="ROCK ACTION HD" tvg-name="ROCK ACTION HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="TRUE VISION TV",ROCK ACTION HD
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net
+#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://cdn-20g.m-fixer.net:8082/mfixer/rockactionbule/playlist.m3u8
 
