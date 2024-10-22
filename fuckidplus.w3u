@@ -402,8 +402,10 @@ https://cdn1.googlecdn.live/4k/epl4/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/epl5/chunks.m3u8
-
-
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/truethaifilm/chunks.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
 #EXTVLCOPT:http-referrer=https://beta.m-fixer.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -472,10 +474,7 @@ https://cdn1.googlecdn.live/4k/bbc-lifestyle/chunks.m3u8
 #EXTINF:0 tvg-id="BBCEarth.Id" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png" group-title="TRUE VISION TV",BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://cdn1.googlecdn.live/4k/bbc-earth/chunks.m3u8|Referer=https://soccertv4k.com/
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="AFN Network" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",AFN Network
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/4k/foodnetwork/chunks.m3u8
+
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png" group-title="TRUE VISION TV",Discovery
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -499,27 +498,32 @@ https://cdn1.googlecdn.live/4k/axn/chunks.m3u8|Referer=https://soccertv4k.com/
 #EXTINF:0 tvg-id="AnimalPlanet.Id" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="TRUE VISION TV",Animal Planet TH
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/animal-planet/chunks.m3u8
-#EXTINF:-1 tvg-id="TR KMTV" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png" group-title="TRUE VISION TV",KMTV 
-https://cdn1.googlecdn.live/4k/tvn-movies/chunks.m3u8|Referer=https://soccertv4k.com/
-#EXTINF:-0 tvg-id="GEM" tvg-name="Gem" tvg-logo="https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_original.png" group-title="TRUE VISION TV",TH GEM
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/amc/chunks.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="TRUE VISION TV", TRUE HISTORY
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/history/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="TRUE VISION TV",DreamWorks 
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/dreamworks/chunks.m3u8
-#EXTINF:-0 tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e13eeed0-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="TRUE VISION TV",KBS World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kbsworld-ott.akamaized.net
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-0 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e00a1850-fb8a-11ed-bf86-7b9263bde387_webp_original.png" group-title="TRUE VISION TV", TRUE CNN
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/cnn/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="TRUE VISION TV",TRUE SPARK PLAY
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/truesparkplay/chunks.m3u8
+
+#EXTINF:-0 tvg-id="GEM" tvg-name="Gem" tvg-logo="https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_original.png" group-title="TRUE VISION TV",TH GEM
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/amc/chunks.m3u8
+#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="AFN Network" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",AFN Network
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://cdn1.googlecdn.live/4k/foodnetwork/chunks.m3u8
+#EXTINF:-0 tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e13eeed0-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="TRUE VISION TV",KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kbsworld-ott.akamaized.net
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="TR KMTV" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png" group-title="TRUE VISION TV",KMTV 
+https://cdn1.googlecdn.live/4k/tvn-movies/chunks.m3u8|Referer=https://soccertv4k.com/
 --------------------------------------------
 
 ###ช่องการ์ตูน###
