@@ -2440,9 +2440,6 @@ https://main.24playerhd.com/m3u8/9508bb3a85839d32e0536544/9508bb3a85839d32e05365
 ####Test####
 
 
-#EXTINF:-1 tvg-id="TSports7.th" tvg-name="Test" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="Test",Test
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cba534ad663fe6cfde5dd341e0b7fe6:024b6a3908a0cef99770563fd0c70af8
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65452708d940521074e79974_hbovodhd/dash0/THA_DOLBY_index.mpd
+#EXTINF:-1 group-title="BallThai" tvg-id="BallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
+#EXTVLCOPT:http-referrer=https://24xball.co/
+https://cdn3.googlecdnforstreaming.live:446/24xball/bein3/chunks.m3u8
