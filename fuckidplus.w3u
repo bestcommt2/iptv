@@ -502,9 +502,9 @@ https://cdn-20g.m-fixer.net:8082/mfixer/trueexploresci/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
 https://cdn-20g.m-fixer.net:8082/mfixer/rockentertainmentred/playlist.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="ROCK ACTION HD" tvg-name="ROCK ACTION HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="TRUE VISION TV",ROCK ACTION HD
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn-20g.m-fixer.net:8082/mfixer/rockactionbule/playlist.m3u8
+https://cdn1.googlecdn.live/4k/rock-action/chunks.m3u8
 
 
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="TRUE VISION TV",Crime+Investigation
@@ -515,8 +515,8 @@ https://cdn1.googlecdn.live/4k/crime-investigation/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://cdn1.googlecdn.live/4k/tvbclassichd/chunks.m3u8
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://truevisions.co.th/static/891ab984-b696-4284-a9df-9cb412fe8c84.png" group-title="TRUE VISION TV",TVN HD
-https://cdn1.googlecdn.live/4k/rock-action/chunks.m3u8|Referer=https://soccertv4k.com/
+
+
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="FoodNetwork" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/31/bd3a2340-3a63-11ec-84ef-a5cdc7ce4314_original.png",FoodNetwork
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/tvn-indonesia/chunks.m3u8
@@ -564,7 +564,9 @@ https://cdn1.googlecdn.live/4k/cnn/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/truesparkplay/chunks.m3u8
 
-#EXTINF:-0 tvg-id="GEM" tvg-name="Gem" tvg-logo="https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_original.png" group-title="TRUE VISION TV",TH GEM
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://truevisions.co.th/static/891ab984-b696-4284-a9df-9cb412fe8c84.png" group-title="TRUE VISION TV",TVN HD
+https://cdn1.googlecdn.live/4k/tvn-movies/chunks.m3u8|Referer=https://soccertv4k.com/
+#EXTINF:-0 tvg-id="GEM" tvg-name="Gem" tvg-logo="https://dookeela.live/uploads/1716339097.png" group-title="TRUE VISION TV",TH AMC
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/amc/chunks.m3u8
 #EXTINF:-1 group-title="TRUE VISION TV" tvg-id="AFN Network" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",AFN Network
@@ -576,7 +578,7 @@ https://cdn1.googlecdn.live/4k/foodnetwork/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://kbsworld-ott.akamaized.net
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="TR KMTV" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png" group-title="TRUE VISION TV",KMTV 
-https://cdn1.googlecdn.live/4k/tvn-movies/chunks.m3u8|Referer=https://soccertv4k.com/
+
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ###SPORT###
@@ -780,14 +782,6 @@ https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 7" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7-freetvdd
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8 
-#EXTINF:-1 group-title="Sport" tvg-id="True Sport 1 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-laotv
-https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="True Sport 2 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 2 HD-laotv
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="True Sport 3 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 3 HD-laotv
-https://ctrl.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="True Sport 7 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7-laotv
-https://ctrl.laotv.la/live/THD7/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="True Sport 1 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-livestream88
 #EXTVLCOPT:http-referrer=https://www.livestream88.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
