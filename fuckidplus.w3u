@@ -2440,6 +2440,6 @@ https://main.24playerhd.com/m3u8/9508bb3a85839d32e0536544/9508bb3a85839d32e05365
 ####Test####
 
 
-#EXTINF:-1 group-title="BallThai" tvg-id="BallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
+#EXTINF:-1 group-title="Test" tvg-id="BallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
 #EXTVLCOPT:http-referrer=https://24xball.co/
 https://cdn3.googlecdnforstreaming.live:446/24xball/bein3/chunks.m3u8
