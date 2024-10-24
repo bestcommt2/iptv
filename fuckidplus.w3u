@@ -455,106 +455,7 @@ https://cdn1.googlecdn.live/4k/bein6/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein7/playlist.m3u8
 
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",Truethaifilm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/truethaifilm/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn-20g.m-fixer.net:8082/mfixer/trueseries/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
-https://cdn-20g.m-fixer.net:8082/mfixer/truemoviehits/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
-https://cdn-20g.m-fixer.net:8082/mfixer/truefilm1/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
-https://cdn-20g.m-fixer.net:8082/mfixer/truefilm2/chunks.m3u8
 
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn-20g.m-fixer.net:8082/mfixer/trueasianmore/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="TRUE VISION TV",True Film Asia
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn-20g.m-fixer.net:8082/mfixer/truefilmasia/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/ccm/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True X-Zyte" tvg-logo="https://img2.pic.in.th/pic/46fb6170-e599-11ed-b606-c19576cb8b29_webp_original.png",True X-Zyte
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/documentary.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn-20g.m-fixer.net:8082/mfixer/truexzyte/chunks.m3u8
-#EXTINF:-0 group-title="TRUE VISION TV" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/true-life.html
-https://cdn-20g.m-fixer.net:8082/mfixer/trueexplorelife/chunks.m3u8
-#EXTINF:-0 tvg-id="TrueExploreWild.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="TRUE VISION TV",TRUE EXPLORE WILD
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/true-wild.html
-https://cdn-20g.m-fixer.net:8082/mfixer/trueexplorewild/chunks.m3u8
-#EXTINF:-0 group-title="TRUE VISION TV" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/true-sci.html
-https://cdn-20g.m-fixer.net:8082/mfixer/trueexploresci/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Rock_Entertainment" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",Rock_Entertainment
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv/category/movie.html
-https://cdn-20g.m-fixer.net:8082/mfixer/rockentertainmentred/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="ROCK ACTION HD" tvg-name="ROCK ACTION HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="TRUE VISION TV",ROCK ACTION HD
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn1.googlecdn.live/4k/rock-action/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="TRUE VISION TV",Crime+Investigation
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn1.googlecdn.live/4k/crime-investigation/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TVB" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/08f0470b-4f2f-4459-a6cc-0006e97887b7_original.png",TVB
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/4k/tvbclassichd/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="TRUE VISION TV",BBCLifestyle
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn1.googlecdn.live/4k/bbc-lifestyle/chunks.m3u8
-#EXTINF:0 tvg-id="BBCEarth.Id" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png" group-title="TRUE VISION TV",BBC Earth HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn1.googlecdn.live/4k/bbc-earth/chunks.m3u8|Referer=https://soccertv4k.com/
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png" group-title="TRUE VISION TV",Discovery
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn1.googlecdn.live/4k/discovery/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TLC" tvg-name="TLC" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e3c376d0-fb8a-11ed-82d8-75b5e95c0f8a_webp_320.webp" group-title="TRUE VISION TV",TLC
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn1.googlecdn.live/4k/tlc/chunks.m3u8
-#EXTINF:1 tvg-id="" group-title="TRUE VISION TV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0171.png", Cartoon Netwrk
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/cartoon-network/chunks.m3u8
-#EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="TRUE VISION TV",Lifetime TH 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn1.googlecdn.live/4k/lifetime/chunks.m3u8|Referer=https://soccertv4k.com/
-#EXTINF:-0 tvg-id="Discovery Asia.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png" group-title="TRUE VISION TV",Discovery Asia TH
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/discovery-asia/chunks.m3u8
-#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="TRUE VISION TV",TH AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn1.googlecdn.live/4k/axn/chunks.m3u8|Referer=https://soccertv4k.com/
-#EXTINF:0 tvg-id="AnimalPlanet.Id" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="TRUE VISION TV",Animal Planet TH
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/animal-planet/chunks.m3u8
-#EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="TRUE VISION TV", TRUE HISTORY
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/history/chunks.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="TRUE VISION TV",DreamWorks 
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/dreamworks/chunks.m3u8
-#EXTINF:-0 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e00a1850-fb8a-11ed-bf86-7b9263bde387_webp_original.png" group-title="TRUE VISION TV", TRUE CNN
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/cnn/chunks.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="TRUE VISION TV",TRUE SPARK PLAY
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/truesparkplay/chunks.m3u8
 
 
 
@@ -1818,21 +1719,21 @@ https://us.score911.cc/us_wwe/index.m3u8|Referer=https://aesport.tv/
 ###ช่องการ์ตูน###
 
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/vJdY0NG/animax.png",ANIMAX
-http://metatvpro.com:25461/live/Q5023/5286/267.m3u8
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/98RrVcM/cbeebies.png",CBEEBIES
-http://metatvpro.com:25461/live/Q5023/5286/274.m3u8
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://img2.pic.in.th/pic/aniplus.png",ANIPLUS_HD
-http://metatvpro.com:25461/live/Q5023/5286/268.m3u8
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ytimg.com/vi/Zn1yvsGD-TU/maxresdefault.jpg",BabyBus
-https://livestream.zazerconer.workers.dev/channel/UCKpFt-Nh3A2Sg--mLmCebZQ.m3u8
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/pKgMG4G/My-Little-Pony.png",My Little Pony
-https://livestream.zazerconer.workers.dev/channel/UCOT9qiUmk4mk-B_hN__toTw.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน"   tvg-logo="https://i.ibb.co/5jWbsKD/1.png",Disney 
 http://metatvpro.com:25461/live/Q5023/5286/275.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbxe5sIiySX5-PgYL5nGo334cNGlHE8D4EQ&usqp=CAU" ,BabyBus - Kids Songs and Cartoons
 https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/PTsGKkL/image.png" ,โรโบคาร์โพลีทีวี
 https://livestream.zazerconer.workers.dev/channel/UCvKicVPiOrIuZdEYmxuRQug.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png" group-title="ช่องการ์ตูน",boomerang
+https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/IMG_20241019_193424.jpg" group-title="ช่องการ์ตูน",boom_anime
+https://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/โลโก้_การ์ตูนคลับแชนแนล.jpg" group-title="ช่องการ์ตูน",Cartoon Club
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="Cartoonito.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1846,24 +1747,16 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="ช่องการ์ตูน",DreamWorks 
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/
-https://cdn-mfixer-20g.ndos.stream:8082/mfixer/dreamworks/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="ช่องการ์ตูน",TH - TR SPARK PLAY
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://github.com/bestcommt2/iptv/raw/master/truesparkplay.m3u8
 
-#EXTINF:-1 tvg-id="ZooMoo.th" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/olzqUL2.jpg" group-title="ช่องการ์ตูน",ZooMoo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="ช่องการ์ตูน",Cartoon Network TH 
-https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1 tvg-id="BadyTV" tvg-name="BadyTV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3515512_ico.png" group-title="ช่องการ์ตูน",BadyTV
-http://superonetv.ml:2095/live/1/0/115410.m3u8?mac=00:1a:79:b5:c5:a1
-#EXTINF:-1 tvg-id="aniplus.th" group-title="ช่องการ์ตูน" tvg-logo="https://gdplayertv.top/assets/img/logo/aniplus.png", ANIPLUS
-#EXTVLCOPT:http-origin=https://gdplayertv.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#https://idx.iptvfreemium.com/denslokal/h/h114/S4/mnf.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png" group-title="ช่องการ์ตูน",Zoomoo
+http://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="ช่องการ์ตูน",MoonBug
+http://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="ช่องการ์ตูน",Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="ช่องการ์ตูน",PetClub TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
 --------------------------------------------------------------------------------------
 ###MOVIETV###
 
@@ -2446,3 +2339,4 @@ https://cdn3.googlecdnforstreaming.live:446/24xball/truefilm1/chunks.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",Bdiscovery
 #EXTVLCOPT:http-referrer=https://24xball.co/
 https://cdn3.googlecdnforstreaming.live:446/24xball/discovery/chunks.m3u8
+-----------------------------------------------------------------------------------------------------------------------------------------
