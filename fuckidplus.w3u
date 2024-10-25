@@ -2339,4 +2339,15 @@ https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd1/chunks.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",Bdiscovery
 #EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv
 https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd2/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://moviektu.com/news/logotv/discovery/sd-explife.png" group-title="Test",TRUE LIFE
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
+https://streaming.livescorethai.net/iptv/sd-explife.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://moviektu.com/news/logotv/discovery/sd-expwild.png" group-title="Test",TRUE WILD
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
+https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://moviektu.com/news/logotv/discovery/sd-animalplanet.png" group-title="Test",AnimalPlanet
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/
+https://dookeela.live/live-tv/animal-planet
 -----------------------------------------------------------------------------------------------------------------------------------------
