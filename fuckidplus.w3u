@@ -339,10 +339,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd?ck=eyJmNDhjYWJhNDY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
-#EXTINF:-1 tvg-id="" tvg-id="CINEMAX.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="3BBGIGATV",004.Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/204/204.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="3BBGIGATV",Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
@@ -2340,21 +2336,18 @@ https://main.24playerhd.com/m3u8/9508bb3a85839d32e0536544/9508bb3a85839d32e05365
 ####Test####
 
 
-#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",Btruefilm1
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv
-https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd1/chunks.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",Bdiscovery
-#EXTVLCOPT:http-referrer=https://beta.m-fixer.net/live-tv
-https://cdn-mfixer-20g.ndos.stream:8082/mfixer/premierhd2/chunks.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", BALLTHAI 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://cnt1-streamer5.cdn.3bbtv.com:8443/3bb/tstv/901/901.mpd
 
+#EXTINF:-1 group-title="test" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", BALLTHAI 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/tstv/902/902.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://moviektu.com/news/logotv/discovery/sd-explife.png" group-title="Test",TRUE LIFE
-#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
-https://streaming.livescorethai.net/iptv/sd-explife.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://moviektu.com/news/logotv/discovery/sd-expwild.png" group-title="Test",TRUE WILD
-#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
-https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://moviektu.com/news/logotv/discovery/sd-animalplanet.png" group-title="Test",AnimalPlanet
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/
-https://dookeela.live/live-tv/animal-planet
+#EXTINF:-1 group-title="test" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", BALLTHAI 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://cnt1-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
 -----------------------------------------------------------------------------------------------------------------------------------------
