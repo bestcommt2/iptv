@@ -2348,14 +2348,13 @@ https://cdn1.googlecdn.live/thdooball/btsport1/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/epl1_sd/playlist.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,test4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/th-sport/truesport5/chunks.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,test5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:playInNatPlayer: "true"
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/trueexploresci
-
+#EXTINF:-1 group-title="test" tvg-id="truesportshd1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",test4
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
+https://cdn2.aws-live-streaming.com/lsmscore/tsp1/playlist.m3u8
+#EXTINF:-1 group-title="test" tvg-id="truesportshd2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",test5
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
+https://cdn2.aws-live-streaming.com/lsmscore/tsp2/playlist.m3u8
+#EXTINF:-1 group-title="test" tvg-id="truesportshd2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",test6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8|Referer=https://freetvdd.com/
 -----------------------------------------------------------------------------------------------------------------------------------------
