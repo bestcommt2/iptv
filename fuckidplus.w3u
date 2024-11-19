@@ -369,7 +369,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 ###TRUEVISION NOW###
 
 
-#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://www.upload.ee/image/17288218/NFL.png",NFL HD
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1qw91euk893ki1kfiqn8zqugwl_image-header_pEs_1686061660000",NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/nfl/playlist.m3u8
@@ -497,7 +497,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/dreamworks.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
 #EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/wb.m3u8
-#EXTINF:-0 group-title="TRUEVISION NOW" tvg-id="" tvg-logo="https://img.inwiptv.net/postor/20240418203048Nickjr.jpg ,TRUE Nickjr
+#EXTINF:-0 group-title="TRUEVISION NOW" tvg-id="" tvg-logo="https://img.inwiptv.net/postor/20240418203048Nickjr.jpg" ,TRUE Nickjr
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/nickjr.m3u8
 
 
