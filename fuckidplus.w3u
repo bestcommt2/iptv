@@ -366,138 +366,138 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
 
 --------------------------------------------------------------------------------------
-###TRUE VISION TV###
+###TRUEVISION NOW###
 
 
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://www.upload.ee/image/17288218/NFL.png",NFL HD
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://www.upload.ee/image/17288218/NFL.png",NFL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/nfl/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/spotv/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/spotv2/playlist.m3u8
 
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/epl1_sd/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/epl2/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/epl3/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/epl4/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/epl5/chunks.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",SportHD 1
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",SportHD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",SportHD 2
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",SportHD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/tsp2/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",SportHD 3
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",SportHD 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/tsp3/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp",SportHD 4
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp",SportHD 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,Sport 5
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/tsp5/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,Sport 7
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,Sport 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/tsp7/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein1/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein2/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,BeinSportHD 3
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,BeinSportHD 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein3/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" ,BeinSportHD 4
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" ,BeinSportHD 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein4/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" ,BeinSportHD 5
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" ,BeinSportHD 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein5/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" ,BeinSportHD 6
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" ,BeinSportHD 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein6/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 7
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" ,BeinSportHD 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/bein7/playlist.m3u8
 
-#EXTINF:-1 group-title="TRUE VISION TV",GOLFHD
+#EXTINF:-1 roup-title="TRUEVISION NOW" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", TRUE Golf Channel
 https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV",True Tennis
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="true-tennis-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp", TRUE Tennis
 https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",True Thaifilm
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",True Thaifilm
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="TRUE VISION TV",True Film Asia
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="TRUEVISION NOW",True Film Asia
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
-#EXTINF:-0 group-title="TRUE VISION TV" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
+#EXTINF:-0 group-title="TRUEVISION NOW" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
-#EXTINF:-0 group-title="TRUE VISION TV" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
+#EXTINF:-0 group-title="TRUEVISION NOW" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Rock_Entertainment" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",Rock_Entertainment
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="Rock_Entertainment" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",Rock_Entertainment
 https://cdn-20g.m-fixer.net:8082/mfixer/rockentertainmentred/playlist.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="TRUE VISION TV",Crime+Investigation
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="TRUEVISION NOW",Crime+Investigation
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
-#EXTINF:-1 group-title="TRUE VISION TV" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="TRUE VISION TV",BBCLifestyle
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="TRUEVISION NOW",BBCLifestyle
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/BBCLIFESTYLE.m3u8
-#EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="TRUE VISION TV",TRUE Lifetime
+#EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="TRUEVISION NOW",TRUE Lifetime
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/lifetime.m3u8
-#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="TRUE VISION TV",True AXN
+#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="TRUEVISION NOW",True AXN
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/AXN.m3u8
-#EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="TRUE VISION TV", TRUE HISTORY
+#EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="TRUEVISION NOW", TRUE HISTORY
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/H2.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="TRUE VISION TV",TRUE DreamWorks 
+#EXTINF:-0 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="TRUEVISION NOW",TRUE DreamWorks 
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/dreamworks.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="TRUE VISION TV",TRUE SPARK PLAY
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="TRUEVISION NOW",TRUE SPARK PLAY
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
-#EXTINF:-1 tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="TRUE VISION TV",TRUE WARNER TV
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/wb.m3u8
-#EXTINF:-0 tvg-logo="https://img.inwiptv.net/postor/20240418203048Nickjr.jpg group-title="TRUE VISION TV",TRUE Nickjr
+#EXTINF:-0 group-title="TRUEVISION NOW" tvg-id="" tvg-logo="https://img.inwiptv.net/postor/20240418203048Nickjr.jpg ,TRUE Nickjr
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/nickjr.m3u8
 
 
@@ -1015,7 +1015,7 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 ###ช่องการ์ตูน###
 
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/vJdY0NG/animax.png",ANIMAX
-http://metatvpro.com:25461/live/Q5023/5286/267.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/98RrVcM/cbeebies.png",CBEEBIES
 http://metatvpro.com:25461/live/Q5023/5286/274.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://img2.pic.in.th/pic/aniplus.png",ANIPLUS_HD
@@ -1359,67 +1359,6 @@ https://psiiptv-b.sky-cdn.com/v2h14-playlist/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/170_x_QsStd7nhyiNa84EJBvPcgDTCA0bI3xV1.jpg" group-title="MVTV", V2H15
 https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 
-
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------
-
-###GoodTV###
-
-#EXTINF:-1 tvg-id="Khongdee.th" tvg-name="KhongDee" tvg-logo="https://i.ibb.co/Pg7dBL9/ddd.png" group-title="GOODTV",KhongDee-Ais
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0154/HLS/V0154.m3u8
-#EXTINF:-1 tvg-id="Budsaba.th" tvg-name="Busaba" tvg-logo="https://i.ibb.co/7SRycDD/bbb.png" group-title="GOODTV",Busaba-wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
-#EXTINF:-1 tvg-id="JustFun.th" tvg-name="JustFun" tvg-logo="https://i.ibb.co/dsNNJ3L/Justfun.png" group-title="GOODTV",JustFun-wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
-#EXTINF:-1 tvg-id="100" tvg-name="Thainess" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113190044thainess.png" group-title="GOODTV",Thainess-wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/V0155.m3u8
-https://wacthstream.com/stream_live/goodtv40_ThaiNess./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
-#EXTINF:-1 tvg-id="Sweet" tvg-name="Sweet" tvg-logo="https://i.ibb.co/tXr6CPL/sweet.png" group-title="GOODTV",Sweet-cdn6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
-#EXTINF:-1 tvg-id="Heart.th" tvg-name="Heart" tvg-logo="https://i.ibb.co/qYHStJ0/heart.png" group-title="GOODTV",Heart-wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
-#EXTINF:-1 tvg-id="Hero.th" tvg-name="Hero" tvg-logo="https://i.ibb.co/S3LPy31/Hero.png" group-title="GOODTV",Hero-wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
-#EXTINF:-1 tvg-id="Sumlojlok.th" tvg-name="Sumlojlok" tvg-logo="https://i.ibb.co/Pm84NSc/goodtv.jpg" group-title="GOODTV",Sumlojlok-Ais
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
-#EXTINF:-1 tvg-id="animalshow.th" tvg-name="AnimalShow" tvg-logo="https://i.ibb.co/T018CMK/animal.jpg" group-title="GOODTV",AnimalShow-Ais
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
-#EXTINF:-1 tvg-id="BXcite.th" tvg-name="BXcite" tvg-logo="https://i.ibb.co/0ZXqLCb/bxcite.png" group-title="GOODTV",BXcite-wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
-https://wacthstream.com/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
-#EXTINF:-1 tvg-id="mysci.th" tvg-name="MYSCI" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png" group-title="GOODTV",MYSCI-Ais
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
-#EXTINF:-1 tvg-id="NewExplorer.th" tvg-name="NewExplorer.th" tvg-logo="https://i.ibb.co/NZB9D3z/newexplore.png" group-title="GOODTV",NewExplorer-wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
-#EXTINF:-1 tvg-id="NextKid.th" tvg-name="nextKids" tvg-logo="https://i.ibb.co/GC2XbHr/nextKids.jpg" group-title="GOODTV",nextKids-wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://wacthstream.com/stream_live/goodtv66_NextKid2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
-
-#EXTINF:-0 group-title="GOODTV" tvg-id="Global Trekker" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",Global Trekker-cdn6
-#EXTVLCOPT:http-referrer=https://ufanance.co/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
