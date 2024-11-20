@@ -1082,51 +1082,32 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 -----------------------------------------------------------------------------------------
 
 ###NEWS###
-#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyNahtudGwhDpp_J39ao3e5jCLeWJrDcakg&usqp=CAU", group-title="ช่องข่าว", ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8kUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b6af01cd704b4b27ba38b14ff3d59e5b&chunkHttps=true&tmid=V0085&tpbk=M3dlvyIAelCsgsq0&rrt=1724001038&tmod=rfk&rsid=dccdb108-0ec5-4197-84bd-1c59c356454a&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724087372
-#EXTINF:1 tvg-id="TOP News.th"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png" group-title="ช่องข่าว", TOP NEWS
+
+#EXTINF:1 tvg-id="TOP News.th"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png" group-title="ช่องข่าว", TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 tvg-id="" group-title="ช่องข่าว" tvg-name="CNN USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCEpiKH3yzhUU4dhIm3X7ut_wmQGYZc_4suA&usqp=CAU" ,CNN USA
-#EXTVLCOPT:http-referrer=http://onlinehdhls.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNj.jp" tvg-logo="https://i.imgur.com/Ft6wEdO.png" group-title="ช่องข่าว",CNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+
 #EXTINF:-1 tvg-chno="" tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English HD" tvg-logo="https://i.imgur.com/Fyha6mW.png" group-title="ช่องข่าว",Al Jazeera English HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/q7rGbl1.png" group-title="ช่องข่าว",BBC World News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://119.59.125.18:8081/live/bbc/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="cna.sg" tvg-name="CNA" tvg-logo="https://i.imgur.com/TkNQ76N.png" group-title="ช่องข่าว",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://i.imgur.com/evTfZ85.png" group-title="ช่องข่าว",CGTN
+#EXTINF:-1 tvg-chno="" tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/230px-CGTN.svg.png" group-title="ช่องข่าว",CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="FOXNewsNow.us" tvg-name="FOX News Now" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="ช่องข่าว",FOX News Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="TRTWorld.uk" tvg-name="TRT World" tvg-logo="https://i.imgur.com/Nlk9Bur.png" group-title="ช่องข่าว",TRT World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://i.imgur.com/SMXfPx4.jpg" group-title="ช่องข่าว",NHK World Japan
+
+#EXTINF:-1 tvg-chno="" tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="ช่องข่าว",NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="RTNews.ru" tvg-name="RT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/512px-RT_America_Logo.png" group-title="ช่องข่าว",RT News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" tvg-logo="https://i.imgur.com/eSNdW3n.png" group-title="ช่องข่าว",Phoenix InfoNews Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="PhoenixChineseChannel.hk" tvg-name="Phoenix Chinese Channel" tvg-logo="https://i.imgur.com/Aw2dGfj.png" group-title="ช่องข่าว",Phoenix Chinese Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 
 
 --------------------------------------------------------------------------------------
@@ -1202,9 +1183,9 @@ https://cdn09jtedge.indihometv.com/joss/133/fashiontv/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/mtvlive/index.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="ช่องหนังและความบันเทิง" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nowrock.png",NOW ROCK
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ช่องหนังและความบันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/200px-NOW_Rock_logo.png",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="ช่องหนังและความบันเทิง" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png",Trace Urban
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ช่องหนังและความบันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Traceurban2022.png/200px-Traceurban2022.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
@@ -1229,7 +1210,7 @@ https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8
 #EXTINF:-0 tvg-id="HGTV" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" group-title="ช่องสารคดี",HGTV
 https://cdn09jtedge.indihometv.com/joss/133/hgtv/index.m3u8
 
-#EXTINF:-1 group-title="ช่องสารคดี" tvg-id="discoveryturbouk.uk" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-turbo.png",Discovery Turbo-livescorethai
+#EXTINF:-1 group-title="ช่องสารคดี" tvg-id="discoveryturbouk.uk" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-turbo.png",Discovery Turbo
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
@@ -1247,12 +1228,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playli
 
 #EXTINF:0 tvg-name="DMAX UK" group-title="ช่องสารคดี" tvg-logo="https://i.postimg.cc/PxjwjZPw/GANAS-DMAX.png", DMAX
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="ช่องสารคดี",Discovery HD
-http://otv.ftpbd.net:8082/Discovery-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="DiscoveryAsia.hk" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/BOViyhR.png" group-title="ช่องสารคดี",Discovery Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+
+
 
 
 
