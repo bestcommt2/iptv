@@ -659,7 +659,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA HD" tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/nbatv.jpg" group-title="ช่องกีฬา",NBA HD
 https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3450154_ico.png" group-title="ช่องกีฬา",NFL HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/270px-NFL_Network_logo.svg.png" group-title="ช่องกีฬา",NFL HD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="spotv.kr" tvg-name="SPOTV 1 TRUE" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="ช่องกีฬา",SPOTV 1
@@ -741,22 +741,20 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/th-sport/true
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp" group-title="ช่องกีฬา",Golf Channel
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf/playlist.m3u8|referer=https://dooball2you.com/
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png" ,Fight Sports
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="" tvg-logo="https://raz-media.se/wp-content/uploads/2022/04/fight-sports.png" ,Fight Sports
 https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
 #EXTINF:-1 group-title="ช่องกีฬา"tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/thumbh_20210622_195955.png",สนุ๊กเกอร์
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://www.upload.ee/image/17282862/Hisport.png", HiSports HD
 http://203.154.243.89:11001/hisport?m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="Tennis" tvg-name="Tennis" tvg-logo="https://i.imgur.com/IdAB2wR.jpg" group-title="ช่องกีฬา",Tennis
+#EXTINF:-1 tvg-chno="" tvg-id="Tennis" tvg-name="Tennis" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Zz0zN2MyODZlNjQ4M2QxMWVlYjE4YmYyOTc0ZmNlODAwZA.png" group-title="ช่องกีฬา",Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="ONE GOLF" tvg-name="ONE GOLF" tvg-logo="https://i.imgur.com/AOkqHR5.jpg" group-title="ช่องกีฬา",ONE GOLF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="TRACE SPORT STARS" tvg-name="TRACE SPORT STARS" tvg-logo="https://i.imgur.com/uasPtYv.png" group-title="ช่องกีฬา",TRACE SPORT STARS
+
+#EXTINF:-1 tvg-chno="" tvg-id="TRACE SPORT STARS" tvg-name="TRACE SPORT STARS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/220px-TraceSSLogo.png" group-title="ช่องกีฬา",TRACE SPORT STARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="redbulltv.us" tvg-name="RED BULL TV" tvg-logo="https://i.imgur.com/OaiWDnU.png" group-title="ช่องกีฬา",RED BULL TV
+#EXTINF:-1 tvg-chno="" tvg-id="redbulltv.us" tvg-name="RED BULL TV" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png" group-title="ช่องกีฬา",RED BULL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
@@ -1059,16 +1057,7 @@ https://cdn09jtedge.indihometv.com/joss/130/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="cartoonclub.iptv36.my.to" tvg-name="CARTOON CLUB" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png" group-title="ช่องการ์ตูน",CARTOON CLUB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJoPfEkYuAicEMaV9vkVavlkPnAzQq6m_8g&usqp=CAU",CBEEBIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://acong.freemiumiptv.top/mnclokal/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
-#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6Sex8w1PDcS9v0dewJWhT8Wf4MuMK8D9g5c6Vkf-TLidz8T6F-Me8pDN&s=10",CINEMACHI KIDS 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://acong.freemiumiptv.top/mnclokal/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd  
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="ช่องการ์ตูน",Pet Collective1
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
@@ -1086,12 +1075,12 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #EXTINF:1 tvg-id="TOP News.th"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png" group-title="ช่องข่าว", TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English HD" tvg-logo="https://i.imgur.com/Fyha6mW.png" group-title="ช่องข่าว",Al Jazeera English HD
+#EXTINF:-1 tvg-chno="" tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png" group-title="ช่องข่าว",Al Jazeera English HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
-#EXTINF:-1 tvg-chno="" tvg-id="cna.sg" tvg-name="CNA" tvg-logo="https://i.imgur.com/TkNQ76N.png" group-title="ช่องข่าว",CNA
+#EXTINF:-1 tvg-chno="" tvg-id="cna.sg" tvg-name="CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="ช่องข่าว",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
@@ -1108,6 +1097,9 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="RTNews.ru" tvg-name="RT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/512px-RT_America_Logo.png" group-title="ช่องข่าว",RT News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 group-title="test" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png"CCTV4
+https://cdn1.googlecdn.live/4k/cctv4/playlist.m3u8
 
 
 --------------------------------------------------------------------------------------
@@ -1431,26 +1423,3 @@ https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/bbc-lifestyle/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/cctv4/playlist.m3u8
 
-#EXTINF:-1 group-title="test" tvg-id="FoodNetwork" tvg-logo="https://dookeela.live/uploads/1703833429.png",test3
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/cnn/playlist.m3u8
-#EXTINF:-1 group-title="test" tvg-id="FoodNetwork" tvg-logo="https://dookeela.live/uploads/1703833429.png",test4
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/euronews/playlist.m3u8
-#EXTINF:-1 group-title="test" tvg-id="FoodNetwork" tvg-logo="https://dookeela.live/uploads/1703833429.png",test5
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/france24/playlist.m3u8
-#EXTINF:-1 group-title="test" tvg-id="FoodNetwork" tvg-logo="https://dookeela.live/uploads/1703833429.png",test6
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/bbc-news/playlist.m3u8
-
-
-#EXTINF:-1 ch-number="116" tvg-name="HBO" tvg-id="HBO.th" group-logo="https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="test", HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=58.64.60.73
-#KODIPROP:inputstream.adaptive.license_type=https://web-player.ais-vidnt.com/
-#KODIPROP::http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
-https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
