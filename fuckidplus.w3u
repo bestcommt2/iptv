@@ -1071,7 +1071,8 @@ https://cdn09jtedge.indihometv.com/joss/130/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="cartoonclub.iptv36.my.to" tvg-name="CARTOON CLUB" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png" group-title="ช่องการ์ตูน",CARTOON CLUB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png" group-title="ช่องการ์ตูน",boomerang
+https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="ช่องการ์ตูน",Pet Collective1
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
