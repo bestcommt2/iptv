@@ -768,6 +768,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="TRACE SPORT STARS" tvg-name="TRACE SPORT STARS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/220px-TraceSSLogo.png" group-title="ช่องกีฬา",TRACE SPORT STARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-id="redbulltv.us" tvg-name="RED BULL TV" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png" group-title="ช่องกีฬา",RED BULL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -1119,7 +1120,8 @@ https://cdn1.googlecdn.live/4k/cctv4/playlist.m3u8
 
 --------------------------------------------------------------------------------------
 ###MOVIETV###
-
+#EXTINF:-1 group-title="ช่องหนังและความบันเทิง" tvg-logo="https://img2.pic.in.th/pic/images947a4196abac20d6.jpeg",IZAAMOVIE
+http://203.154.243.89:11001/izaa?m3u8
 #EXTINF:-1 group-title="ช่องหนังและความบันเทิง" tvg-id="FoodNetwork" tvg-logo="https://dookeela.live/uploads/1703833429.png",TVN-indonesia
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/tvn-indonesia/chunks.m3u8
@@ -1179,7 +1181,7 @@ http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 
-#EXTINF:-0 tvg-id="FashionTVAsia.fr" tvg-name="" tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/Fashion-HD-919-523-new.png" group-title="บวาไรตี้",FASHION (4K)
+#EXTINF:-0 tvg-id="FashionTVAsia.fr" tvg-name="" tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/Fashion-HD-919-523-new.png" group-title="ช่องหนังและความบันเทิง",FASHION (4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
@@ -1195,7 +1197,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="ช่องหนังและความบันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Traceurban2022.png/200px-Traceurban2022.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/445cf13921c3cc0b043e591a01f3c575.png" group-title="ช่องหนังและความบันเทิง", KPOP
+https://marine2.miplay.cl/kpop/playlist.m3u8
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
