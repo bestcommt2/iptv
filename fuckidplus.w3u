@@ -107,22 +107,6 @@ https://cdn2.aws-live-streaming.com/lsmscore/trueballthai10/playlist.m3u8
 #EXTINF:-1 group-title="ช่องBallThai" tvg-id="ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",BallThai10
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 https://dolive.thaim3u.com/doolive4k-tv/youtube-10/chunks.m3u8
-#EXTINF:-1 group-title="ช่องBallThai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT1.png" สยามสปอร์ต 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/siamsport1/playlist.m3u8
-#EXTINF:-1 group-title="ช่องBallThai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT2.png" สยามสปอร์ต 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/siamsport2/playlist.m3u8
-#EXTINF:-1 group-title="ช่องBallThai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT3.png" สยามสปอร์ต 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/siamsport3/playlist.m3u8
-#EXTINF:-1 group-title="ช่องBallThai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SIAMSPORT4.png" สยามสปอร์ต 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/siamsport4/playlist.m3u8
 
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
@@ -529,6 +513,8 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
+#EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
 #EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
 #EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
