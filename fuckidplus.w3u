@@ -703,61 +703,60 @@ https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 1 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-365livebal
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sporthd1_480p/chunks.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 2 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 2 HD-365livebal
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sporthd2_480p/chunks.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 3 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 3 HD-365livebal
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sporthd3_480p/chunks.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 5-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5-365livebal
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sport5_480p/chunks.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 7-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7-365livebal
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sport5_480p/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 1 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-soccertv4k
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/tsp1/playlist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 2 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 2 HD-soccertv4k
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/tsp2/playlist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 3 HD-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 3 HD-soccertv4k
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/tsp3/playlist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 5-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5-soccertv4k
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/tsp5/playlist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 7-dooball2you" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7-soccertv4k
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/tsp7/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 1 HD-freetvdd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-freetvdd
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 2 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 2 HD-freetvdd
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 3 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 3 HD-freetvdd
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 4 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 4 HD-freetvdd
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 1 HD-freetvdd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-SIAMZEED
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-8/playlist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 2 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 2 HD-SIAMZEED
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 3 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 3 HD-SIAMZEED
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-10/playlist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 4 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 4 HD-SIAMZEED
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 5" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5-freetvdd
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 7" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7-freetvdd
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8 
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 5" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5-SIAMZEED
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-11/playlist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 7" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7-SIAMZEED
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-12/playlist.m3u8
 
-
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 1 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-livestream88
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 2 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 2 HD-livestream88
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/th-sport/truesport2/playlist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 3 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 3 HD-livestream88
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/th-sport/truesport3/playlist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 4 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 4 HD-livestream88
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/th-sport/truesport4/playlist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 5" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5-livestream88
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/th-sport/truesport5/playlist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 7" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7-livestream88
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 1 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1 HD-andaman888
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd1/th-sport/truesport1/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 2 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 2 HD-andaman888
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd2/th-sport/truesport2/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 3 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 3 HD-andaman888
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd3/th-sport/truesport3/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 4 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 4 HD-andaman888
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd4/th-sport/truesport4/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 5" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5-andaman888
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesport5/th-sport/truesport5/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-id="True Sport 7" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7-andaman888
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesport6/th-sport/truesport7/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp" group-title="ช่องกีฬา",Golf Channel
