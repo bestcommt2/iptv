@@ -16,6 +16,28 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 https://ctrl.laotv.la/live/WWE/index.m3u8
 
 --------------------------------------------------------------------------------------
+###PlayID###
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/17788
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://ibb.co/yRwkqSP",Awesome
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/84
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PlayID สยองขวัญ
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/15672
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/x5LCMKZ/20250108-170408.png", PLAYIDTV เป็นต่อ
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://playidtv.freeddns.org:8080/playidtv1/12345/18876
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/4WsV4QB/playidmov.png",ซีรี่ย์เกาหลี ชาแนล
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/17239
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",PlayID MOVIE 2
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/17237
+
+--------------------------------------------------------------------------------------
 ###BallThai###
 #EXTINF:-1 group-title="1️⃣ ช่องBallThai" tvg-id="1️⃣ ช่องBallThai" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BallThai1 
 #EXTVLCOPT:http-referrer=https://www.dooballrealtime.com
@@ -501,11 +523,11 @@ https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="true-tennis-hd" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp", TRUE Tennis
 https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
+http://myserver.myphuket.net:25461/live/test1/test1/55.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
+http://myserver.myphuket.net:25461/live/test1/test1/56.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
 #EXTINF:-1 group-title="4️⃣ ช่องทรูวิชั่น" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
