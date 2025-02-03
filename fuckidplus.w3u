@@ -17,16 +17,16 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/logoizaamovie.th.png",IZAAMOVIE
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img5.pic.in.th/file/secure-sv1/logoizaamovie.th.png",IZAAMOVIE
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://203.154.243.89:11001/izaa?m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/logo-fuck-toon.th.png",FuckIDTOON
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/logo-fuck-toon29b53cc97eb9c962.th.png",FuckIDTOON
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img5.pic.in.th/file/secure-sv1/logo-universal.th.png",H-Channel
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/17237
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/logo-fuckmovie.th.png",FuckIDMovie
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/logo-fuckmovie868455ffbee6d2e6.th.png",FuckIDMovie
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/PING
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/logo-amazing.th.png",AMAZING
