@@ -41,18 +41,13 @@ http://49.0.64.96:8007/WSCI
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/17788
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://ibb.co/yRwkqSP",Awesome
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/84
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PlayID สยองขวัญ
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/15672
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/4WsV4QB/playidmov.png",ซีรี่ย์เกาหลี ชาแนล
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/17239
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",PlayID MOVIE 2
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/17237
+
 
 
 --------------------------------------------------------------------------------------
