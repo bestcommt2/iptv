@@ -2,8 +2,8 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
-###หัวควย###
-หัวควยกูไม่ปิดหลอกแอฟ มึงก็ไอ้เฒ่าตัวหนึ่ง มึงก็เหมือนหมาที่ชอบเหา ที่ชอบไล่กัดเขาไปทั่ว ดวย
+###เชฺิญก๊อป###
+กูไม่ได้ห่วง เขิญก๊อปได้ตามสบาย ของฟรีก็ของฟรีวันยันค่ํา
 
 #EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/PrimeMonth2024_IconHome.png" 
 #EXTINF:-1 " tvg-id="" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/412/356/small_2x/new-update-logo-template-illustration-free-vector.jpg" group-title="ℹ️| FUCKID", 🛠️⚙️",{⏲️}
@@ -14,6 +14,45 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 
 #EXTINF:-1 " tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="ℹ️| FUCKID", FUCKID Playlist
 https://ctrl.laotv.la/live/WWE/index.m3u8
+
+--------------------------------------------------------------------------------------
+###PREMIUM PLAY TV###
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/images947a4196abac20d6.jpeg",IZAAMOVIE
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://203.154.243.89:11001/izaa?m3u8
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://github.com/bestcommt2/photo/blob/main/logo%20fuck%20toon.png?raw=true",FuckIDTOON
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://github.com/bestcommt2/photo/blob/main/logo%20universal.png?raw=true",H-Channel
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://github.com/bestcommt2/photo/blob/main/logo%20fuckmovie.png?raw=true",FuckIDMovie
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/PING
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://github.com/bestcommt2/photo/blob/main/logoamazing.png?raw=true",AMAZING
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/AMAZING
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://github.com/bestcommt2/photo/blob/main/logo%20animal.png?raw=true",Animal
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/Animal
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://github.com/bestcommt2/photo/blob/main/logo%20seience.png?raw=true",WSCI
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/WSCI
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/17788
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://ibb.co/yRwkqSP",Awesome
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/84
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PlayID สยองขวัญ
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/15672
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/4WsV4QB/playidmov.png",ซีรี่ย์เกาหลี ชาแนล
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/17239
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/gjc097b/blockbuster.png",PlayID MOVIE 2
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.187:8080/playidtv1/12345/17237
 
 
 --------------------------------------------------------------------------------------
@@ -1607,8 +1646,7 @@ https://cdn1.googlecdn.live/4k/cctv4/playlist.m3u8
 
 --------------------------------------------------------------------------------------
 ###MOVIETV###
-#EXTINF:-1 group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง" tvg-logo="https://img2.pic.in.th/pic/images947a4196abac20d6.jpeg",IZAAMOVIE
-http://203.154.243.89:11001/izaa?m3u8
+
 #EXTINF:-1 group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง" tvg-id="FoodNetwork" tvg-logo="https://dookeela.live/uploads/1703833429.png",TVN-indonesia
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://cdn1.googlecdn.live/4k/tvn-indonesia/chunks.m3u8
