@@ -17,25 +17,25 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/images947a4196abac20d6.jpeg",IZAAMOVIE
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/logoizaamovie.th.png",IZAAMOVIE
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://203.154.243.89:11001/izaa?m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://github.com/bestcommt2/photo/blob/main/logo%20fuck%20toon.png?raw=true",FuckIDTOON
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/logo-fuck-toon.th.png",FuckIDTOON
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/Cartoonumi
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://github.com/bestcommt2/photo/blob/main/logo%20universal.png?raw=true",H-Channel
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img5.pic.in.th/file/secure-sv1/logo-universal.th.png",H-Channel
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/H-Channel
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://github.com/bestcommt2/photo/blob/main/logo%20fuckmovie.png?raw=true",FuckIDMovie
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/logo-fuckmovie.th.png",FuckIDMovie
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/PING
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://github.com/bestcommt2/photo/blob/main/logoamazing.png?raw=true",AMAZING
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/logo-amazing.th.png",AMAZING
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/AMAZING
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://github.com/bestcommt2/photo/blob/main/logo%20animal.png?raw=true",Animal
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/logo-animal.th.png",Animal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/Animal
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://github.com/bestcommt2/photo/blob/main/logo%20seience.png?raw=true",WSCI
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://img2.pic.in.th/pic/logo-seience.th.png",WSCI
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/WSCI
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
