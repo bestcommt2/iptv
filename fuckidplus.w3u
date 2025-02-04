@@ -41,9 +41,9 @@ http://45.144.165.187:8080/playidtv1/12345/84
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/17788
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie 2
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://ibb.co/qMjWkvmP", PlayID Movie 2
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://45.144.165.187:8080/playidtv1/12345/17788
+http://45.144.165.187:8080/playidtv1/12345/18833
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PlayID สยองขวัญ
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://45.144.165.187:8080/playidtv1/12345/15672
