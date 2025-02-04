@@ -1059,7 +1059,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/902/902.mpd
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/AH0003/HLS/AH0003.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=c67f75ee57e42638c9931a575bb2f2c6&chunkHttps=true&tmid=AH0003&tpbk=mkqqsSn0GJEYsqvx&rrt=1738654086&tmod=rfk&rsid=aa64be22-ca57-4985-afb8-965d25c3826c&tuid=qgSTgOkCNeU8RvetFilVY%2F3CqmGFC%2FfeNQvjfha%2FLEIb0Kq9mCFidfdVXHFOeRuAJVQTLYxWNqIVgz3ZzybbJRYy6M0GfcLq4jS0Lyy4hRweY%3D&cdn=redfox-https&tdid=82cedb8b9bb0c7cc01b6ab17122720e5&origin=anevia&tfa=f0-fc&tttl=1738736046
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/903/901.mpd
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/903/903.mpd
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_4.png" group-title="5️⃣ AISPLAY",ASIAN WINTER GAMES_2025 CH4
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
