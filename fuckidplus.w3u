@@ -1280,7 +1280,7 @@ https://cdnsv1.bunnycdncloud.com/andaman888th/truesport6/th-sport/truesport7/chu
 
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp" group-title="6️⃣ ช่องกีฬา",Golf Channel
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf/playlist.m3u8|referer=https://dooball2you.com/
+http://iptv12k.com:35461/live/654321/123456/651.m3u8
 #EXTINF:-1 group-title="6️⃣ ช่องกีฬา" tvg-id="" tvg-logo="https://raz-media.se/wp-content/uploads/2022/04/fight-sports.png" ,Fight Sports
 https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
 #EXTINF:-1 group-title="6️⃣ ช่องกีฬา"tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/thumbh_20210622_195955.png",สนุ๊กเกอร์
@@ -1289,7 +1289,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://203.154.243.89:11001/hisport?m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="Tennis" tvg-name="Tennis" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Zz0zN2MyODZlNjQ4M2QxMWVlYjE4YmYyOTc0ZmNlODAwZA.png" group-title="6️⃣ ช่องกีฬา",Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="TRACE SPORT STARS" tvg-name="TRACE SPORT STARS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/220px-TraceSSLogo.png" group-title="6️⃣ ช่องกีฬา",TRACE SPORT STARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1720,8 +1720,8 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 
 #EXTINF:-1 group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง" tvg-id="FTV" tvg-logo="https://images.gofreedownload.net/ftv-65610.jpg",FTV
 https://cdn09jtedge.indihometv.com/joss/133/fashiontv/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/sd-mtvasia.png" group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง",MTV-ASIA
-https://cdn09jtedge.indihometv.com/joss/133/mtvlive/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/sd-mtvasia.png" group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง",MTV
+http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/422.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="1️⃣ 0️⃣ ช่องหนังและความบันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/200px-NOW_Rock_logo.png",NOW ROCK
@@ -1737,6 +1737,7 @@ https://marine2.miplay.cl/kpop/playlist.m3u8
 
 ###Documentary###
 
+
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0065/8076/4727/files/logo.png?height=628&pad_color=fff&v=1613611598&width=1200" group-title="1️⃣ 1️⃣ ช่องสารคดี",Wired 2 Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg" group-title="1️⃣ 1️⃣ ช่องสารคดี",  Wild Earth
@@ -1749,14 +1750,18 @@ https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://dl.dropbox.com/s/ok5j2fbe9y54b4s/history.png?dl=0" group-title="1️⃣ 1️⃣ ช่องสารคดี",History
 https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8
+#EXTINF:-0 tvg-id="History" tvg-name="H2" tvg-logo="https://i.ibb.co/S48bjQhv/640px-History2-Logo2019.png" group-title="1️⃣ 1️⃣ ช่องสารคดี",H2
+http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/81.m3u8
 #EXTINF:-0 tvg-id="HGTV" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" group-title="1️⃣ 1️⃣ ช่องสารคดี",HGTV
 https://cdn09jtedge.indihometv.com/joss/133/hgtv/index.m3u8
-
+#EXTINF:-0 tvg-id="HGTV" tvg-name="" tvg-logo="https://i.ibb.co/6RPjsCX0/png-clipart-logo-national-geographic-chaine-de-television-discovery-channel-hindi-geographie-texte-j.png" group-title="1️⃣ 1️⃣ ช่องสารคดี",National Geographic
+http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/88.m3u8
 #EXTINF:-1 group-title="1️⃣ 1️⃣ ช่องสารคดี" tvg-id="discoveryturbouk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
-
+http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/75.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dgzgf8yL/png-clipart-discovery-science-discovery-channel-investigation-discovery-logo-science-television-text.png" group-title="1️⃣ 1️⃣ ช่องสารคดี", Discovery science
+http://178.162.225.182:2082/live/Tourobox1-y85tOTzw47/Att3piLtZf/72.m3u8
 
 #EXTINF:-1 group-title="1️⃣ 1️⃣ ช่องสารคดี" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature 4K(EN)
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
