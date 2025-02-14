@@ -27,7 +27,7 @@ http://49.0.64.96:8007/SERIES
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/playidtv1/12345/17237
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png",FuckIDMovie
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
@@ -39,19 +39,19 @@ http://49.0.64.96:8007/AMAZING
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png",Science
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/playidtv1/12345/84
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/Q7vHFFZx/logo-iplay.png",IPLAY Media
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:http-user-agent=หplayidtv
 http://45.144.165.187:8080/playidtv1/12345/37
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/ZfTTHnv/Background-Eraser-20250113-055833796.jpg", PlayID Movie
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/playidtv1/12345/17788
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/zhx7GzP0/playidmov2.png", PlayID Movie 2
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/playidtv1/12345/18833
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PlayID สยองขวัญ
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/playidtv1/12345/15672
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV"tvg-id="" tvg-logo="https://i.ibb.co/nMygLJzn/Playidmov1.png",PlayID HITS2K
 #EXTVLCOPT:http-user-agent=playidtv
