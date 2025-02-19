@@ -68,7 +68,15 @@ http://45.144.165.187:8080/playidtv1/12345/11052
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PlayID หนังไทย
 #EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/live/playidtv1/12345/9198.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.150.128.170:8080/images/cb0880574c042710862bc5b02ff693c0.png" group-title="test",CONCERTS
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/18671
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.150.128.170:8080/images/cffe819d4413b95dd8c35c0085930789.png" group-title="test",หนังเอเชีย เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/9197
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://45.150.128.170:8080/images/7ec8336709bf8a8d71d0ffff69127903.png" group-title="test",อินเตอร์  เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/9196
 
 --------------------------------------------------------------------------------------
 ###BallThai###
@@ -599,24 +607,5 @@ https://psiiptv-b.sky-cdn.com/v2h14-playlist/tracks-v1a1/mono.m3u8
 https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",CONCERTS
-#EXTVLCOPT:http-user-agent=playidtv
-http://45.144.165.187:8080/playidtv1/12345/18671
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",หนังเอเชีย เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=playidtv
-http://45.144.165.187:8080/playidtv1/12345/9197
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",อินเตอร์  เครดิตช่อง Moo7
-#EXTVLCOPT:http-user-agent=playidtv
-http://45.144.165.187:8080/playidtv1/12345/9196
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",โคนัน
-#EXTVLCOPT:http-user-agent=playidtv
-http://45.144.165.187:8080/playidtv1/12345/15674
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",test
-#EXTVLCOPT:http-user-agent=playidtv
-http://45.144.165.187:8080/playidtv1/12345/18755
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",linkm3u
-#EXTVLCOPT:http-user-agent=playidtv
-http://45.144.165.187:8080/playidtv1/12345/18757
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",Gags
-#EXTVLCOPT:http-user-agent=playidtv
-http://45.144.165.187:8080/playidtv1/12345/10581
+
+
