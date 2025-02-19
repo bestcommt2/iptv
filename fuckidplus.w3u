@@ -608,3 +608,6 @@ http://45.144.165.187:8080/playidtv1/12345/9197
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",อินเตอร์  เครดิตช่อง Moo7
 #EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/playidtv1/12345/9196
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",โคนัน
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/15674
