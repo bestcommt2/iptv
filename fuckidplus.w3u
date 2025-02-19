@@ -597,3 +597,11 @@ https://psiiptv-b.sky-cdn.com/v2h13-playlist/tracks-v1a1/mono.m3u8
 https://psiiptv-b.sky-cdn.com/v2h14-playlist/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/170_x_QsStd7nhyiNa84EJBvPcgDTCA0bI3xV1.jpg" group-title="📺 ช่องสถานีมายทีวี", V2H15
 https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",หนังไทย
+http://45.144.165.187:8080/live/playidtv1/12345/9198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",หนังเอเชีย เครดิตช่อง Moo7
+http://45.144.165.187:8080/live/playidtv1/12345/9197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",อินเตอร์  เครดิตช่อง Moo7
+http://45.144.165.187:8080/live/playidtv1/12345/9196.m3u8
