@@ -611,3 +611,12 @@ http://45.144.165.187:8080/playidtv1/12345/9196
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",โคนัน
 #EXTVLCOPT:http-user-agent=playidtv
 http://45.144.165.187:8080/playidtv1/12345/15674
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",test
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/18755
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",linkm3u
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/18757
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="test",Gags
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/10581
