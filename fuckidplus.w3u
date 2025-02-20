@@ -1101,18 +1101,26 @@ https://webhdrunns.iosplayer.ru/ddh2/premium775/mono.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------------
 ###สถานีทองถิ่นไทย### 
 
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cS149ckF/image.png" group-title="📺 ช่องสถานีทองถิ่นไทย", สถานีธรรม
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cS149ckF/image.png" group-title="1️⃣ 2️⃣ ช่องสถานีทองถิ่นไทย", สถานีธรรม
 https://live.thaitvstream.com/play/wattasawang/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png" group-title="📺 ช่องสถานีทองถิ่นไทย", mounchontv
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png" group-title="1️⃣ 2️⃣ ช่องสถานีทองถิ่นไทย", mounchontv
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="📺 ช่องสถานีทองถิ่นไทย", Siamnews
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="1️⃣ 2️⃣ ช่องสถานีทองถิ่นไทย", Siamnews
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="📺 ช่องสถานีทองถิ่นไทย", thainews
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="1️⃣ 2️⃣ ช่องสถานีทองถิ่นไทย", thainews
 https://live.thaitvstream.com/play/thainews/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Frv7h5L/logo.png" group-title="📺 ช่องสถานีทองถิ่นไทย", บางกอก channel
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Frv7h5L/logo.png" group-title="1️⃣ 2️⃣ ช่องสถานีทองถิ่นไทย", บางกอก channel
 https://live2.thaitvstream.com/play/gochannel/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="📺 ช่องสถานีทองถิ่นไทย", chiangrai
+
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="1️⃣ 2️⃣ ช่องสถานีทองถิ่นไทย", chiangrai
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
+
+#EXTINF:-1 group-title="1️⃣ 2️⃣ ช่องสถานีทองถิ่นไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250215_155454.png",Dopa Channel
+http://dopachannel.truegse.com/live/dopatv03.m3u8
 
 --------------------------------------------------------------------------------------
 ###MYTV###
