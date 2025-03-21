@@ -17,24 +17,7 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FWMOV
-#EXTVLCOPT:http-user-agent=fuckid
-https://bestcommt2.github.io/m3u8/FWMOV.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg",FWSOV
-#EXTVLCOPT:http-user-agent=fuckid
-https://bestcommt2.github.io/m3u8/FWSOV.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240429213651FWTOON.jpg",FWTOON
-#EXTVLCOPT:http-user-agent=fuckid
-https://bestcommt2.github.io/m3u8/FWTOON.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240617204638FWDoc.jpg",FWDOC
-#EXTVLCOPT:http-user-agent=fuckid
-https://bestcommt2.github.io/m3u8/FWDOC.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240421225339%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",FWวัวชน
-#EXTVLCOPT:http-user-agent=fuckid
-https://bestcommt2.github.io/m3u8/FW%E0%B8%A7%E0%B8%B1%E0%B8%A7%E0%B8%8A%E0%B8%99.m3u8
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://www.fileinw.com/postor/20240528173456FARMTV.jpg",FWอีสานทีวี
-#EXTVLCOPT:http-user-agent=fuckid
-https://bestcommt2.github.io/m3u8/FWISSANTV.m3u8
+
 
 #EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
