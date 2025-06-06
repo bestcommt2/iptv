@@ -2,7 +2,8 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
-###สวัสดีขาวโลก###
+###โปรดอ่าน หาลิงค์มาบางนะ ไม่ใช้ก๊อปของเข้ายังเดียว###
+###แล้วไอพวกสัตว์มากที่มันทะเลาะกัน พวกมึงเห่ากันไปอีกนานไหม###
 
 #EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/PrimeMonth2024_IconHome.png" 
 #EXTINF:-1 " tvg-id="" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/412/356/small_2x/new-update-logo-template-illustration-free-vector.jpg" group-title="ℹ️| FUCKID", 🛠️⚙️",{⏲️}
@@ -14,6 +15,16 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 #EXTINF:-1 " tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="ℹ️| FUCKID", FUCKID Playlist
 https://ctrl.laotv.la/live/WWE/index.m3u8
 
+
+--------------------------------------------------------------------------------------
+###VIP SPORT###
+
+#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv1.png" group-title="📺 VIP SPORT", VBTV 1
+#EXTVLCOPT:http-referrer=http://tvzaa.myftp.org/
+http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2F_fFIe4C7xjX_opxPplasA/m3u8
+#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv2.png" group-title="📺 VIP SPORT", VBTV 2
+#EXTVLCOPT:http-referrer=http://tvzaa.myftp.org/
+http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GWk7jgFdGl1hfeZKznSlgg/m3u8
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
 
