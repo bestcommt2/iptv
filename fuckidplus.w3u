@@ -17,12 +17,11 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 
 --------------------------------------------------------------------------------------
 ###VIP SPORT###
-#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv1.png" group-title="📺 VIP SPORT", VBTV 1
-#EXTVLCOPT:http-referrer=http://tvzaa.myftp.org/
+#EXTINF:-1 tvg-logo="http://45.144.165.223/logo/vbtv1.png" group-title="📺 VIP SPORT", VBTV 1
+#EXTVLCOPT:http-user-agent=http://45.144.165.223/
 http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2F_fFIe4C7xjX_opxPplasA/ts
-https://aps12.playlist.live-video.net/v1/playlist/CtkFYu5UgUAZWiucAZhIbikf_pYhY7HD_pSsSDf49rgIj-T7Ev-ylPqoLMMCctwlLyHIt9Qlxw2E-lUErs2lYkI4r1iPxf4zcvOOz3YBiRx2FGPo6A10EA_6p03Cg2Z6Ysu4dnQpw7_5t1Hj4wHaWKfemkfaAKTxNZte3-nn3qSX1TAMVyDxmoQFP6h8fpKEn2lxfj4cXqA_CUbvvK_NSaJJWWhPb_NHnuqxESsMseaCTCQT2FeHH7U5dGVfdtNnI9XiP6FSSoAH0eZIL4we7fwdIvBKnPoBKGyYGZy8vzh85m91Fvglv3Ti85O5A9GkyoUi2y1SYJTqgztUQ0MJQbxaVMCmcSiXOlRrIo2NMiasIjTkPftCbtUgbYDuMM5NDXeDQ3uNatflWac8qn7WGu079ycVarJXwVk48oR_DNJ0LEapeifXq_oktM60TpyHm4fHdz5krlXx58KLl5OaOg1CFv5eKFyzQS7P25SkqMS45E6Og29x4YKjJIlS7FB5fIABUtpc-ApmQHLinsBbo5FqVlw5ocKLsFZ7V9c6N8drz62grIFBLMxGeDGGJyt7ancN6Dl_DHT8Z3wmLk5YcBRQJihcYlvEmShPMLwCpBUfWB0i6AHjn85kudDu1-wqXDzmnb3Jrllj-NysBiRVwJDHxj-v9FCnxAIR2xXhq9Fc2myxrCX6mDbdgxsw_Qr9uyPVQZcf-2o5sQIjY5ilEP6BWm40rJymKXGuNedwiDerFpHqaV5ZgzAZ8xkloHarsxzze4BYL_h_c1LOgmp_JQ7C_3YqXTSTesMpPEwGvY6iI7sigIFMsL_54S7lzrbt3SKvMu-7naNiFmKczpqr5jw1fiqBRNEdlQshQjaMjG2LSHUItbWYnSQ8XIj73jjmXznjHJbTiJpGZQfl_mSLseaGAqW-u8Rh7B8Xe5orqfQCC86jo0Mh0JZHnYcIiFMSW-67ku4_turbq8xlGgzdBatBui_27q2TlwcgASoJdXMtd2VzdC0yMLkM.m3u8
-#EXTINF:-1 tvg-logo="http://tvzaa.myftp.org/logo/vbtv2.png" group-title="📺 VIP SPORT", VBTV 2
-#EXTVLCOPT:http-referrer=http://tvzaa.myftp.org/
+#EXTINF:-1 tvg-logo="http://45.144.165.223/logo/vbtv2.png" group-title="📺 VIP SPORT", VBTV 2
+#EXTVLCOPT:http-user-agent=http://45.144.165.223/
 http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GWk7jgFdGl1hfeZKznSlgg/ts
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
@@ -77,8 +76,15 @@ https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDQ6MzA6MjIgQU0maGFzaF92YWx1ZT1tdVhuMk03d2d4RDZVeVN2OGkrYWpnPT0mdmFsaWRtaW51dGVzPTI=
 
-
-
+#EXTINF:-1 xui-id="15855" tvg-id="" tvg-name="หนังฝรั่ง" tvg-logo="http://45.144.165.223/logo/ent/intermovie.png" group-title="📺 PREMIUM PLAY TV",หนังฝรั่ง
+#EXTVLCOPT:http-user-agent=http://45.144.165.223/
+http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GNXaNwzV0aoBpkJ1W6O9P8/ts
+#EXTINF:-1 xui-id="15856" tvg-id="" tvg-name="หนังเอเชีย" tvg-logo="http://45.144.165.223/logo/ent/asianmovie.png" group-title="📺 PREMIUM PLAY TV",หนังเอเชีย
+#EXTVLCOPT:http-user-agent=http://45.144.165.223/
+http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GE65zCy46pi5iwqJBQAWkV/ts
+#EXTINF:-1 xui-id="15857" tvg-id="" tvg-name="หนังไทย" tvg-logo="http://45.144.165.223/logo/ent/thaimovie.png" group-title="📺 PREMIUM PLAY TV",หนังไทย
+#EXTVLCOPT:http-user-agent=หhttp://45.144.165.223/
+http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2FcjXqcX-KxE_l4-JqcfFrc/ts
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
 
