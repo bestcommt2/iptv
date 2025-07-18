@@ -23,6 +23,8 @@ http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2F_fFIe4C7
 #EXTINF:-1 tvg-logo="http://45.144.165.223/logo/vbtv2.png" group-title="📺 VIP SPORT", VBTV 2
 #EXTVLCOPT:http-user-agent=http://45.144.165.223/
 http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GWk7jgFdGl1hfeZKznSlgg/ts
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1743311087.png" group-title="📺 VIP SPORT", Trueidsport1
+http://bestcommt2.github.io/m3u8/true/trueidsports1.m3u8
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
 
@@ -430,8 +432,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
-
-
+#EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/_2025_07_18_08_38_54_237.png", boxofficemovie
+http://bestcommt2.github.io/m3u8/boxofficemovie.m3u8
 
 --------------------------------------------------------------------------------------
 ###สารคดี###
@@ -485,7 +487,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
 #EXTINF:-0 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" ,TRUE ANIMALPLANET TH
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/200.ts
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 #EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="📺 ช่องสารคดีรอบโลก",TRUE Lifetime TH
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="📺 ช่องสารคดีรอบโลก", TLC TH
