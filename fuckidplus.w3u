@@ -391,7 +391,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 #EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
-
 #EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="True_Series" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True_Series
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 #EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
@@ -402,13 +401,8 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
 #EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
 #https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
-#EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
-#EXTVLCOPT:http-user-agent=adminplayidtv
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/159.ts
 #EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="TrueFilmAsia.th" tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png" group-title="📺 ช่องหนังออนไลน์",True Film Asia
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
-#EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/162.ts
 #EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="📺 ช่องหนังออนไลน์", True Crime+Investigation
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/ci.m3u8
 #EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 ช่องหนังออนไลน์",True AXN
@@ -417,10 +411,12 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="📺 ช่องหนังออนไลน์" , ROCK Action
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/rockAction.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="📺 ช่องหนังออนไลน์" , ROCK ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/190.ts
-
+#EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,WARNER TV
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
+#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 ช่องหนังออนไลน์",True AXN
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
+#EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
 
 #EXTINF:-1  group-title="📺 ช่องหนังออนไลน์"  tvg-logo="https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59-768x512.png",Cool Channel
 https://live.cool-channel.com:443/cool/live-720P.m3u8
@@ -444,6 +440,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/_2025_07_18_08_38_54_237.png", boxofficemovie
 http://bestcommt2.github.io/m3u8/boxofficemovie.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="📺 ช่องหนังออนไลน์" , ROCK ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/190.ts
+#EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
+#EXTVLCOPT:http-user-agent=adminplayidtv
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/159.ts
 --------------------------------------------------------------------------------------
 ###สารคดี###
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="📺 ช่องสารคดีรอบโลก", Khong Dee Thailand GoodTV
