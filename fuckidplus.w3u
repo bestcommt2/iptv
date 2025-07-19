@@ -354,8 +354,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/wwe.m3u8
 
 --------------------------------------------------------------------------------------
 ###ดูหนังทีวี###
-#EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="" tvg-logo="https://img2.pic.in.th/pic/_2025_07_18_08_38_54_237.png", boxofficemovie
-http://bestcommt2.github.io/m3u8/boxofficemovie.m3u8
 #EXTINF:-1 tvg-id="3BB Asian.th" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="📺 ช่องหนังออนไลน์",3BB Asian
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -416,8 +414,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/rockAction.m3u8
 #EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,WARNER TV
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
-#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="📺 ช่องหนังออนไลน์",True AXN
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
 #EXTINF:-1 group-title="📺 ช่องหนังออนไลน์" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
 
@@ -442,10 +438,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #EXTINF:-1  group-title="📺 ช่องหนังออนไลน์"  tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg",tvN
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/tvN.m3u8
-#EXTINF:-1  group-title="📺 ช่องหนังออนไลน์"  tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",Celestial-classic-movies
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/celestial-classic-movies.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="📺 ช่องหนังออนไลน์", ROCK Action
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/rockAction.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="📺 ช่องหนังออนไลน์" , ROCK ENTERTAINMENT
@@ -458,7 +450,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/rockAction.m3u8
 ###สารคดี###
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="📺 ช่องสารคดีรอบโลก", Khong Dee Thailand GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/226.ts
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/khongdeethai.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="📺 ช่องสารคดีรอบโลก", Thainess GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 #http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/227.ts
@@ -521,7 +513,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
 
 #EXTINF:-0 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
+#https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksMk8dyv/diy.png" group-title="📺 ช่องสารคดีรอบโลก",DIY Network
