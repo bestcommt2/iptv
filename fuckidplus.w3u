@@ -23,8 +23,14 @@ http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2F_fFIe4C7
 #EXTINF:-1 tvg-logo="http://45.144.165.223/logo/vbtv2.png" group-title="📺 VIP SPORT", VBTV 2
 #EXTVLCOPT:http-user-agent=http://45.144.165.223/
 http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GWk7jgFdGl1hfeZKznSlgg/ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLLEYBALL VNL 4" tvg-logo="https://img2.imgbiz.com/imgbiz/11zon_cropped.png" group-title="📺 VIP SPORT",VOLLEYBALL VNL-A
+https://keela3.com/stream/41/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1743311087.png" group-title="📺 VIP SPORT", Trueidsport1
 http://bestcommt2.github.io/m3u8/true/trueidsports1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://w7.pngwing.com/pngs/507/428/png-transparent-mutv-hd-logo-thumbnail.png" group-title="📺 VIP SPORT",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png" group-title="📺 VIP SPORT",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 --------------------------------------------------------------------------------------
 ###PREMIUM PLAY TV###
 
@@ -87,6 +93,9 @@ http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GE65zCy46
 #EXTINF:-1 xui-id="15857" tvg-id="" tvg-name="หนังไทย" tvg-logo="http://45.144.165.223/logo/ent/thaimovie.png" group-title="📺 PREMIUM PLAY TV",หนังไทย
 #EXTVLCOPT:http-user-agent=หhttp://45.144.165.223/
 http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2FcjXqcX-KxE_l4-JqcfFrc/ts
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id=" tvg-logo="https://img2.pic.in.th/pic/_2025_07_18_08_38_54_237.png", boxoffice เครดิตช่อง Moo7
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://moo7hd.myddns.me:9192/stream/boxoffice/index.m3u8
 --------------------------------------------------------------------------------------
 ###ทีวีดิจิตอลไทย###
 
@@ -439,37 +448,49 @@ http://bestcommt2.github.io/m3u8/boxofficemovie.m3u8
 ###สารคดี###
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="📺 ช่องสารคดีรอบโลก", Khong Dee Thailand GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/226.ts
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/226.ts
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="📺 ช่องสารคดีรอบโลก", Thainess GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/227.ts
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/227.ts
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="📺 ช่องสารคดีรอบโลก", Samrujlok GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/228.ts
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/228.ts
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="📺 ช่องสารคดีรอบโลก", MySci GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/229.ts
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/229.ts
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="📺 ช่องสารคดีรอบโลก", Animal Show GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/198.ts
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/198.ts
 #EXTINF:-1 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="AFN Network" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",AFN Network
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/196.ts
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/196.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6JshDmB/geo-wild.png" group-title="📺 ช่องสารคดีรอบโลก",Nat Geo Wild
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/224.ts
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/224.ts
 #EXTINF:-1 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="discoveryturbouk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/220.ts
-
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/220.ts
+#EXTINF:-1 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Explore Wild TH
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/210.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="📺 ช่องสารคดีรอบโลก",Discovery Asia TH
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/221.ts
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="📺 ช่องสารคดีรอบโลก", TLC TH
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/238.ts
+#EXTINF:-0 tvg-id="History" tvg-name="H2" tvg-logo="https://i.ibb.co/S48bjQhv/640px-History2-Logo2019.png" group-title="📺 ช่องสารคดีรอบโลก",H2
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/214.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/512px-Discovery_Science_-_Logo_2012.svg.png" group-title="📺 ช่องสารคดีรอบโลก", Discovery science
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/218.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="📺 ช่องสารคดีรอบโลก",Food Network TH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="📺 ช่องสารคดีรอบโลก",Discovery Asia TH
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/221.ts
+
 #EXTINF:-1 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png", DISCOVER TH
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
 #EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="📺 ช่องสารคดีรอบโลก", TRUE HISTORY TH
@@ -478,9 +499,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueH2.m3u8
 https://bestcommt2.github.io/m3u8/true/trueasianfoonchannel.m3u8
 #EXTINF:-1 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="📺 ช่องสารคดีรอบโลก",BBCLifestyle TH
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueBBCLIFESTYLE.m3u8
-#EXTINF:-1 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Explore Wild TH
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/210.ts
+
 #EXTINF:-0 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life TH
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
 #EXTINF:-0 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci TH
@@ -490,9 +509,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
 #EXTINF:-0 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="📺 ช่องสารคดีรอบโลก",TRUE Lifetime TH
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="📺 ช่องสารคดีรอบโลก", TLC TH
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/238.ts
+
 #EXTINF:-0 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" ,TRUE X-ZYTE
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
 
@@ -539,9 +556,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
 
 
-#EXTINF:-0 tvg-id="History" tvg-name="H2" tvg-logo="https://i.ibb.co/S48bjQhv/640px-History2-Logo2019.png" group-title="📺 ช่องสารคดีรอบโลก",H2
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/214.ts
+
 #EXTINF:-0 tvg-id="HGTV" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" group-title="📺 ช่องสารคดีรอบโลก",HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -549,9 +564,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 #EXTINF:-0 tvg-id="HGTV" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo-500x281.png" group-title="📺 ช่องสารคดีรอบโลก",National Geographic
 http://185.189.225.150:85/NationalGeographic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/512px-Discovery_Science_-_Logo_2012.svg.png" group-title="📺 ช่องสารคดีรอบโลก", Discovery science
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/218.ts
+
 
 #EXTINF:-1 group-title="📺 ช่องสารคดีรอบโลก" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature 4K(EN)
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -588,6 +601,13 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ###การ์ตูน### 
+#EXTINF:-0 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 ช่องการ์ตูน",TRUE DreamWorks TH
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/132.ts
+#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 ช่องการ์ตูน",TRUE SPARK PLAY TH
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/148.ts
+
 #EXTINF:-1 group-title="📺 ช่องการ์ตูน" tvg-logo="https://i.ibb.co/RpQdDxCS/logo-boom-ANIME.png",BOOM ANIME TH
 https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="📺 ช่องการ์ตูน",Cartoon Network TH
@@ -598,18 +618,12 @@ https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/ch
 #EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png" group-title="📺 ช่องการ์ตูน",boomerang TH
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
-#EXTINF:-0 tvg-id="" tvg-name="DreamWorks TV HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="📺 ช่องการ์ตูน",TRUE DreamWorks TH
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/132.ts
-#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png" group-title="📺 ช่องการ์ตูน",TRUE SPARK PLAY TH
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/148.ts
+
 
 #EXTINF:-1 group-title="📺 ช่องการ์ตูน" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",CARTOON NETWORK TH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
-
 #EXTINF:-1 group-title="📺 ช่องการ์ตูน" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",CARTOONITO TH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
@@ -623,16 +637,15 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
+
 #EXTINF:-1 group-title="📺 ช่องการ์ตูน" tvg-logo="https://i.ibb.co/vJdY0NG/animax.png",ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 tvg-ID="" tvg-name="ID ▎ANIPLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Aniplus.svg/revision/latest/smart/width/386/height/259?cb=20240505213033" group-title="📺 ช่องการ์ตูน",ID ▎ANIPLUS
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298504
-
 #EXTINF:-1 channel-id="60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-chno="3830" tvg-name="LEGO Kids TV" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="📺 ช่องการ์ตูน", LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="📺 ช่องการ์ตูน",Pet Collective1
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="📺 ช่องการ์ตูน",PetClub TV2
