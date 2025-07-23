@@ -463,6 +463,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/khongdeethai.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="📺 ช่องสารคดีรอบโลก", Animal Show GoodTV
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 #http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/198.ts
+
 #EXTINF:-1 group-title="📺 ช่องสารคดีรอบโลก" tvg-id="AFN Network" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",AFN Network
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 #http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/196.ts
@@ -765,3 +766,16 @@ https://psiiptv-b.sky-cdn.com/v2h13-playlist/tracks-v1a1/mono.m3u8
 https://psiiptv-b.sky-cdn.com/v2h14-playlist/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/170_x_QsStd7nhyiNa84EJBvPcgDTCA0bI3xV1.jpg" group-title="📺 ช่องสถานีมายทีวี", V2H15
 https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
+
+--------------------------------------------------------------------------------------
+###วิทยุออนไลน์###
+#EXTINF:-1 tvg-id="" tvg-name="EFM" tvg-logo="http://45.150.128.170:8080/images/dd5ba6701c128db0278b5259eb5ccdfb.png" group-title="📺 วิทยุออนไลน์",EFM
+https://atimehd.smartclick.co.th/efm/hls/efm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFM" tvg-logo="https://media.atime.live/editor/station/c50d1595-aacc-4fb6-ba94-46e91242d540.png" group-title="📺 วิทยุออนไลน์",greenwave
+https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFM" tvg-logo="https://storage.googleapis.com/atime-media-prod/editor/station/6d290933-4b7d-42f7-9833-211bfb2923af.png" group-title="📺 วิทยุออนไลน์",hotwave
+https://atimehd.smartclick.co.th/hotwave/hls/hotwave.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zbX4rrqNu8.png" group-title="📺 วิทยุออนไลน์",ลูกทุ่งมหนคร FM95
+https://rcdn.mcot.net/radiocdn_edge/fm95.stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFM" tvg-logo="https://www.coolism.net/assets/image/coolism.png" group-title="📺 วิทยุออนไลน์",CoolFM
+https://coolism-web.cdn.byteark.com/;stream/1
