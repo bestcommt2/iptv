@@ -49,6 +49,9 @@ https://www.livedoomovies.com:4432/Monomax_Live_4HD/chunklist.m3u8
 https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_5HD/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/ONE.jfif" group-title="📺 VIP SPORT",ONE Championship
+https://www.livedoomovies.com:4432/02_ONE_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://45.144.165.223/logo/vbtv1.png" group-title="📺 VIP SPORT", VBTV 1
 #EXTVLCOPT:http-user-agent=http://45.144.165.223/
 http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2F_fFIe4C7xjX_opxPplasA/ts
