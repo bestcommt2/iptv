@@ -23,7 +23,7 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_1HD/chunklist.m3u8
 https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax1/playlist.m3u8
-
+https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport2.png" group-title="📺 VIP SPORT",MONOMAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -31,6 +31,7 @@ https://stream2.aws-live-streaming.com/bbs/monomax1/playlist.m3u8
 https://219.livedoomovies.com:4431/Monomax_Live_1HD/chunklist.m3u8
 https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax2/playlist.m3u8
+https://cdn1.googlecdn.live/4k/monomax2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport3.png" group-title="📺 VIP SPORT",MONOMAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -38,21 +39,21 @@ https://stream2.aws-live-streaming.com/bbs/monomax2/playlist.m3u8
 https://www.livedoomovies.com:4432/Monomax_Live_3HD/chunklist.m3u8
 https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
 https://stream2.aws-live-streaming.com/bbs/monomax3/playlist.m3u8
-
+https://cdn1.googlecdn.live/4k/ais-monomax-3/chunks.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport4.png" group-title="📺 VIP SPORT",MONOMAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://www.livedoomovies.com:4432/Monomax_Live_4HD/chunklist.m3u8
 https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
-
+https://cdn1.googlecdn.live/4k/ais-monomax-4/chunks.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport5.png" group-title="📺 VIP SPORT",MONOMAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://www.livedoomovies.com:4432/Monomax_Live_5HD/chunklist.m3u8
 https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
-
+https://cdn1.googlecdn.live/4k/ais-monomax-5/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport6.png" group-title="📺 VIP SPORT",MONOMAX6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -271,6 +272,108 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+###ไทยพรีเมียร### 
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 2" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 3" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 4" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 5" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 6" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 7" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 8" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS FOOTBALL 9" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+http://cdn1.googlecdn.live:8081/ballsod24hrs/monomax9/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://sport.livedoomovies.com:4432/Monomax_Live_1HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://sport.livedoomovies.com:4432/Monomax_Live_2HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://sport.livedoomovies.com:4432/Monomax_Live_3HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://sport.livedoomovies.com:4432/Monomax_Live_4HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://sport.livedoomovies.com:4432/Monomax_Live_5HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://sport.livedoomovies.com:4432/Monomax_Live_6HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://sport.livedoomovies.com:4432/Monomax_Live_7HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://sport.livedoomovies.com:4432/Monomax_Live_8HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.movewinhd.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5
+https://sport.livedoomovies.com:4432/Monomax_Live_9HD/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="PlaysportsFootball1" tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 1
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball2" tvg-logo="http://103.114.203.129:8080/images/bf5a15146b7f755a21d607d13110ceb7.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 2
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball3" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 3
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball4" tvg-logo="http://103.114.203.129:8080/images/708d7bc94c83811fab912edadc113ca2.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 4
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball5" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 5
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball6" tvg-logo="http://103.114.203.129:8080/images/ca229396d71998d587d34e71eeb92567.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 6
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball7" tvg-logo="http://103.114.203.129:8080/images/c0baaf0f1df036e9a76aece9267a4b16.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 7
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball8" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 8
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL008/HLS/TL008.m3u8 
+#EXTINF:-1 tvg-name="PlaysportsFootball8" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png" group-title="📺 ไทยพรีเมียร์",PLAY SPORTS FOOTBALL 9
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL009/HLS/TL009.m3u8 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ###กีฬาไทย### 
 #EXTINF:-1 tvg-id="3BB Sports One.th" tvg-name="3BB Sports One.th" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="📺 ช่องกีฬา", 3BB Sport One
